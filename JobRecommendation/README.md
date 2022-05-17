@@ -15,7 +15,7 @@
 3. Language matching
 4. Location matching
 5. Integration and ranking
-#### Ouput: Job ranking
+#### Output: Job ranking
 
 ## *support*
 ### This directory includes a number of scripts and files, which can be used to generate job data for demostrating the function.
