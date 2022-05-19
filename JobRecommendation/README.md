@@ -3,11 +3,14 @@
 ## *demo_results.xlsx*
 ### This excel file is the output of the **Job Recommendation** demostration.
 
+## *JobRecommendation.ipynb*
+### This notebook is to display how *JobRecommendation.py* works. They are identical in function.
+
 ## *JobRecommendation.py*
 ### This script is the main body of **Job Recommendation** function. 
 #### Input:
 1. Database of jobs
-2. Profile of one candidate
+2. Profile of a candidate
 3. Recommendation options
 #### Components:
 1. Hard skill matching

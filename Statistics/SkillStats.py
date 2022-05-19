@@ -1,77 +1,51 @@
+'''
+This script generates **skill_update.txt** and **skill_compare.txt**.
+Input:
+    1. New database of jobs
+    2. *skill.txt*
+Output:
+    1. *skill_update.txt*
+    2. *skill_compare.txt*
+'''
+
 import pandas as pd
 
-job_df = pd.read_json("support/data.json")
+# TODO: insert real data instead of demo data below
+jobs = pd.read_json("support/data.json")
 
-job_id = []
-hss = []
-dict = {}
+# record new data
+data = []
+for i in range(len(jobs)):
+    data.append(jobs['requirements'][i]['hard_skills'])
 
-##############################RECORDING NEW CLUSTER OF DATABASE#######################################
-for r in results:
-    hs = []
-    for i in r['requirements']['hard_skills']:
-        hs.append(i)
-    hss.append(hs)
-job_df = pd.DataFrame({'hardskills': hss})
-for i in range(len(job_df)):
-    for key in job_df.iloc[i, 0]:
-        dict[key] = dict.get(key, 0) + 1
-file = open('skillnew.txt', 'w') 
-for k,v in dict.items():
-    file.write(str(k)+'&&&'+str(v)+'\n')
+count = {}
+for i in range(len(data)):
+    for s in data[i]:
+        count[s] = count.get(s, 0) + 1
+
+file = open("support/skill_update.txt", 'w') 
+for k, v in count.items():
+    file.write(str(k) + ': ' + str(v) + '\n')
 file.close()
-##################################LOADING OLD CLUSTER FROM THE FILE##################################
-old_dict = {}
-file = open('skill.txt','r')
-for line in file.readlines():
-    line = line.strip()
-    k = line.split('&&&')[0]
-    v = line.split('&&&')[1]
-    old_dict[k] = int(v)
+
+# load old record
+old_count = {}
+file = open("support/skill.txt", 'r')
+for l in file.readlines():
+    l = l.strip()
+    k = l.split(': ')[0]
+    v = l.split(': ')[1]
+    old_count[k] = int(v)
 file.close()
-#####################################COMPARING TWO CLUSTER FILE#########################################
+
+# compare two records
 compare_dict = {}
-for k,v in dict.items():
-    if dict.get(k, 0) != old_dict.get(k, 0):
-        compare_dict[k] = dict.get(k, 0) - old_dict.get(k, 0)
-sorted_compare_dict = sorted(compare_dict.items(), key=lambda d:d[1], reverse=True)
-file=open('skillcompare.txt','w')
-file1 = open('skillgrowing.txt', 'w')
-for line in sorted_compare_dict:
-    for a in line:
-        if(isinstance(a, int) == 1):
-            file.write(str(a))
-        if(isinstance(a, int) == 0):
-            if(old_dict.get(a, 0) != 0):   
-                temp = float((dict.get(a, 0) - old_dict.get(a, 0)) / (old_dict.get(a, 0)))
-                temp = int(temp * 10000)
-                file1.write(a)
-                file1.write('&&&')
-                file1.write(str(temp))
-                file1.write('\n')
-            file.write(a)
-            file.write('&&&')
-    file.write('\n')
-file.close()
-file1.close()
+for k, v in count.items():
+    if k in old_count and count[k] != old_count[k]:
+        compare_dict[k] = (count[k] - old_count[k]) / old_count[k]
+compare_list = sorted(compare_dict.items(), key=lambda x: x[1], reverse=True)
 
-growing_dict = {}
-file = open('skillgrowing.txt','r')
-for line in file.readlines():
-    line = line.strip()
-    k = line.split('&&&')[0]
-    v = line.split('&&&')[1]
-    growing_dict[k] = int(v)
-file.close()
-
-sorted_growing_dict = sorted(growing_dict.items(), key=lambda d:d[1], reverse=True)
-file = open('skillgrowing.txt', 'w')
-for line in sorted_growing_dict:
-      for a in line:
-        if(isinstance(a, int) == 1):
-            file.write(str(float(a/10000)))
-        if(isinstance(a, int) == 0):
-            file.write(a)
-            file.write('&&&')
-      file.write('\n')
+file = open("support/skill_compare.txt", 'w')
+for r in compare_list:
+    file.write(r[0] + ': ' + ("%.2f" % (r[1] * 100)) + '%' + '\n')
 file.close()
