@@ -3,8 +3,9 @@
 ## *CareerPlanning*
 ### This directory includes several functions that utilize job data and attempt to give advice on user's career planning.
 #### Functions:
-1. Salary Estimation
-2. Occupation Transition
+1. Skill recommendation
+2. Salary Estimation
+3. Occupation Transition
 
 ## *JobRecommendation*
 ### This directory includes our primary function, i.e., job recommendation, as well as preprocessing of raw data.
