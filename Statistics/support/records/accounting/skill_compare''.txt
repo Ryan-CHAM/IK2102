@@ -1,0 +1,96 @@
+code: 200.00%
+business management: 150.00%
+peachtree accounting system: 100.00%
+rapid: 100.00%
+vlookup: 100.00%
+information system: 100.00%
+hk inland revenue rules: 100.00%
+pivot table: 100.00%
+server: 100.00%
+companies ordinance: 75.00%
+marco: 66.67%
+frr: 66.67%
+exchange: 57.14%
+swift: 50.00%
+dcl: 50.00%
+system implementation: 50.00%
+simple: 50.00%
+wan: 50.00%
+java: 50.00%
+system design: 50.00%
+mathematics: 50.00%
+c#: 50.00%
+data management: 50.00%
+vba: 44.44%
+maintenance: 40.00%
+pc: 40.00%
+ifrs: 36.36%
+acumen: 35.29%
+inform: 33.33%
+billing system: 33.33%
+gm: 33.33%
+no: 33.33%
+account opening: 33.33%
+hong kong institute of certified public accountants: 33.33%
+html: 33.33%
+crypto: 33.33%
+management reports: 30.77%
+bi: 30.00%
+internal control: 28.57%
+erp: 26.67%
+accounting softwares: 25.00%
+c: 25.00%
+flex accounting: 25.00%
+crs: 25.00%
+fatca: 25.00%
+sql: 25.00%
+dynamic: 23.68%
+powerpoint: 22.95%
+r: 22.22%
+flex system: 21.43%
+problem solving skills: 20.97%
+sap: 20.93%
+cpa: 20.41%
+project management: 20.00%
+typing: 20.00%
+spreadsheet: 20.00%
+accounting systems: 19.57%
+acca: 19.44%
+microsoft office suite: 19.35%
+microsoft office: 19.35%
+word: 18.92%
+chinese word processing: 18.60%
+hkicpa: 17.99%
+analytical skills: 17.86%
+tableau: 16.67%
+programming: 16.67%
+microsoft excel: 16.29%
+ar: 15.38%
+analysis: 15.09%
+make: 14.29%
+sizable companies: 14.29%
+writing skills: 14.29%
+microsoft word: 13.56%
+computer skills: 13.16%
+plus: 12.63%
+presentations: 12.50%
+peachtree: 12.50%
+e-commerce: 12.50%
+processing: 12.50%
+focus: 12.50%
+oracle system: 12.50%
+small: 12.50%
+hkfrs: 12.50%
+prc accounting: 11.76%
+financial analysis: 9.52%
+fmcg industry: 9.09%
+documentation: 8.33%
+ap: 8.33%
+scheme: 7.14%
+erp systems: 7.14%
+lcc: 7.14%
+outlook: 6.67%
+professional qualifications: 6.25%
+myob: 5.88%
+oracle: 5.41%
+basic: 4.55%

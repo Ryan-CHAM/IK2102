@@ -1,0 +1,206 @@
+problem solving skills: 90
+dynamic: 51
+acumen: 53
+internal control: 32
+plus: 122
+oracle: 46
+word: 146
+powerpoint: 85
+cpa: 139
+microsoft office suite: 211
+acca: 141
+microsoft excel: 352
+accounting systems: 57
+hkicpa: 180
+scheme: 17
+microsoft word: 75
+erp systems: 51
+basic: 27
+microsoft office: 42
+bi: 15
+analytical skills: 75
+pos system: 2
+presentations: 11
+cfa: 17
+analysis: 75
+chinese word processing: 57
+peachtree: 18
+pc knowledge: 21
+myob: 19
+swift: 3
+xero: 10
+accounting softwares: 29
+computer skills: 54
+peachtree accounting system: 3
+mpf regulations: 1
+inform: 6
+reason: 2
+management reports: 21
+outlook: 18
+prc accounting: 27
+e-commerce: 10
+financial analytical skills: 3
+billing system: 4
+make: 28
+vendor: 7
+documentation: 17
+financial analysis: 29
+ems: 1
+lcc: 32
+fmcg industry: 12
+logical skills: 1
+project management: 27
+data analytics: 13
+gm: 13
+r: 11
+macro: 7
+mobile: 8
+sap: 64
+fms: 1
+c: 15
+whatsapp: 3
+myob software: 1
+typing: 6
+erp: 22
+flex system: 18
+sizable companies: 8
+io: 1
+quickbooks: 3
+rapid: 3
+processing: 22
+ap: 15
+ar: 19
+integration: 5
+investment products: 3
+dcl: 4
+maintenance: 8
+writing skills: 10
+ifrs: 15
+fun: 5
+joy: 3
+flex accounting: 13
+no: 31
+pc applications: 3
+airlines: 4
+word processing: 6
+vlookup: 4
+microsoft applications: 2
+focus: 13
+workshops: 1
+pc: 14
+oracle system: 9
+professional qualifications: 22
+information system: 2
+crs: 6
+fatca: 6
+small: 10
+accpac: 1
+system implementation: 8
+oracle erp: 2
+chinese input: 3
+chinese and english word processing: 1
+simple: 4
+wan: 5
+prc manufacturing: 6
+vba: 17
+ai: 1
+python: 5
+agile: 8
+words: 6
+flex: 2
+business intelligence: 6
+presentation skill: 3
+databases: 5
+go: 5
+companies ordinance: 10
+alteryx: 5
+spreadsheet: 6
+salesforce: 2
+tableau: 7
+sql: 12
+exchange: 13
+chinese wp: 2
+bloomberg: 1
+frm: 5
+account opening: 4
+marco: 5
+hkfrs: 9
+hk inland revenue rules: 2
+microsoft powerpoint: 4
+ladder: 1
+code: 4
+r&d: 1
+focal: 1
+java: 3
+system design: 3
+programming: 7
+mathematics: 3
+c#: 3
+hkis: 1
+rics: 1
+facilities management: 1
+cad: 2
+adobe photoshop: 2
+adobe illustrator: 4
+solidworks: 1
+ecc: 1
+pos: 2
+hong kong institute of certified public accountants: 4
+association of chartered certified accountants: 1
+securities and futures ordinance: 1
+credit analysis: 3
+data management: 3
+ms windows: 1
+data mining: 1
+hksi: 1
+web technologies: 1
+import and export: 2
+sales support: 1
+netsuite system: 1
+safe: 1
+six sigma: 1
+pmp: 1
+business management: 6
+azure: 1
+pivot table: 2
+pe: 3
+frr: 7
+sage peachtree: 1
+graphics: 3
+adobe creative suite: 1
+aml: 1
+cdd: 1
+customer due diligence: 1
+anti-money laundering: 1
+kyc: 1
+certified public accountants: 1
+server: 3
+typewriting: 1
+html: 5
+big 4 cpa firms: 1
+accounting and reporting software: 1
+crypto: 5
+gap: 1
+in-design: 1
+adobe acrobat: 1
+photoshop: 2
+web: 1
+vc: 1
+hkma: 1
+sfo: 1
+airports: 1
+blockchain: 1
+crypto currency: 1
+goal: 2
+private equity: 4
+flash: 1
+3d software: 1
+illustrator: 1
+deployment: 1
+acrobat: 1
+adobe indesign: 1
+translation: 1
+sehk: 2
+red: 1
+cobra: 1
+mad: 1

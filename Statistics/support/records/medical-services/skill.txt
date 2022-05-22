@@ -1,0 +1,121 @@
+no: 31
+problem solving skills: 41
+analysis: 26
+microsoft office suite: 45
+analytical skills: 6
+microsoft excel: 49
+basic: 30
+chinese word processing: 19
+microsoft word: 25
+typing: 3
+word: 21
+data mining: 1
+data analytics: 6
+microsoft office: 20
+powerpoint: 24
+mobile: 3
+business management: 4
+max: 2
+plus: 14
+chinese & english typing: 1
+data management: 2
+make: 15
+computer operation knowledge: 5
+pc knowledge: 17
+pc: 2
+computer skills: 19
+scheme: 14
+simple: 1
+facebook: 1
+seo: 1
+multimedia: 1
+sem: 1
+hope: 3
+whatsapp: 9
+dynamic: 14
+c: 11
+pilot: 2
+databases: 6
+six sigma: 3
+lean: 3
+pmp: 2
+wan: 3
+autocad: 3
+animal science: 2
+maintenance: 16
+animal husbandry: 2
+animal welfare: 2
+translation: 2
+acumen: 4
+fmcg industry: 1
+documentation: 14
+batch: 3
+project management: 2
+icon: 3
+plc: 3
+project management professional: 3
+r&d: 5
+small: 2
+words: 1
+r: 5
+focus: 10
+go: 2
+briefings: 1
+rapid: 2
+mouse: 7
+animal handling: 3
+george: 3
+animal studies: 4
+safe: 5
+microsoft applications: 2
+fun: 4
+pc applications: 2
+workshops: 1
+presentation skill: 1
+oracle: 1
+erp: 1
+presentations: 4
+processing: 3
+code: 3
+hong kong employment ordinance: 2
+agile: 4
+web design: 2
+adobe xd: 2
+adobe photoshop: 2
+html: 5
+javascript: 2
+programming: 4
+css: 2
+it knowledge: 2
+statistical analysis: 3
+mammography: 7
+writing skills: 1
+bi: 12
+facilities management: 1
+lis: 2
+dexa: 2
+msl: 2
+sr: 2
+animal health: 1
+charity: 1
+ai: 4
+integration: 6
+r language: 1
+animal work: 3
+general radiology: 1
+stata: 3
+sas: 3
+goal: 2
+cad: 1
+submission process: 1
+alice: 1
+professional qualifications: 1
+system design: 1
+pc literate: 2
+ms windows: 1
+web: 3
+salesforce: 1
+outlook: 1
+adobe creative suite: 1
+hksi: 3
+clean: 1

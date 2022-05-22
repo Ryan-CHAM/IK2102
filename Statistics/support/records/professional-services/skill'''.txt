@@ -1,0 +1,178 @@
+cpa: 15
+simple: 1
+microsoft excel: 68
+chinese word processing: 47
+powerpoint: 43
+documentation: 10
+microsoft word: 30
+financial analysis: 4
+fmcg industry: 1
+sap: 8
+analytical skills: 22
+sizable companies: 2
+c: 7
+presentations: 3
+python: 8
+r: 1
+sql: 7
+programming: 4
+inform: 6
+securities and futures ordinance: 11
+microsoft office suite: 52
+r&d: 1
+sales support: 1
+ai: 5
+analysis: 32
+autocad: 2
+translation: 33
+plus: 37
+acumen: 13
+word: 21
+cfa: 4
+bloomberg: 1
+typing: 9
+problem solving skills: 26
+ip: 5
+crypto: 1
+presentation skill: 1
+acca: 5
+microsoft office: 10
+writing skills: 9
+dynamic: 8
+mobile: 5
+project management: 13
+application system: 1
+pc knowledge: 4
+pc: 3
+scheme: 3
+integration: 7
+make: 15
+focus: 5
+rics: 2
+hkis: 2
+maintenance: 6
+professional qualifications: 3
+processing: 6
+google analytics: 3
+web: 4
+react: 1
+php: 2
+html: 3
+dbms: 1
+javascript: 1
+order processing: 1
+css: 1
+data analytics: 6
+no: 7
+outlook: 9
+chinese wp: 1
+pos: 2
+words: 2
+fun: 3
+lean: 1
+agile: 5
+information system: 4
+reason: 1
+six sigma: 1
+pmp: 2
+briefings: 2
+workshops: 4
+web browsers: 1
+bc: 1
+android: 1
+aml: 7
+computer skills: 14
+companies ordinance: 15
+azure: 1
+aws: 2
+qlikview: 1
+vba: 5
+server: 1
+bi: 2
+erp: 4
+databases: 1
+alteryx: 1
+oracle: 5
+xero: 1
+hkicpa: 4
+java: 4
+linux: 1
+c++: 2
+unix shell: 1
+tableau: 6
+pl: 1
+adobe: 2
+ms sql: 1
+data manipulation: 1
+windows server: 1
+hkma: 3
+investment products: 1
+pc applications: 3
+business management: 6
+salesforce: 4
+code: 6
+exchange: 6
+small: 2
+private equity: 2
+office 365: 1
+vendor: 3
+data visualization: 4
+video editing: 1
+adobe photoshop: 1
+multimedia: 1
+basic: 6
+pivot table: 2
+vlookup: 1
+crs: 1
+account opening: 1
+fatca: 1
+kyc: 4
+nice: 1
+sfo: 1
+cima: 1
+computer systems: 2
+supply planning: 1
+demand planning: 1
+cdd: 1
+abc: 1
+seo: 1
+sem: 1
+business intelligence: 2
+wan: 3
+hksi: 1
+sas: 1
+data warehouse: 1
+data mining: 1
+web analytics: 1
+amazon: 1
+devops: 2
+scala: 1
+spark: 1
+s3: 1
+whatsapp: 1
+container: 1
+pe: 1
+facebook: 1
+peachtree: 1
+rapid: 2
+acrobat: 1
+word processing: 2
+erp systems: 1
+wordpress: 1
+microsoft applications: 1
+go: 1
+ifrs: 1
+chill: 1
+internal control: 1
+e-commerce: 1
+fms: 1
+gap: 1
+deployment: 1
+anti-money laundering: 1
+macro: 1
+sfc license: 1
+vpn: 1
+clean: 1
+transcript: 1
+tea: 1
+id: 1

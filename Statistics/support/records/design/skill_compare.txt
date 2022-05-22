@@ -1,0 +1,87 @@
+microsoft applications: 100.00%
+simple: 100.00%
+inform: 100.00%
+microsoft powerpoint: 100.00%
+scratch: 50.00%
+pos: 50.00%
+php: 40.00%
+creative design: 35.71%
+code: 33.33%
+react: 33.33%
+workshops: 33.33%
+android: 33.33%
+translation: 33.33%
+revit: 33.33%
+goal: 33.33%
+mobile: 30.77%
+focus: 28.57%
+analytical skills: 28.57%
+3dmax: 25.00%
+shopify: 25.00%
+go: 25.00%
+microsoft project: 25.00%
+basic: 23.53%
+analysis: 22.22%
+dynamic: 20.00%
+r&d: 20.00%
+javascript: 20.00%
+3d modelling: 20.00%
+c: 20.00%
+fun: 20.00%
+web development: 20.00%
+adobe xd: 20.00%
+web: 19.67%
+project management: 18.18%
+final cut pro: 18.18%
+problem solving skills: 16.67%
+logo: 16.67%
+video editing: 16.67%
+web design: 16.67%
+google analytics: 16.67%
+bim: 16.67%
+visual design: 15.79%
+small: 15.38%
+plus: 14.94%
+computer skills: 14.29%
+powerpoint: 14.29%
+writing skills: 14.29%
+adobe premiere: 14.29%
+microsoft word: 13.33%
+cad: 12.50%
+sketchup: 12.50%
+visual communication: 12.50%
+ai: 12.20%
+facebook: 11.54%
+html: 11.11%
+rapid: 11.11%
+in-design: 10.91%
+multimedia: 10.64%
+microsoft office suite: 10.53%
+make: 10.00%
+word: 10.00%
+e-commerce: 10.00%
+mac environment: 10.00%
+after effects: 9.88%
+3d software: 9.52%
+pc: 9.52%
+graphics: 9.43%
+rhino: 9.09%
+agile: 9.09%
+wordpress: 9.09%
+illustrator: 8.91%
+adobe: 8.70%
+adobe creative suite: 8.62%
+adobe photoshop: 8.51%
+microsoft excel: 8.33%
+visual merchandising: 8.33%
+maya: 8.33%
+css: 8.16%
+photoshop: 7.95%
+autocad: 7.75%
+no: 7.41%
+flash: 6.25%
+presentations: 4.55%
+illustration: 4.17%
+adobe illustrator: 3.64%
+max: 3.33%
+premiere: 2.63%

@@ -1,0 +1,154 @@
+microsoft excel: 232
+word processing: 5
+word: 105
+chinese word processing: 144
+microsoft office: 49
+sizable companies: 15
+facilities management: 4
+problem solving skills: 43
+make: 16
+c: 18
+basic: 12
+code: 3
+facebook: 2
+maintenance: 17
+go: 6
+charity: 2
+powerpoint: 125
+microsoft office suite: 158
+pc knowledge: 19
+microsoft word: 85
+computer skills: 29
+no: 21
+security management: 1
+analytical skills: 30
+plus: 41
+writing skills: 5
+ladder: 1
+outlook: 24
+scheme: 10
+small: 12
+pc: 9
+ipl: 4
+hong kong employment ordinance: 24
+words: 4
+video editing: 6
+project management: 27
+focus: 15
+processing: 19
+microsoft applications: 5
+fun: 5
+vendor: 3
+numerical skills: 2
+translation: 2
+pc operations: 2
+mobile: 3
+photoshop: 7
+microsoft powerpoint: 6
+wan: 8
+dynamic: 36
+agile: 7
+analysis: 26
+rapid: 4
+typing: 12
+sap: 7
+aircraft: 4
+information system: 10
+erp: 3
+mpf regulations: 6
+illustrator: 2
+adobe software: 1
+spreadsheet: 1
+pivot table: 6
+vlookup: 4
+id: 2
+management reports: 2
+tea: 2
+transcript: 1
+pc applications: 6
+professional qualifications: 3
+business management: 13
+myob: 1
+computer operation knowledge: 1
+oracle: 4
+private equity: 2
+pipelines: 1
+acumen: 7
+ap: 2
+autocad: 2
+workshops: 6
+cfa: 2
+data analytics: 1
+deployment: 2
+compass: 1
+e-commerce: 1
+documentation: 6
+ai: 3
+hksi: 1
+acrobat: 1
+safe: 2
+graphics: 2
+whatsapp: 2
+bookings: 1
+venture capital: 1
+financial analysis: 1
+presentations: 4
+integration: 3
+nice: 2
+react: 2
+web: 2
+data management: 2
+azure: 3
+devops: 1
+bi: 2
+chinese and english word processing: 3
+multimedia: 2
+bloomberg: 1
+cpa: 3
+frm: 1
+salesforce: 1
+goal: 3
+lean: 2
+alice: 1
+adobe illustrator: 1
+office software: 2
+system implementation: 1
+sql: 1
+server: 1
+airlines: 1
+typewriting: 1
+acca: 1
+hkicpa: 1
+erp systems: 2
+ar: 1
+budget management: 1
+blockchain: 1
+exchange: 1
+crypto currency: 1
+fl: 1
+presentation skill: 1
+power point: 3
+programming: 2
+abap: 1
+chill: 1
+chinese input: 1
+final cut pro: 1
+microsoft project: 1
+databases: 1
+accounting softwares: 1
+git: 1
+java: 1
+ms sql server: 1
+amazon: 1
+objective-c: 1
+rpa: 1
+swift: 1
+r: 1
+kotlin: 1
+android: 1
+sdlc: 1
+pmp: 1
+chinese wp: 1
+illustration: 1
+simple: 1
+import and export: 1

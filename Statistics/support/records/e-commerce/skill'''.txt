@@ -1,0 +1,216 @@
+mobile: 28
+project management: 46
+investment products: 1
+acumen: 15
+dc: 2
+basic: 12
+small: 5
+analysis: 55
+dynamic: 27
+problem solving skills: 67
+make: 29
+agile: 16
+e-commerce: 115
+bi: 10
+salesforce: 8
+hvac: 1
+devops: 3
+erp: 7
+rpa: 1
+integration: 9
+oracle: 7
+microsoft office suite: 40
+chinese word processing: 26
+web application development: 3
+php: 10
+aws: 10
+ms sql: 5
+google analytics: 29
+plus: 56
+html: 14
+css: 13
+photoshop: 26
+data analytics: 7
+scheme: 6
+microsoft excel: 78
+word: 30
+powerpoint: 39
+javascript: 13
+programming: 10
+clean: 1
+no: 10
+microsoft word: 16
+goal: 9
+safe: 5
+tom: 1
+analytics tools: 7
+fun: 8
+airlines: 4
+wechat: 8
+lcc: 2
+adobe: 3
+documentation: 13
+code: 3
+web: 23
+writing skills: 3
+google trends: 2
+fmcg industry: 5
+information system: 8
+web analytics: 3
+computer skills: 15
+simple: 4
+amazon: 8
+tableau: 9
+facebook: 18
+web design: 5
+seo: 16
+adobe photoshop: 8
+vendor: 6
+in-design: 4
+dreamweaver: 2
+service level agreement: 1
+web presence: 1
+data management: 2
+sales support: 3
+wordpress: 5
+maintenance: 12
+ccnp: 2
+ccna: 3
+ip: 4
+deployment: 6
+analytical skills: 27
+translation: 2
+spring: 2
+presentation skill: 2
+luxury industry: 3
+presentations: 5
+inform: 2
+crypto currency: 1
+sem: 12
+business intelligence: 2
+adobe illustrator: 6
+sql: 13
+c#: 5
+s3: 1
+microsoft office: 17
+microsoft powerpoint: 2
+whatsapp: 6
+order processing: 4
+exchange: 5
+vlookup: 1
+pivot table: 2
+adwords: 4
+final cut pro: 1
+adobe premiere pro: 2
+after effects: 5
+max: 1
+adobe creative suite: 2
+vba: 2
+typing: 4
+outlook: 5
+shopify: 9
+python: 9
+adobe xd: 2
+illustrator: 13
+android: 4
+itil: 2
+hyper-v: 1
+virtualization technology: 1
+linux: 1
+vmware: 1
+active directory: 1
+mcse: 1
+aml: 2
+kyc: 2
+go: 4
+lean: 3
+six sigma: 3
+video editing: 3
+multimedia: 6
+sla: 1
+web development: 4
+ai: 5
+adobe cs: 1
+management reports: 1
+pc knowledge: 1
+chinese wp: 1
+web traffic: 1
+customer journeys: 1
+web technologies: 4
+demand planning: 1
+project management professional: 1
+azure: 2
+premiere: 2
+react: 7
+business management: 9
+words: 3
+crypto: 1
+java: 10
+joy: 1
+word processing: 1
+pc: 2
+planner: 3
+budget management: 1
+gap: 1
+visual merchandising: 2
+power point: 4
+microservices: 3
+react native: 3
+ease: 1
+flash: 1
+web & mobile: 1
+kotlin: 1
+graphics: 4
+premiere pro: 2
+computing platforms: 1
+pos: 2
+web applications: 2
+ms sql server: 1
+focus: 5
+hardware: 2
+supply planning: 1
+sap: 2
+rapid: 2
+technical analysis: 1
+pmp: 1
+c: 2
+cobol: 1
+git: 5
+angular: 1
+typescript: 1
+jquery: 2
+sizable companies: 1
+numerical skills: 2
+bookings: 1
+web sales: 2
+dart: 1
+data network: 1
+data visualization: 2
+r: 1
+restful api: 1
+cloud environment: 1
+blockchain: 1
+ajax: 1
+erp systems: 1
+c++: 1
+pipelines: 1
+web-based applications: 1
+data warehouse: 1
+databases: 1
+tea: 1
+tcp: 1
+router: 1
+wan: 1
+macro: 1
+marketing skills: 1
+seller central: 1
+cpa: 2
+merchandizing: 1
+web application design: 1
+container: 1
+acca: 1
+chill: 1
+fatca: 1
+counter-terrorist financing: 1
+anti-money laundering: 1
+crs reporting: 1

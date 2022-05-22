@@ -1,0 +1,57 @@
+writing skills: 150.00%
+azure: 100.00%
+macro: 100.00%
+financial analysis: 100.00%
+vlookup: 60.00%
+pmp: 50.00%
+accounting systems: 50.00%
+translation: 50.00%
+solidworks: 50.00%
+id: 50.00%
+graphics: 50.00%
+basic: 40.00%
+bi: 33.33%
+web: 33.33%
+pivot table: 33.33%
+hardware: 33.33%
+3d software: 33.33%
+ai: 25.00%
+programming: 25.00%
+agile: 25.00%
+go: 25.00%
+autocad: 25.00%
+outlook: 20.00%
+marco: 20.00%
+in-design: 20.00%
+typing: 20.00%
+vendor: 18.18%
+cad: 16.67%
+six sigma: 16.67%
+microsoft office: 15.38%
+pc: 14.29%
+databases: 14.29%
+pc applications: 13.33%
+erp systems: 13.33%
+adobe illustrator: 12.50%
+focus: 12.50%
+rapid: 12.50%
+microsoft applications: 11.11%
+lean: 10.53%
+project management: 10.42%
+microsoft office suite: 9.57%
+documentation: 8.82%
+microsoft excel: 8.72%
+sap: 8.33%
+analysis: 8.16%
+problem solving skills: 7.83%
+analytical skills: 7.50%
+r&d: 7.14%
+plus: 6.56%
+word: 6.17%
+computer skills: 6.06%
+pc knowledge: 5.88%
+powerpoint: 5.63%
+chinese word processing: 5.56%
+make: 3.03%
+maintenance: 2.78%
+microsoft word: 2.70%

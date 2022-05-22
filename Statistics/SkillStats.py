@@ -1,10 +1,10 @@
 '''
-This script generates **skill_update.txt** and **skill_compare.txt**.
+This script generates *skill.txt* and *skill_compare.txt* in *support/records/*.
 Input:
     1. New database of jobs
-    2. *skill.txt*
+    2. *skill'.txt*
 Output:
-    1. *skill_update.txt*
+    1. *skill.txt*
     2. *skill_compare.txt*
 '''
 
@@ -23,14 +23,14 @@ for i in range(len(data)):
     for s in data[i]:
         count[s] = count.get(s, 0) + 1
 
-file = open("support/skill_update.txt", 'w') 
+file = open("support/records/skill.txt", 'w') 
 for k, v in count.items():
     file.write(str(k) + ': ' + str(v) + '\n')
 file.close()
 
 # load old record
 old_count = {}
-file = open("support/skill.txt", 'r')
+file = open("support/records/skill'.txt", 'r')
 for l in file.readlines():
     l = l.strip()
     k = l.split(': ')[0]
@@ -45,7 +45,7 @@ for k, v in count.items():
         compare_dict[k] = (count[k] - old_count[k]) / old_count[k]
 compare_list = sorted(compare_dict.items(), key=lambda x: x[1], reverse=True)
 
-file = open("support/skill_compare.txt", 'w')
+file = open("support/records/skill_compare.txt", 'w')
 for r in compare_list:
     file.write(r[0] + ': ' + ("%.2f" % (r[1] * 100)) + '%' + '\n')
 file.close()

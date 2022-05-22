@@ -1,0 +1,33 @@
+airlines: 100.00%
+project management: 100.00%
+seo: 100.00%
+sem: 100.00%
+web analytics: 100.00%
+wan: 100.00%
+google analytics: 50.00%
+pc: 50.00%
+processing: 50.00%
+typing: 33.33%
+hope: 33.33%
+basic: 33.33%
+scheme: 25.00%
+c: 25.00%
+analytical skills: 25.00%
+powerpoint: 22.22%
+facebook: 20.00%
+hksi: 20.00%
+microsoft office: 20.00%
+microsoft excel: 16.67%
+fun: 16.67%
+microsoft office suite: 15.15%
+problem solving skills: 14.29%
+microsoft word: 14.29%
+photoshop: 14.29%
+chinese word processing: 13.64%
+no: 13.64%
+word: 12.50%
+dynamic: 11.11%
+plus: 10.00%
+make: 10.00%
+computer skills: 9.09%
+whatsapp: 3.92%

@@ -1,0 +1,460 @@
+ra type: 200.00%
+business software: 200.00%
+banking practice: 150.00%
+acams: 100.00%
+tutor: 100.00%
+data storage: 100.00%
+finance systems: 100.00%
+lua: 100.00%
+ruby on rails: 100.00%
+pearl: 100.00%
+snowball: 100.00%
+animal models: 100.00%
+remote support: 100.00%
+incoming and outgoing swift payments: 100.00%
+web products: 100.00%
+cima: 100.00%
+assembly language: 100.00%
+tmg: 100.00%
+basic it knowledge: 100.00%
+gpo: 100.00%
+odbc: 100.00%
+es: 100.00%
+rsl: 100.00%
+groovy: 100.00%
+huawei cloud: 100.00%
+tex: 100.00%
+stata: 100.00%
+centos: 100.00%
+mobile device: 80.00%
+microsoft exchange: 75.00%
+jsf: 66.67%
+mac os: 62.50%
+luxury industry: 62.50%
+struts: 60.00%
+submission process: 60.00%
+aircraft maintenance: 60.00%
+cft: 55.56%
+web presence: 50.00%
+peachtree accounting system: 50.00%
+fl: 50.00%
+creative suite: 50.00%
+system upgrades: 50.00%
+compass: 50.00%
+animal studies: 50.00%
+sfc rules: 50.00%
+msl: 50.00%
+first aid: 50.00%
+icon: 50.00%
+csp: 50.00%
+av system: 50.00%
+informix: 50.00%
+dart: 50.00%
+data manipulation: 50.00%
+sehk: 50.00%
+airworthiness: 50.00%
+airframe: 50.00%
+educational projects: 50.00%
+scrum framework: 50.00%
+alice: 50.00%
+prc accounting: 42.86%
+logo: 42.86%
+hkma regulatory reporting: 40.00%
+scratch: 40.00%
+acc: 40.00%
+focal: 40.00%
+windows 10: 40.00%
+typewriting: 40.00%
+cdd: 38.89%
+network management: 38.46%
+crypto: 37.50%
+sd-wan: 37.50%
+adobe premiere: 37.50%
+harbour: 37.50%
+mathematics: 35.71%
+qlikview: 35.29%
+sas: 34.15%
+dns: 33.33%
+unity: 33.33%
+citrix: 33.33%
+cobra: 33.33%
+3pl management: 33.33%
+web application security: 33.33%
+visual communication: 33.33%
+hong kong construction and building related legislations: 33.33%
+linux platforms: 33.33%
+bank documents: 33.33%
+customer journeys: 33.33%
+it knowledge: 33.33%
+aml screening: 33.33%
+creative design: 33.33%
+windows 7: 33.33%
+the hong kong institution of engineers: 33.33%
+george: 33.33%
+unified communication: 33.33%
+investment products: 32.43%
+objective-c: 31.82%
+container: 31.82%
+vpn: 31.58%
+hvac: 31.58%
+iiqe: 31.48%
+plc: 31.25%
+firewall: 30.77%
+signal: 30.77%
+certificate of registration of electrical worker: 30.00%
+nas: 30.00%
+cctv: 30.00%
+gap: 29.17%
+react native: 28.57%
+bookings: 28.57%
+android sdk: 28.57%
+cloud environment: 28.57%
+bim: 28.57%
+hkis: 28.57%
+rics: 28.57%
+mad: 28.57%
+aml: 28.12%
+tcp: 27.87%
+adobe photoshop: 27.68%
+ar: 27.59%
+xero: 27.27%
+ccass: 26.67%
+kyc: 26.53%
+switch: 26.47%
+office 365: 26.09%
+illustration: 25.81%
+pl: 25.81%
+vba: 25.69%
+graphics: 25.61%
+pc applications: 25.45%
+itil: 25.37%
+ip: 25.00%
+rpa: 25.00%
+alteryx: 25.00%
+data mining: 25.00%
+acrobat: 25.00%
+ipl: 25.00%
+adobe xd: 25.00%
+shipping document: 25.00%
+iis: 25.00%
+flex accounting: 25.00%
+hkicm: 25.00%
+cisco certified network associate: 25.00%
+computing platforms: 25.00%
+tcl: 25.00%
+css: 24.26%
+html: 24.02%
+web design: 23.88%
+rhino: 23.81%
+hibernate: 23.53%
+git: 23.44%
+planner: 23.33%
+android: 22.97%
+linux: 22.95%
+clean: 22.86%
+ms sql server: 22.73%
+joy: 22.73%
+javascript: 22.60%
+frm: 22.50%
+ccna: 22.47%
+active directory: 22.45%
+supply planning: 22.22%
+animate: 22.22%
+chill: 22.22%
+animal work: 22.22%
+mobile: 22.12%
+hksi: 22.06%
+max: 21.95%
+c#: 21.90%
+router: 21.88%
+dreamweaver: 21.88%
+numerical skills: 21.74%
+system implementation: 21.74%
+swift: 21.43%
+information system: 21.43%
+charity: 21.43%
+mcsa: 21.43%
+web analytics: 21.05%
+six sigma: 21.05%
+batch: 21.05%
+restful api: 21.05%
+video editing: 20.83%
+ms windows: 20.83%
+whatsapp: 20.81%
+c++: 20.78%
+sql: 20.36%
+adobe illustrator: 20.34%
+programming: 20.28%
+vendor: 20.19%
+wan: 20.00%
+ruby: 20.00%
+pos system: 20.00%
+ap: 20.00%
+seo: 20.00%
+adobe premiere pro: 20.00%
+powershell: 20.00%
+beta: 20.00%
+sfc license: 20.00%
+cyber security: 20.00%
+android development: 20.00%
+data network: 20.00%
+ifrs: 20.00%
+dcl: 20.00%
+dbms: 20.00%
+ciob: 20.00%
+web server: 20.00%
+php: 19.83%
+business management: 19.58%
+illustrator: 19.51%
+ccnp: 19.40%
+cfa: 19.30%
+wechat: 19.23%
+companies ordinance: 19.23%
+e-commerce: 19.20%
+cpa: 19.18%
+mcse: 19.05%
+presentation skill: 19.05%
+focus: 18.87%
+words: 18.84%
+internal control: 18.75%
+angular: 18.75%
+pc operations: 18.75%
+crypto currency: 18.75%
+adobe creative suite: 18.60%
+reason: 18.57%
+acca: 18.56%
+green card: 18.42%
+basic: 18.27%
+professional qualifications: 18.25%
+ml: 18.18%
+revit: 18.18%
+visual basic: 18.18%
+adobe software: 18.18%
+web: 18.02%
+agile: 17.98%
+pc: 17.92%
+r&d: 17.86%
+salesforce: 17.86%
+fmcg industry: 17.65%
+hong kong employment ordinance: 17.65%
+private equity: 17.65%
+chinese word processing: 17.61%
+sales support: 17.50%
+react: 17.43%
+project management: 17.41%
+plus: 17.39%
+devops: 17.33%
+ms sql: 17.33%
+make: 17.28%
+os: 17.24%
+in-design: 17.22%
+hardware: 17.17%
+accounting softwares: 17.14%
+java: 17.09%
+writing skills: 17.02%
+photoshop: 16.99%
+documentation: 16.98%
+adobe: 16.95%
+maintenance: 16.89%
+integration: 16.88%
+premiere: 16.88%
+infrastructure support: 16.67%
+word processing: 16.67%
+iiqe paper: 16.67%
+sizable companies: 16.67%
+pilot: 16.67%
+financial analytical skills: 16.67%
+id: 16.67%
+cg: 16.67%
+frr: 16.67%
+design softwares: 16.67%
+printers: 16.67%
+abap: 16.67%
+problem solving skills: 16.65%
+microsoft word: 16.60%
+r: 16.46%
+vlookup: 16.42%
+outlook: 16.41%
+pmp: 16.22%
+pc knowledge: 16.19%
+small: 16.15%
+typing: 16.13%
+analysis: 16.10%
+facebook: 16.09%
+server: 16.07%
+google analytics: 16.06%
+microsoft excel: 15.97%
+microsoft office: 15.94%
+tableau: 15.91%
+processing: 15.88%
+pc literate: 15.79%
+multimedia: 15.76%
+translation: 15.62%
+visual design: 15.62%
+sfo: 15.62%
+erp systems: 15.60%
+powerpoint: 15.58%
+go: 15.57%
+microsoft office suite: 15.55%
+autocad: 15.55%
+dynamic: 15.53%
+goal: 15.48%
+rapid: 15.46%
+lean: 15.38%
+factor: 15.38%
+ansible: 15.38%
+marco: 15.38%
+project management professional: 15.38%
+word: 15.29%
+pivot table: 15.28%
+data analytics: 15.07%
+final cut pro: 15.00%
+computer skills: 14.98%
+databases: 14.95%
+ai: 14.94%
+erp: 14.91%
+presentations: 14.91%
+no: 14.84%
+data management: 14.81%
+exchange: 14.81%
+analytical skills: 14.81%
+scheme: 14.73%
+visual merchandising: 14.63%
+python: 14.60%
+fun: 14.38%
+oracle: 14.29%
+sap: 14.29%
+security management: 14.29%
+problem solving capabilities: 14.29%
+business intelligence: 14.29%
+sla: 14.29%
+vc: 14.29%
+unix shell: 14.29%
+red hat: 14.29%
+quickbooks: 14.29%
+merchandizing: 14.29%
+apex: 14.29%
+hkicpa: 14.22%
+data visualization: 14.04%
+after effects: 14.04%
+hkma: 14.00%
+management reports: 13.89%
+bi: 13.79%
+web application development: 13.79%
+acumen: 13.71%
+web development: 13.70%
+microsoft applications: 13.64%
+c: 13.61%
+aircraft: 13.33%
+demand planning: 13.33%
+sdlc: 13.33%
+analytics tools: 13.33%
+gm: 13.33%
+adobe indesign: 13.33%
+web services: 13.33%
+sem: 13.25%
+spring: 13.24%
+facilities management: 13.24%
+deployment: 13.21%
+microsoft powerpoint: 13.21%
+blockchain: 13.04%
+ajax: 13.04%
+apache: 13.04%
+safe: 12.82%
+nice: 12.77%
+workshops: 12.75%
+financial analysis: 12.50%
+sccm: 12.50%
+ease: 12.50%
+order processing: 12.50%
+ems: 12.50%
+web-based applications: 12.50%
+budget management: 12.50%
+3dmax: 12.50%
+vmware: 12.38%
+azure: 12.17%
+account opening: 12.00%
+sketchup: 12.00%
+inform: 12.00%
+bloomberg: 11.76%
+o365: 11.76%
+pos: 11.76%
+cad: 11.59%
+typescript: 11.54%
+jquery: 11.54%
+data warehouse: 11.43%
+adwords: 11.36%
+aws: 11.18%
+server administration: 11.11%
+mpf regulations: 11.11%
+technical analysis: 11.11%
+kotlin: 11.11%
+chinese and english word processing: 11.11%
+microsoft project: 11.11%
+labview: 11.11%
+s3: 11.11%
+virtualization technology: 11.11%
+adobe acrobat: 11.11%
+hkie: 10.87%
+macro: 10.81%
+dc: 10.53%
+hope: 10.53%
+hyper-v: 10.53%
+chinese input: 10.53%
+credit analysis: 10.20%
+code: 10.06%
+jenkins: 10.00%
+crs: 10.00%
+pe: 10.00%
+wi-fi: 10.00%
+power point: 10.00%
+3d modelling: 10.00%
+security personnel permit: 10.00%
+web technologies: 10.00%
+sr: 10.00%
+cuda: 10.00%
+prc manufacturing: 10.00%
+simple: 9.84%
+3d software: 9.68%
+wordpress: 9.62%
+airlines: 9.41%
+accounting systems: 9.21%
+fatca: 9.09%
+solidworks: 9.09%
+mouse: 9.09%
+flash: 8.70%
+bash: 8.33%
+oracle system: 8.33%
+statistical analysis: 8.33%
+scala: 8.33%
+shopify: 8.33%
+securities and futures ordinance: 7.89%
+myob: 7.69%
+vs: 7.69%
+tea: 7.69%
+3ds max: 7.41%
+import and export: 7.41%
+operation support: 7.14%
+lcc: 7.02%
+computer systems: 6.67%
+spark: 6.67%
+network administration: 6.67%
+application system: 6.67%
+anti-money laundering: 6.67%
+marketing skills: 6.25%
+pipelines: 6.25%
+perl: 6.25%
+premiere pro: 6.12%
+system design: 5.88%
+spreadsheet: 5.88%
+sketch up: 5.88%
+windows server: 5.66%
+mhkie: 5.56%
+flex system: 5.56%
+chinese wp: 5.56%
+microservices: 5.26%
+red: 5.26%
+garment industry: 5.26%
+amazon: 4.55%
+office software: 4.17%
+web applications: 3.85%

@@ -1,0 +1,66 @@
+vhdl: 100.00%
+portable: 100.00%
+labview: 100.00%
+video editing: 100.00%
+photoshop: 100.00%
+sap: 100.00%
+george: 100.00%
+animal studies: 66.67%
+verilog: 50.00%
+hardware: 50.00%
+data management: 50.00%
+animal husbandry: 50.00%
+animal welfare: 50.00%
+translation: 50.00%
+words: 50.00%
+microsoft office: 44.44%
+computer skills: 36.36%
+green card: 33.33%
+pc knowledge: 33.33%
+mouse: 33.33%
+system design: 33.33%
+ai: 33.33%
+professional qualifications: 33.33%
+animal science: 33.33%
+pc: 33.33%
+deployment: 33.33%
+maintenance: 32.14%
+processing: 31.25%
+c++: 28.57%
+matlab: 25.00%
+java: 25.00%
+safe: 25.00%
+linux: 25.00%
+c#: 25.00%
+integration: 25.00%
+documentation: 25.00%
+writing skills: 25.00%
+chinese word processing: 22.73%
+analytical skills: 22.22%
+microsoft word: 21.74%
+plus: 21.62%
+python: 21.43%
+r&d: 21.05%
+dynamic: 20.00%
+animal work: 20.00%
+acumen: 20.00%
+analysis: 19.61%
+project management: 18.18%
+scheme: 17.65%
+microsoft office suite: 17.39%
+microsoft excel: 16.92%
+rapid: 16.67%
+pc applications: 16.67%
+problem solving skills: 16.07%
+focus: 14.29%
+make: 14.29%
+no: 12.90%
+web: 12.50%
+typing: 12.50%
+word: 12.20%
+programming: 11.76%
+c: 11.11%
+databases: 11.11%
+powerpoint: 10.81%
+r: 9.09%
+basic: 8.82%

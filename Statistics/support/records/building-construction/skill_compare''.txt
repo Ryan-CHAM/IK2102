@@ -1,0 +1,41 @@
+pc applications: 200.00%
+fun: 200.00%
+sap2000: 200.00%
+power point: 100.00%
+red: 100.00%
+agile: 100.00%
+sql: 50.00%
+safe: 50.00%
+pc: 50.00%
+microsoft project: 50.00%
+ap: 50.00%
+pc knowledge: 50.00%
+words: 33.33%
+analysis: 33.33%
+hkie: 33.33%
+bim: 33.33%
+illustrator: 33.33%
+documentation: 33.33%
+tcp: 33.33%
+scheme: 25.00%
+dynamic: 25.00%
+microsoft word: 25.00%
+cad: 25.00%
+green card: 22.22%
+plus: 21.43%
+programming: 20.00%
+make: 20.00%
+chinese word processing: 20.00%
+project management: 19.44%
+autocad: 15.94%
+maintenance: 15.79%
+microsoft office: 14.29%
+microsoft office suite: 10.53%
+microsoft excel: 10.00%
+problem solving skills: 10.00%
+mhkie: 10.00%
+computer skills: 7.69%
+photoshop: 7.14%
+revit: 6.25%
+word: 5.56%
+sketchup: 4.17%

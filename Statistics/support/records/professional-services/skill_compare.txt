@@ -1,0 +1,61 @@
+microsoft applications: 100.00%
+microsoft powerpoint: 100.00%
+pc applications: 100.00%
+r&d: 100.00%
+gap: 100.00%
+sas: 75.00%
+cfa: 60.00%
+private equity: 50.00%
+focus: 50.00%
+rapid: 50.00%
+hkma: 50.00%
+data mining: 50.00%
+power point: 50.00%
+sql: 45.45%
+bi: 40.00%
+analysis: 36.36%
+pc: 33.33%
+autocad: 33.33%
+vendor: 33.33%
+data analytics: 33.33%
+python: 30.00%
+business management: 28.57%
+code: 28.57%
+problem solving skills: 25.71%
+workshops: 25.00%
+salesforce: 25.00%
+vba: 25.00%
+scheme: 25.00%
+professional qualifications: 25.00%
+dynamic: 23.08%
+maintenance: 22.22%
+project management: 21.74%
+no: 20.00%
+information system: 20.00%
+presentations: 20.00%
+data visualization: 20.00%
+acumen: 17.65%
+ip: 16.67%
+inform: 16.67%
+programming: 16.67%
+microsoft excel: 15.31%
+plus: 14.29%
+integration: 14.29%
+tableau: 14.29%
+basic: 12.50%
+processing: 12.50%
+ai: 12.50%
+microsoft office: 11.76%
+microsoft word: 11.11%
+agile: 11.11%
+companies ordinance: 10.53%
+cpa: 10.53%
+translation: 10.42%
+powerpoint: 10.34%
+analytical skills: 10.00%
+word: 9.09%
+aml: 8.33%
+writing skills: 8.33%
+chinese word processing: 7.69%
+microsoft office suite: 5.19%
+computer skills: 5.00%

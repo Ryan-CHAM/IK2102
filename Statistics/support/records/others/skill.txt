@@ -1,0 +1,168 @@
+microsoft excel: 98
+no: 24
+basic: 20
+powerpoint: 28
+marketing skills: 2
+e-commerce: 3
+project management: 18
+mobile: 6
+acumen: 2
+word: 38
+plus: 28
+chinese word processing: 47
+erp systems: 9
+microsoft word: 34
+simple: 5
+pc: 3
+microsoft office suite: 63
+documentation: 8
+analysis: 6
+problem solving skills: 28
+words: 4
+microsoft office: 17
+outlook: 18
+make: 10
+safe: 2
+c: 23
+rapid: 1
+r: 1
+focus: 8
+forth: 1
+sap: 7
+typing: 7
+import and export: 3
+processing: 6
+translation: 5
+vendor: 2
+computer skills: 26
+salesforce: 2
+dynamic: 8
+writing skills: 7
+sales support: 1
+vlookup: 2
+lcc: 3
+go: 4
+erp: 2
+scrum framework: 1
+agile: 3
+web: 3
+accounting softwares: 1
+adobe: 3
+ai: 1
+photoshop: 7
+microsoft powerpoint: 1
+video editing: 2
+numerical skills: 1
+pc knowledge: 6
+chinese wp: 1
+power point: 3
+peachtree: 2
+shipping document: 1
+presentations: 2
+supply planning: 1
+data mining: 1
+3pl management: 1
+oracle: 3
+analytical skills: 13
+microsoft applications: 3
+internal control: 1
+cctv: 7
+security personnel permit: 13
+maintenance: 19
+workshops: 8
+hardware maintenance: 1
+green card: 2
+3d software: 1
+etabs: 1
+rhino: 1
+scheme: 7
+autocad: 6
+revit: 1
+pc applications: 5
+cad: 1
+vba: 2
+sql: 5
+hksi paper: 1
+loan products: 1
+financial analytical skills: 1
+aml: 1
+bloomberg: 1
+google analytics: 1
+web metrics: 1
+ccna: 1
+pc operations: 3
+ms based applications: 1
+exchange: 4
+php: 2
+bi: 4
+in-design: 3
+facebook: 7
+whatsapp: 13
+final cut pro: 1
+adobe photoshop: 2
+adobe illustrator: 1
+adobe premiere: 1
+tutor: 1
+business management: 1
+max: 1
+computer systems: 1
+goal: 3
+databases: 1
+professional qualifications: 3
+bim: 1
+data management: 1
+accounting systems: 1
+osh: 1
+wan: 3
+word processing: 3
+spreadsheet: 1
+java: 6
+web applications: 1
+server: 1
+react: 2
+it technologies: 1
+html: 3
+javascript: 4
+angular: 1
+css: 1
+android: 2
+pivot table: 1
+airlines: 2
+illustrator: 3
+r&d: 1
+bookings: 1
+integration: 1
+small: 1
+fun: 2
+hardware: 1
+c++: 2
+programming: 2
+cpa: 2
+myob: 1
+pos: 1
+linux: 1
+apache: 1
+jquery: 1
+business intelligence: 1
+c#: 2
+ms sql server: 1
+ms windows: 1
+acrobat: 1
+creative suite: 1
+mhkie: 1
+restful api: 1
+groovy: 1
+container: 1
+lean: 1
+information system: 1
+reason: 1
+six sigma: 1
+pmp: 1
+system design: 1
+pearl: 1
+code: 1
+aircraft: 2
+facilities management: 1
+first aid certificate: 2
+first aid: 1
+deployment: 1

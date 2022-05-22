@@ -1,0 +1,79 @@
+databases: 100.00%
+web technologies: 100.00%
+spark: 100.00%
+safe: 100.00%
+factor: 100.00%
+sd-wan: 100.00%
+vpn: 100.00%
+adobe photoshop: 100.00%
+bookings: 100.00%
+wordpress: 100.00%
+deployment: 100.00%
+information system: 100.00%
+wan: 75.00%
+airlines: 66.67%
+wechat: 50.00%
+ms windows: 50.00%
+hvac: 50.00%
+mcse: 50.00%
+ccna: 50.00%
+erp systems: 50.00%
+ccnp: 50.00%
+sfc license: 50.00%
+writing skills: 50.00%
+adobe: 50.00%
+pc: 38.46%
+visual merchandising: 37.50%
+microsoft powerpoint: 33.33%
+workshops: 33.33%
+android: 33.33%
+exchange: 33.33%
+professional qualifications: 33.33%
+investment products: 33.33%
+video editing: 33.33%
+presentation skill: 28.57%
+whatsapp: 25.71%
+salesforce: 25.00%
+numerical skills: 25.00%
+web: 25.00%
+ai: 25.00%
+sales support: 25.00%
+dynamic: 24.39%
+maintenance: 23.08%
+make: 23.08%
+microsoft word: 21.33%
+focus: 20.00%
+iiqe paper: 20.00%
+chinese word processing: 18.39%
+computer skills: 18.33%
+processing: 18.18%
+html: 18.18%
+business management: 17.65%
+problem solving skills: 17.17%
+mobile: 16.67%
+plus: 16.33%
+microsoft excel: 15.18%
+fmcg industry: 15.00%
+e-commerce: 14.71%
+facebook: 14.29%
+word: 14.29%
+powerpoint: 14.29%
+agile: 14.29%
+acumen: 13.89%
+scheme: 13.33%
+basic: 13.33%
+typing: 13.33%
+pc knowledge: 13.04%
+small: 12.50%
+microsoft office suite: 11.92%
+sap: 11.76%
+analytical skills: 11.11%
+power point: 11.11%
+outlook: 10.71%
+project management: 10.53%
+microsoft office: 10.00%
+goal: 9.09%
+go: 9.09%
+no: 7.89%
+analysis: 6.52%
+fun: 6.25%

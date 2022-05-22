@@ -1,0 +1,216 @@
+plus: 98
+maintenance: 13
+mobile: 18
+container: 2
+integration: 3
+microsoft excel: 224
+analysis: 46
+focus: 30
+visual merchandising: 8
+analytical skills: 45
+facebook: 14
+whatsapp: 35
+word: 105
+powerpoint: 112
+adobe illustrator: 4
+outlook: 28
+photoshop: 7
+microsoft office suite: 151
+problem solving skills: 99
+no: 38
+vendor: 6
+presentations: 13
+rpa: 1
+documentation: 11
+scheme: 15
+chinese word processing: 87
+salesforce: 8
+pc: 13
+hksi: 3
+basic: 45
+microsoft office: 50
+numerical skills: 4
+computer skills: 60
+goal: 11
+dynamic: 41
+microsoft powerpoint: 3
+order processing: 12
+e-commerce: 34
+microsoft word: 75
+wechat: 4
+pc applications: 14
+power point: 9
+hardware: 4
+itil: 2
+pmp: 4
+web: 8
+ai: 4
+processing: 22
+sap: 17
+acumen: 36
+workshops: 9
+make: 39
+fun: 16
+typing: 30
+id: 3
+statistical analysis: 1
+ms windows: 4
+small: 8
+word processing: 7
+erp: 4
+project management: 38
+spreadsheet: 2
+pos: 3
+go: 11
+iiqe paper: 5
+rapid: 6
+simple: 5
+kee: 2
+java: 4
+web development: 1
+web application development: 1
+android sdk: 2
+php: 1
+react: 2
+html: 11
+objective-c: 1
+aws: 1
+javascript: 2
+programming: 4
+css: 1
+android: 3
+presentation skill: 14
+autocad: 4
+pc knowledge: 23
+pivot table: 11
+vlookup: 12
+loan products: 3
+chinese wp: 4
+pos system: 1
+agile: 7
+business management: 17
+macro: 1
+gap: 2
+data analytics: 4
+aircraft: 4
+wan: 4
+facilities management: 3
+hvac: 2
+hvac system: 1
+words: 5
+management reports: 2
+exchange: 3
+microsoft applications: 3
+cad: 1
+sales support: 8
+fmcg industry: 20
+databases: 1
+web technologies: 1
+clips: 1
+reason: 2
+professional qualifications: 3
+pc operations: 4
+pc literate: 5
+airlines: 6
+hkis: 2
+rics: 2
+planner: 2
+web projects: 1
+ar: 1
+investment products: 3
+securities and futures ordinance: 1
+sfo: 1
+chinese & english typing: 1
+mcse: 2
+ccna: 2
+vs: 1
+adobe cs: 1
+mac skills: 2
+aml: 1
+kyc: 2
+virtualization technology: 1
+server: 2
+spark: 1
+vc: 1
+data management: 3
+plc: 1
+erp systems: 6
+code: 5
+shipping document: 2
+google analytics: 3
+safe: 3
+factor: 2
+gams: 2
+sd-wan: 1
+vpn: 1
+sizable companies: 2
+marco: 1
+adobe photoshop: 1
+import and export: 4
+hope: 1
+joy: 3
+lean: 3
+six sigma: 1
+ms - word: 1
+bookings: 1
+adobe creative suite: 2
+bi: 2
+c: 6
+ccnp: 2
+react native: 1
+wordpress: 1
+linux: 1
+restful api: 1
+struts: 1
+spring: 2
+ajax: 1
+oracle: 1
+tableau: 1
+garment industry: 2
+system implementation: 1
+web chat: 1
+flex: 1
+oracle system: 1
+r&d: 1
+r: 1
+business intelligence: 1
+budget management: 2
+iiqe: 4
+opal: 1
+prc manufacturing: 3
+sfc license: 2
+red: 3
+video editing: 3
+after effects: 3
+writing skills: 2
+ip: 1
+data network: 1
+acca: 1
+chill: 1
+cpa: 1
+deployment: 1
+seo: 2
+adwords: 1
+es: 1
+mobile device: 2
+windows 10: 2
+adobe: 2
+service level agreement: 2
+sketch up: 1
+office software: 1
+ms sql: 1
+windows server: 1
+information system: 1
+translation: 1
+demand planning: 1
+it solutions industry: 1
+clean: 1
+bim modelling: 1
+illustration: 1
+cfa: 1
+mad: 1
+vba: 1
+visual basic: 1
+data mining: 1
+swift: 1
+cctv: 1

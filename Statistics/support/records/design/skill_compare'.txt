@@ -1,0 +1,96 @@
+scratch: 100.00%
+pc applications: 100.00%
+chinese input: 100.00%
+mad: 100.00%
+outlook: 100.00%
+sfo: 100.00%
+rhino: 57.14%
+adobe indesign: 50.00%
+logo: 50.00%
+mac os: 50.00%
+android: 50.00%
+jquery: 50.00%
+ip: 50.00%
+words: 50.00%
+visual communication: 45.45%
+basic: 41.67%
+computer skills: 40.00%
+creative design: 40.00%
+writing skills: 40.00%
+illustration: 33.33%
+problem solving skills: 33.33%
+adobe software: 33.33%
+e-commerce: 33.33%
+design softwares: 33.33%
+documentation: 33.33%
+pos: 33.33%
+adobe photoshop: 30.56%
+facebook: 30.00%
+presentations: 29.41%
+analysis: 28.57%
+video editing: 27.27%
+graphics: 26.19%
+r&d: 25.00%
+fun: 25.00%
+3d modelling: 25.00%
+processing: 25.00%
+chinese word processing: 25.00%
+c: 25.00%
+adobe acrobat: 25.00%
+plus: 22.54%
+final cut pro: 22.22%
+agile: 22.22%
+web: 22.00%
+adobe creative suite: 20.83%
+max: 20.00%
+whatsapp: 20.00%
+powerpoint: 20.00%
+unity: 20.00%
+maintenance: 20.00%
+safe: 20.00%
+acrobat: 20.00%
+scheme: 20.00%
+in-design: 19.57%
+dreamweaver: 19.05%
+microsoft office suite: 18.75%
+mobile: 18.18%
+javascript: 17.65%
+dynamic: 17.65%
+illustrator: 17.62%
+pc: 16.67%
+microsoft office: 16.67%
+nice: 16.67%
+acumen: 16.67%
+adobe premiere: 16.67%
+autocad: 16.22%
+html: 15.38%
+photoshop: 15.03%
+sketchup: 14.29%
+microsoft excel: 14.29%
+3dmax: 14.29%
+css: 13.95%
+ai: 13.89%
+no: 12.50%
+rapid: 12.50%
+java: 12.50%
+adobe illustrator: 12.24%
+multimedia: 11.90%
+premiere: 11.76%
+word: 11.11%
+adobe xd: 11.11%
+project management: 10.00%
+web design: 9.09%
+solidworks: 9.09%
+small: 8.33%
+after effects: 8.00%
+seo: 7.69%
+sketch up: 7.14%
+microsoft word: 7.14%
+adobe: 6.98%
+flash: 6.67%
+cad: 6.67%
+premiere pro: 6.25%
+visual design: 5.56%
+3ds max: 5.00%
+3d software: 5.00%
+visual merchandising: 4.35%

@@ -1,0 +1,102 @@
+microsoft office suite: 33
+whatsapp: 51
+dynamic: 9
+rapid: 3
+ease: 1
+first aid certificate: 2
+make: 10
+problem solving skills: 14
+microsoft excel: 24
+no: 22
+chinese word processing: 22
+word: 24
+microsoft word: 7
+plus: 20
+tutor: 1
+basic: 6
+scheme: 8
+small: 3
+hksi: 5
+pc: 2
+analytical skills: 4
+microsoft office: 5
+fun: 6
+maintenance: 7
+facebook: 5
+workshops: 7
+hope: 3
+scratch: 1
+axiom: 1
+six sigma: 1
+lean: 1
+merchandizing: 1
+agile: 1
+first aid: 2
+airlines: 1
+writing skills: 2
+powerpoint: 9
+outlook: 4
+mammography: 1
+general radiology: 1
+dexa: 1
+id: 1
+facilities management: 3
+safe: 1
+computer skills: 11
+focus: 6
+mcse: 2
+nas: 2
+ccnp: 2
+ccna: 2
+server: 3
+seo: 1
+project management: 2
+sem: 1
+web analytics: 1
+wan: 1
+typing: 3
+processing: 2
+erp: 2
+pc knowledge: 2
+presentation skill: 3
+illustrator: 3
+premiere: 2
+photoshop: 7
+r&d: 1
+documentation: 1
+google analytics: 2
+ai: 2
+analysis: 3
+in-design: 1
+wordpress: 1
+final cut pro: 1
+adobe premiere: 1
+planner: 1
+computer operation knowledge: 2
+go: 1
+e-commerce: 1
+pos: 2
+php: 2
+ms sql server: 2
+erp systems: 2
+windows server: 2
+microsoft applications: 1
+animal health: 1
+joy: 2
+acumen: 2
+c: 4
+word processing: 1
+microsoft powerpoint: 1
+adobe illustrator: 2
+fmcg industry: 1
+sla: 2
+presentations: 2
+goal: 2
+r: 2
+words: 1
+flash: 1
+web: 1
+pos system: 1
+sizable companies: 1
+autocad: 1
+clean: 1

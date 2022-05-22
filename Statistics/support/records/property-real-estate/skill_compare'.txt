@@ -1,0 +1,26 @@
+tea: 100.00%
+cctv: 100.00%
+goal: 100.00%
+computer skills: 50.00%
+words: 50.00%
+rics: 33.33%
+outlook: 33.33%
+pc knowledge: 33.33%
+acumen: 33.33%
+chinese word processing: 26.83%
+microsoft word: 25.71%
+pmp: 25.00%
+make: 25.00%
+microsoft excel: 24.56%
+problem solving skills: 23.08%
+no: 23.08%
+word: 22.22%
+powerpoint: 22.22%
+hkis: 22.22%
+professional qualifications: 20.00%
+plus: 20.00%
+dynamic: 14.29%
+facilities management: 12.00%
+microsoft office suite: 11.11%
+microsoft office: 10.00%
+maintenance: 4.55%

@@ -1,0 +1,132 @@
+microsoft excel: 65
+basic: 12
+bookings: 1
+microsoft office suite: 40
+microsoft word: 23
+java: 3
+focus: 5
+maintenance: 14
+plus: 20
+writing skills: 4
+acrobat: 1
+in-design: 3
+illustrator: 2
+powerpoint: 16
+c: 20
+creative suite: 1
+photoshop: 4
+no: 21
+dynamic: 6
+power point: 3
+vba: 2
+analytical skills: 10
+analysis: 3
+sql: 2
+problem solving skills: 21
+c++: 1
+autocad: 6
+computer skills: 19
+facebook: 5
+whatsapp: 8
+chinese word processing: 28
+project management: 11
+lean: 1
+agile: 1
+information system: 1
+reason: 1
+six sigma: 1
+pmp: 1
+workshops: 8
+words: 2
+microsoft office: 14
+word: 27
+typing: 6
+import and export: 2
+processing: 6
+integration: 1
+pc operations: 2
+make: 5
+html: 1
+final cut pro: 1
+adobe photoshop: 1
+adobe illustrator: 1
+adobe premiere: 1
+pc knowledge: 3
+green card: 2
+outlook: 13
+wan: 3
+security personnel permit: 10
+documentation: 8
+cctv: 2
+oracle: 2
+vendor: 2
+scheme: 4
+mobile: 3
+business intelligence: 1
+c#: 1
+php: 2
+system design: 1
+hardware maintenance: 1
+chinese wp: 1
+simple: 4
+business management: 1
+max: 1
+translation: 4
+bi: 3
+google analytics: 1
+e-commerce: 1
+adobe: 3
+web metrics: 1
+mhkie: 1
+first aid certificate: 2
+accounting softwares: 1
+sap: 5
+word processing: 2
+pc applications: 2
+professional qualifications: 2
+exchange: 2
+3pl management: 1
+deployment: 1
+safe: 2
+rapid: 1
+r: 1
+forth: 1
+pos: 1
+bloomberg: 1
+numerical skills: 1
+fun: 1
+pc: 1
+erp systems: 3
+sales support: 1
+acumen: 1
+data management: 1
+accounting systems: 1
+lcc: 2
+go: 2
+erp: 1
+peachtree: 1
+aml: 1
+pivot table: 1
+vlookup: 2
+3d software: 1
+etabs: 1
+rhino: 1
+revit: 1
+linux: 1
+apache: 1
+jquery: 1
+javascript: 1
+android: 1
+microsoft applications: 1
+salesforce: 1
+spreadsheet: 1
+cpa: 1
+airlines: 1
+aircraft: 2
+computer systems: 1
+goal: 1
+databases: 1
+video editing: 1
+marketing skills: 1
+loan products: 1
+financial analytical skills: 1

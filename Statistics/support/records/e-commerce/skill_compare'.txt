@@ -1,0 +1,92 @@
+pc knowledge: 200.00%
+pc applications: 200.00%
+spring: 100.00%
+linux: 100.00%
+customer journeys: 100.00%
+word processing: 100.00%
+r: 100.00%
+restful api: 100.00%
+cloud environment: 100.00%
+acca: 100.00%
+chill: 100.00%
+processing: 100.00%
+data manipulation: 100.00%
+cpa: 66.67%
+business management: 54.55%
+fmcg industry: 50.00%
+translation: 50.00%
+vba: 50.00%
+adobe xd: 50.00%
+hardware: 50.00%
+git: 50.00%
+angular: 50.00%
+system implementation: 50.00%
+vendor: 42.86%
+focus: 42.86%
+web design: 40.00%
+adwords: 40.00%
+outlook: 40.00%
+microsoft word: 35.29%
+html: 33.33%
+ccnp: 33.33%
+luxury industry: 33.33%
+java: 33.33%
+pc: 33.33%
+planner: 33.33%
+integration: 30.77%
+microsoft office: 30.00%
+react: 28.57%
+agile: 27.78%
+plus: 27.27%
+microsoft excel: 26.32%
+oracle: 25.00%
+php: 25.00%
+simple: 25.00%
+ccna: 25.00%
+power point: 25.00%
+word: 23.68%
+chinese word processing: 23.33%
+powerpoint: 23.26%
+information system: 22.22%
+sql: 21.43%
+e-commerce: 20.44%
+devops: 20.00%
+javascript: 20.00%
+adobe: 20.00%
+code: 20.00%
+wordpress: 20.00%
+ip: 20.00%
+typing: 20.00%
+web development: 20.00%
+web: 18.52%
+analysis: 17.24%
+google analytics: 17.14%
+analytical skills: 17.14%
+presentations: 16.67%
+problem solving skills: 16.25%
+make: 15.79%
+mobile: 15.62%
+project management: 14.75%
+microsoft office suite: 14.29%
+css: 14.29%
+facebook: 14.29%
+sem: 14.29%
+illustrator: 14.29%
+go: 14.29%
+photoshop: 12.90%
+acumen: 12.50%
+basic: 12.50%
+analytics tools: 12.50%
+whatsapp: 12.50%
+ai: 12.50%
+documentation: 11.76%
+small: 11.11%
+erp: 11.11%
+computer skills: 11.11%
+seo: 11.11%
+adobe photoshop: 11.11%
+no: 10.00%
+aws: 8.33%
+programming: 7.69%
+shopify: 7.69%
+dynamic: 6.45%

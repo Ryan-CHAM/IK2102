@@ -1,0 +1,57 @@
+labview: 100.00%
+adobe creative suite: 100.00%
+translation: 100.00%
+gap: 100.00%
+planner: 100.00%
+pc literate: 100.00%
+tex: 100.00%
+nice: 100.00%
+wan: 75.00%
+marco: 66.67%
+information system: 50.00%
+pivot table: 50.00%
+whatsapp: 50.00%
+scheme: 50.00%
+react: 50.00%
+hardware: 50.00%
+3d software: 50.00%
+pc applications: 36.36%
+rapid: 33.33%
+six sigma: 33.33%
+clean: 33.33%
+focus: 33.33%
+vba: 33.33%
+small: 30.00%
+dynamic: 30.00%
+batch: 28.57%
+vlookup: 25.00%
+outlook: 25.00%
+illustrator: 22.22%
+chinese word processing: 20.00%
+sap: 20.00%
+cad: 20.00%
+make: 17.86%
+plus: 17.31%
+project management: 17.07%
+databases: 16.67%
+statistical analysis: 16.67%
+c: 16.67%
+maintenance: 16.13%
+word: 15.71%
+powerpoint: 14.52%
+photoshop: 14.29%
+problem solving skills: 13.86%
+microsoft office suite: 13.86%
+computer skills: 13.79%
+microsoft excel: 12.88%
+microsoft applications: 12.50%
+web: 12.50%
+lean: 11.76%
+analysis: 11.36%
+no: 11.11%
+analytical skills: 11.11%
+documentation: 9.68%
+microsoft office: 8.33%
+r&d: 7.69%
+pc knowledge: 6.25%
+microsoft word: 5.71%

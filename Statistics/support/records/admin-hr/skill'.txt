@@ -1,0 +1,165 @@
+microsoft excel: 337
+word processing: 11
+word: 146
+chinese word processing: 202
+microsoft office: 64
+sizable companies: 18
+facilities management: 6
+problem solving skills: 65
+make: 23
+c: 24
+basic: 17
+code: 3
+facebook: 2
+maintenance: 21
+go: 7
+charity: 4
+powerpoint: 171
+microsoft office suite: 231
+pc knowledge: 33
+microsoft word: 113
+computer skills: 39
+no: 24
+security management: 1
+analytical skills: 36
+plus: 58
+writing skills: 7
+ladder: 1
+outlook: 41
+scheme: 14
+small: 16
+pc: 12
+ipl: 5
+hong kong employment ordinance: 34
+words: 11
+video editing: 6
+project management: 37
+focus: 19
+processing: 23
+microsoft applications: 6
+fun: 6
+vendor: 5
+numerical skills: 3
+translation: 3
+pc operations: 3
+mobile: 3
+photoshop: 8
+microsoft powerpoint: 7
+wan: 9
+dynamic: 46
+agile: 9
+analysis: 33
+rapid: 5
+typing: 15
+sap: 12
+aircraft: 4
+information system: 12
+erp: 3
+mpf regulations: 9
+illustrator: 2
+adobe software: 1
+spreadsheet: 1
+pivot table: 11
+vlookup: 9
+id: 4
+management reports: 2
+tea: 2
+transcript: 1
+pc applications: 12
+professional qualifications: 3
+business management: 14
+myob: 2
+computer operation knowledge: 1
+oracle: 4
+private equity: 2
+pipelines: 1
+acumen: 10
+ap: 3
+autocad: 4
+workshops: 6
+cfa: 2
+data analytics: 1
+deployment: 2
+compass: 1
+e-commerce: 1
+documentation: 13
+ai: 4
+hksi: 1
+acrobat: 1
+safe: 2
+graphics: 2
+whatsapp: 3
+bookings: 1
+venture capital: 1
+financial analysis: 1
+presentations: 6
+integration: 3
+nice: 4
+react: 4
+web: 2
+data management: 2
+azure: 3
+devops: 1
+bi: 3
+chinese and english word processing: 3
+multimedia: 2
+bloomberg: 1
+cpa: 3
+frm: 1
+salesforce: 2
+goal: 3
+lean: 4
+alice: 1
+adobe illustrator: 1
+office software: 2
+system implementation: 2
+sql: 1
+server: 1
+airlines: 2
+typewriting: 1
+acca: 4
+hkicpa: 2
+erp systems: 3
+ar: 1
+budget management: 1
+blockchain: 1
+exchange: 1
+crypto currency: 1
+fl: 1
+presentation skill: 3
+power point: 3
+programming: 2
+abap: 1
+chill: 1
+chinese input: 1
+final cut pro: 1
+microsoft project: 1
+databases: 3
+accounting softwares: 1
+git: 1
+java: 1
+ms sql server: 1
+amazon: 1
+objective-c: 1
+rpa: 1
+swift: 1
+r: 1
+kotlin: 1
+android: 1
+sdlc: 1
+pmp: 1
+chinese wp: 2
+illustration: 2
+simple: 1
+import and export: 1
+switch: 1
+business intelligence: 1
+accounting systems: 1
+ip: 1
+reason: 1
+business software: 2
+printers: 1
+quickbooks: 1
+clean: 2
+inform: 1
+pl: 1

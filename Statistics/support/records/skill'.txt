@@ -1,0 +1,710 @@
+cpa: 292
+sales support: 47
+dns: 36
+tcp: 78
+switch: 43
+ccnp: 80
+ccna: 109
+router: 39
+ip: 125
+vpn: 50
+firewall: 102
+wan: 168
+microsoft excel: 3304
+plus: 1843
+microsoft word: 1103
+problem solving skills: 1829
+powerpoint: 1491
+wechat: 93
+adobe illustrator: 142
+pc applications: 138
+dynamic: 610
+facebook: 267
+photoshop: 778
+acumen: 340
+internal control: 57
+infrastructure support: 14
+basic: 628
+maintenance: 609
+server administration: 20
+vendor: 250
+word: 1440
+hardware: 116
+os: 34
+server: 260
+focus: 359
+windows server: 56
+bi: 165
+ai: 200
+sql: 396
+python: 314
+r: 92
+microsoft office: 589
+project management: 1052
+mobile: 508
+investment products: 49
+analysis: 1154
+macro: 41
+cfa: 136
+financial analysis: 99
+frm: 49
+microsoft office suite: 2140
+oracle: 224
+pc: 250
+data management: 93
+make: 570
+video editing: 145
+no: 619
+code: 197
+dc: 21
+account opening: 28
+whatsapp: 267
+scheme: 296
+linux: 225
+java: 322
+jenkins: 33
+web: 452
+php: 139
+javascript: 255
+react native: 45
+typescript: 29
+spring: 77
+angular: 57
+deployment: 120
+android: 91
+cad: 77
+documentation: 496
+small: 187
+litigation process: 2
+erp systems: 163
+analytical skills: 845
+credit processing: 2
+rapid: 112
+acca: 198
+accounting systems: 83
+hkicpa: 233
+simple: 67
+chinese word processing: 1182
+google analytics: 159
+ruby: 6
+html: 253
+bash: 13
+google apps script: 1
+programming: 433
+web analytics: 23
+css: 210
+go: 141
+ms windows: 29
+outlook: 305
+pc knowledge: 244
+processing: 343
+facilities management: 77
+c: 359
+word processing: 56
+nice: 53
+iiqe paper: 35
+hope: 21
+crs: 11
+hkma: 57
+fatca: 12
+swift: 85
+react: 128
+devops: 88
+sketchup: 84
+certificate of registration of electrical worker: 13
+autocad: 431
+fmcg industry: 80
+sap: 248
+sizable companies: 42
+office 365: 29
+computer systems: 16
+information system: 136
+exchange: 124
+ar: 37
+e-commerce: 416
+unity: 16
+c#: 128
+3ds max: 29
+presentations: 185
+r&d: 99
+writing skills: 220
+fun: 175
+agile: 315
+verilog: 9
+vhdl: 6
+words: 82
+objective-c: 29
+azure: 129
+active directory: 60
+hyper-v: 21
+vmware: 118
+sccm: 9
+aws: 179
+citrix: 12
+lync: 2
+mcse: 75
+lans: 1
+computer skills: 729
+container: 29
+integration: 180
+blockchain: 52
+crypto: 33
+c++: 93
+workshops: 115
+pos system: 12
+rhino: 26
+matlab: 15
+solidworks: 36
+inform: 56
+securities and futures ordinance: 41
+translation: 148
+illustrator: 490
+bloomberg: 76
+oracle system: 13
+airlines: 93
+data analytics: 168
+3d software: 34
+aml: 82
+acams: 8
+pe: 33
+ajax: 26
+ms sql: 88
+reason: 83
+vba: 137
+sas: 55
+data visualization: 65
+bookings: 18
+mac environment: 15
+visual merchandising: 47
+multimedia: 235
+animation and video editing: 5
+data warehouse: 39
+databases: 123
+wordpress: 57
+business management: 171
+pivot table: 83
+vlookup: 78
+ap: 42
+salesforce: 66
+hvac: 25
+erp: 131
+rpa: 25
+dreamweaver: 39
+adobe creative suite: 102
+charity: 17
+lean: 60
+six sigma: 46
+goal: 97
+sem: 94
+premiere pro: 52
+after effects: 195
+airports: 4
+git: 79
+aircraft systems: 2
+aircraft: 51
+security management: 16
+oracle erp: 8
+management reports: 41
+pilot: 7
+alteryx: 15
+illustration: 39
+ease: 9
+first aid certificate: 8
+clean: 43
+seo: 168
+web presence: 3
+peachtree: 21
+myob: 28
+mhkie: 19
+chinese input: 21
+network management: 18
+wi-fi: 11
+android sdk: 9
+xero: 14
+web application development: 33
+problem solving capabilities: 8
+billing system: 8
+service level agreement: 8
+web application firewall: 3
+jcl: 4
+clist: 2
+cobra: 4
+statistical analysis: 26
+tableau: 102
+business intelligence: 56
+accounting softwares: 41
+peachtree accounting system: 3
+mpf regulations: 10
+batch: 23
+graphics: 103
+premiere: 90
+visual design: 37
+typing: 180
+hksi: 83
+hong kong employment ordinance: 40
+hkie: 51
+amazon: 23
+numerical skills: 28
+demand planning: 17
+final cut pro: 46
+adobe premiere pro: 18
+max: 50
+mcsa: 17
+web api: 3
+prc accounting: 30
+microsoft powerpoint: 60
+cool: 7
+data mining: 35
+web development: 83
+access points: 3
+cloud environment: 9
+web design: 83
+flash: 25
+microservices: 20
+green card: 45
+financial analytical skills: 7
+tie: 2
+supply planning: 11
+order processing: 54
+ml: 13
+spark: 16
+adobe: 138
+system design: 72
+kyc: 62
+sla: 24
+factor: 15
+id: 56
+pc operations: 38
+adwords: 49
+professional qualifications: 149
+fl: 3
+credit analysis: 54
+presentation skill: 100
+animators: 1
+powershell: 18
+animate: 11
+in-design: 177
+technical analysis: 10
+system implementation: 56
+kotlin: 50
+t-sql: 7
+tutor: 2
+mouse: 12
+animal handling: 8
+adobe photoshop: 143
+ansible: 15
+power point: 99
+ems: 9
+hibernate: 21
+struts: 8
+jsf: 5
+lcc: 61
+safe: 88
+tom: 1
+hong kong driving licence: 6
+chinese & english typing: 5
+securities laws: 3
+qfii: 2
+qdii: 1
+rqfii: 2
+gap: 31
+iiqe: 71
+ra type: 3
+o365: 38
+mac os: 13
+mobile device: 9
+kee: 4
+pc literate: 22
+companies ordinance: 31
+vs: 14
+beta: 6
+ladder: 3
+office software: 25
+sdlc: 51
+logical skills: 2
+marco: 15
+c4d: 5
+adobe cs: 14
+bim modelling: 3
+revit: 52
+3d modelling: 11
+bim: 72
+analytics tools: 34
+vc: 16
+dog: 1
+red: 20
+acrobat: 15
+creative suite: 3
+euc: 3
+loan products: 14
+web traffic: 3
+execution strategy: 3
+gm: 17
+web apps: 6
+system upgrades: 3
+sfc license: 24
+hkis: 27
+rics: 18
+jquery: 58
+restful api: 46
+apache: 26
+unix shell: 8
+pl: 39
+web applications: 27
+ms sql server: 27
+itil: 84
+pmp: 86
+ipl: 5
+planner: 37
+marketing skills: 17
+security personnel permit: 22
+elv system: 4
+pipelines: 17
+adobe indesign: 17
+compass: 6
+sfo: 37
+visual basic: 13
+dcass: 5
+cyber security: 54
+anti-phishing: 1
+android development: 6
+flex system: 19
+building information modelling: 5
+fms: 3
+chill: 11
+network administration: 16
+database programming: 6
+joy: 27
+mad: 18
+red hat: 8
+hkma regulatory reporting: 7
+perl: 17
+amazon web services: 3
+io: 13
+microsoft applications: 50
+project management professional: 15
+spreadsheet: 18
+3pl management: 8
+pos: 38
+customer due diligence: 7
+cdd: 25
+myob software: 1
+application system: 16
+server maintenance: 1
+hermes: 1
+web solutions: 1
+scratch: 7
+axiom: 1
+quickbooks: 8
+web services: 17
+credit analytical skills: 2
+google trends: 2
+import and export: 29
+chinese and english word processing: 20
+tea: 14
+data network: 6
+web projects: 4
+web technologies: 22
+web & mobile: 6
+antiviral: 1
+merchandizing: 16
+chinese wp: 19
+rust: 3
+inbound and outbound logistics: 4
+web-based applications: 9
+foxpro: 3
+ifrs: 24
+engineering software packages: 1
+sd-wan: 11
+plc: 21
+microsoft project: 20
+animal studies: 9
+animal work: 11
+adobe software: 13
+sketch up: 18
+labview: 10
+qlikview: 23
+mathematics: 19
+xl: 3
+signal: 17
+publisher: 9
+crypto currency: 19
+adobe premiere: 33
+it technologies: 2
+luxury industry: 13
+anti-bribery: 1
+dynamo: 4
+visual identity: 2
+revit architecture: 2
+web application security: 4
+sfc rules: 6
+ccass: 19
+web project management: 1
+data storage: 4
+dcl: 6
+adobe xd: 35
+acc: 7
+apex: 8
+web graphics: 3
+shipping document: 10
+flex: 4
+google apps: 1
+msl: 3
+converge: 1
+visual communication: 20
+iis: 5
+bms: 9
+sbl: 1
+csh: 1
+awk: 1
+flex accounting: 15
+transcript: 3
+first aid: 6
+operation support: 15
+s3: 10
+icon: 3
+dbms: 6
+s2: 1
+csp: 3
+computer operation knowledge: 7
+budget management: 9
+fortress: 2
+logo: 10
+hong kong construction and building related legislations: 4
+fire services system: 3
+building and a&a works: 3
+plumbing and drainage system: 3
+submission process: 8
+knowledge of hvac: 3
+electrical and lighting system: 3
+ciob: 6
+hkicm: 5
+av system: 6
+construction site safety requirements: 3
+garment industry: 20
+virtualization technology: 10
+linux platforms: 4
+scala: 13
+informix: 3
+bank documents: 4
+cft: 14
+sr: 11
+web pages: 7
+hvac system: 1
+ecc: 2
+microsoft sql server: 6
+hong kong institute of certified public accountants: 6
+association of chartered certified accountants: 3
+private equity: 40
+customer journeys: 4
+portable: 4
+mciob: 3
+application server: 4
+dart: 3
+migration strategies: 1
+cisco certified network associate: 5
+ms based applications: 1
+clips: 6
+mammography: 6
+general radiology: 2
+dexa: 2
+jade: 2
+shopify: 26
+data manipulation: 6
+maya: 18
+3dmax: 9
+animation software: 2
+accpac: 5
+web-based software development: 1
+cuda: 11
+auto cad 2015: 2
+cg: 7
+visual effects: 3
+android studio: 1
+nas: 13
+it knowledge: 12
+hksi paper: 10
+venture capital: 7
+frr: 14
+mary: 1
+web framework: 3
+pure: 4
+design softwares: 7
+finance systems: 2
+briefings: 7
+web browsers: 1
+bc: 2
+pc platform: 1
+r language: 1
+wiring diagrams: 1
+cctv: 26
+energy modelling: 1
+printers: 7
+harbour: 11
+prc manufacturing: 11
+lua: 2
+aircraft maintenance: 8
+etabs: 4
+sap2000: 5
+cics: 5
+cobol: 5
+anti-money laundering: 16
+ruby on rails: 2
+hardware maintenance: 1
+pearl: 4
+ada: 1
+realtime landscaping: 1
+aml screening: 4
+hy: 3
+tal: 2
+web server: 6
+hkfrs: 9
+hk inland revenue rules: 2
+reporting systems: 2
+sehk: 6
+lims: 1
+exec: 1
+amazon web services (aws): 1
+hugo: 2
+airworthiness: 3
+airframe: 3
+information sessions: 1
+educational projects: 3
+web authoring: 1
+stakeholder events: 1
+animal science: 6
+animal husbandry: 5
+animal welfare: 6
+x10: 3
+focal: 14
+microsoft exchange: 7
+creative design: 16
+snowball: 2
+sac: 1
+abap: 7
+pcf: 1
+mac skills: 2
+delphi: 3
+animal health: 2
+animal models: 2
+web metrics: 2
+scrum framework: 3
+public cloud platforms: 4
+banking laws: 2
+alice: 3
+apt: 3
+hksfc: 3
+web hosting: 1
+remote support: 2
+help desk support: 1
+adobe acrobat: 10
+windows 10: 7
+fortran: 2
+system scripting: 1
+cisco switch: 1
+building management system: 1
+windows 7: 4
+gams: 2
+typewriting: 7
+incoming and outgoing swift payments: 2
+c language: 2
+computing platforms: 5
+web conferencing: 1
+iot applications: 1
+lis: 2
+vocational certificate: 3
+voice of the customer: 1
+forth: 2
+the hong kong institution of engineers: 8
+adobe cc: 4
+aamlp: 6
+web products: 2
+vmare: 2
+tcl: 5
+ms - word: 1
+george: 4
+visual inspection: 1
+hop: 2
+squarespace: 1
+netsuite system: 2
+cima: 2
+visual editing: 3
+abc: 1
+codes and regulations: 1
+assembly language: 4
+tmg: 2
+mhkicm: 1
+maib: 1
+unified communication: 4
+web chat: 1
+web performance: 1
+basic it knowledge: 2
+web sales: 2
+gpo: 4
+construction workers registration card: 2
+ch: 3
+airflow: 2
+sage peachtree: 1
+antivirus: 3
+odbc: 2
+material handling system: 3
+opal: 1
+web editing: 1
+certified public accountants: 1
+cl: 2
+cpl: 1
+chartered financial analyst: 2
+pizza: 1
+solidity: 2
+big 4 cpa firms: 1
+setup system: 1
+wireless protocols: 2
+accounting and reporting software: 1
+database monitoring: 1
+anti-fraud: 1
+supply chain context: 2
+argus: 1
+banking practice: 5
+es: 2
+web standards: 1
+know your customer: 2
+rsl: 2
+groovy: 2
+huawei cloud: 2
+seller central: 1
+tex: 2
+web-based systems: 1
+davinci resolve: 1
+grass: 2
+stata: 2
+powerbuilder: 1
+web application design: 1
+mathcad: 1
+counter-terrorist financing: 1
+crs reporting: 1
+qpl: 2
+systemverilog: 1
+local environmental regulations: 2
+vsan: 1
+the hong kong institute of surveyors: 1
+sads: 1
+centos: 2
+it solutions industry: 1
+osh: 1
+business software: 3
+financial risk manager: 2
+reporting writing skills: 1
+sfc authorized funds regulations: 1
+euclid: 1
+sail: 3
+certificate in supply chain: 1
+frm qualification: 1
+sugar: 2
+cpr certificate: 1
+social media applications: 1
+web experience: 1
+mel: 1
+android games: 1
+network maintenance: 1
+web savvy: 1
+my sql: 1

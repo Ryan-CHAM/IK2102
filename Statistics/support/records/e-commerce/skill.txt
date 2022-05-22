@@ -1,0 +1,246 @@
+microsoft excel: 138
+plus: 96
+amazon: 11
+e-commerce: 189
+shopify: 16
+analysis: 75
+javascript: 19
+python: 10
+microsoft office suite: 65
+google analytics: 45
+html: 21
+css: 16
+photoshop: 37
+seo: 21
+ai: 10
+adwords: 9
+microsoft word: 29
+powerpoint: 62
+outlook: 8
+sem: 19
+analytical skills: 48
+microsoft office: 32
+analytics tools: 10
+problem solving skills: 100
+chinese word processing: 43
+ip: 7
+small: 13
+facebook: 25
+project management: 80
+web: 36
+wechat: 14
+adobe: 7
+multimedia: 6
+illustrator: 18
+chinese wp: 1
+merchandizing: 2
+word: 56
+adobe illustrator: 7
+translation: 4
+wordpress: 7
+web sales: 2
+video editing: 5
+computer skills: 23
+vendor: 11
+make: 49
+go: 10
+pipelines: 2
+web-based applications: 2
+basic: 23
+processing: 6
+business management: 18
+web design: 7
+mobile: 41
+agile: 26
+customer journeys: 3
+focus: 11
+maintenance: 17
+visual merchandising: 2
+power point: 6
+adobe photoshop: 11
+adobe cs: 1
+fmcg industry: 9
+dynamic: 40
+acumen: 22
+graphics: 6
+microsoft powerpoint: 3
+salesforce: 12
+pos: 2
+workshops: 1
+hardware: 5
+data analytics: 9
+web analytics: 6
+in-design: 4
+premiere: 2
+dc: 2
+documentation: 22
+presentation skill: 3
+luxury industry: 5
+vba: 3
+sas: 1
+information system: 12
+sql: 18
+r: 2
+presentations: 7
+goal: 9
+cpa: 6
+writing skills: 4
+integration: 19
+final cut pro: 1
+adobe premiere pro: 2
+after effects: 5
+programming: 14
+max: 1
+adobe creative suite: 2
+numerical skills: 2
+no: 12
+sizable companies: 1
+whatsapp: 10
+acca: 6
+sap: 5
+professional qualifications: 1
+accounting systems: 1
+hkicpa: 1
+erp: 10
+order processing: 5
+exchange: 5
+bi: 11
+tableau: 10
+spring: 4
+lean: 3
+six sigma: 3
+pc knowledge: 5
+simple: 5
+airlines: 4
+safe: 5
+words: 5
+typing: 9
+java: 16
+restful api: 3
+git: 9
+php: 17
+aws: 14
+cloud environment: 2
+oracle: 11
+inform: 2
+management reports: 1
+crypto: 2
+blockchain: 1
+investment products: 1
+google trends: 2
+data network: 1
+ccnp: 5
+cisco certified network associate: 1
+ccna: 5
+system implementation: 5
+gap: 3
+fun: 10
+word processing: 5
+pc: 4
+rapid: 3
+react: 10
+pc applications: 3
+tea: 1
+ms sql server: 1
+c#: 7
+sales support: 4
+dreamweaver: 2
+service level agreement: 1
+web presence: 1
+web applications: 3
+deployment: 11
+web application development: 4
+angular: 3
+jenkins: 2
+devops: 6
+code: 6
+c++: 2
+ms sql: 5
+c: 3
+dart: 1
+microservices: 3
+react native: 4
+web development: 7
+adobe xd: 3
+computing platforms: 1
+scheme: 7
+lcc: 2
+jquery: 5
+ajax: 2
+android: 6
+itil: 3
+s3: 2
+sdlc: 1
+azure: 3
+web application design: 1
+container: 1
+web & mobile: 1
+kotlin: 1
+scrum framework: 1
+data management: 2
+web technologies: 5
+hibernate: 1
+struts: 1
+application system: 1
+chill: 5
+data manipulation: 2
+pl: 1
+cobol: 1
+linux: 2
+unity: 1
+server: 2
+typescript: 1
+marketing skills: 1
+pivot table: 4
+vlookup: 3
+planner: 4
+seller central: 1
+macro: 1
+demand planning: 1
+nice: 1
+joy: 2
+premiere pro: 2
+clean: 1
+tom: 1
+import and export: 1
+sla: 1
+erp systems: 1
+supply planning: 1
+vs: 1
+forth: 1
+ease: 1
+flash: 1
+spreadsheet: 1
+aml: 2
+kyc: 2
+hvac: 1
+rpa: 1
+project management professional: 1
+technical analysis: 1
+pmp: 1
+business intelligence: 3
+data warehouse: 1
+databases: 1
+data visualization: 2
+web traffic: 2
+fatca: 1
+counter-terrorist financing: 1
+anti-money laundering: 1
+crs reporting: 1
+system design: 1
+crypto currency: 1
+hkfrs: 1
+financial analysis: 1
+tcp: 2
+router: 2
+wan: 2
+hyper-v: 1
+virtualization technology: 1
+vmware: 1
+active directory: 1
+mcse: 1
+es: 1
+chinese input: 1
+facilities management: 1
+bookings: 1
+budget management: 1

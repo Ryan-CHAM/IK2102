@@ -1,0 +1,95 @@
+joy: 200.00%
+graphics: 200.00%
+go: 150.00%
+reason: 100.00%
+photoshop: 100.00%
+goal: 100.00%
+integration: 66.67%
+fun: 66.67%
+wan: 66.67%
+databases: 66.67%
+alteryx: 66.67%
+peachtree accounting system: 50.00%
+inform: 50.00%
+rapid: 50.00%
+investment products: 50.00%
+pc applications: 50.00%
+credit analysis: 50.00%
+pe: 50.00%
+server: 50.00%
+focus: 44.44%
+companies ordinance: 42.86%
+prc accounting: 42.11%
+vendor: 40.00%
+frr: 40.00%
+dcl: 33.33%
+system implementation: 33.33%
+simple: 33.33%
+agile: 33.33%
+microsoft powerpoint: 33.33%
+code: 33.33%
+adobe illustrator: 33.33%
+private equity: 33.33%
+documentation: 30.77%
+vba: 30.77%
+data analytics: 30.00%
+flex accounting: 30.00%
+professional qualifications: 29.41%
+no: 29.17%
+ar: 26.67%
+financial analysis: 26.09%
+computer skills: 25.58%
+xero: 25.00%
+writing skills: 25.00%
+html: 25.00%
+crypto: 25.00%
+management reports: 23.53%
+sap: 23.08%
+analysis: 22.95%
+presentations: 22.22%
+processing: 22.22%
+problem solving skills: 20.00%
+crs: 20.00%
+fatca: 20.00%
+prc manufacturing: 20.00%
+sql: 20.00%
+business management: 20.00%
+internal control: 18.52%
+exchange: 18.18%
+oracle: 17.95%
+cpa: 17.80%
+basic: 17.39%
+pc knowledge: 16.67%
+make: 16.67%
+macro: 16.67%
+accounting softwares: 16.00%
+erp: 15.79%
+bi: 15.38%
+ap: 15.38%
+acumen: 15.22%
+microsoft excel: 14.66%
+mobile: 14.29%
+maintenance: 14.29%
+microsoft office suite: 14.05%
+plus: 14.02%
+analytical skills: 13.64%
+microsoft office: 13.51%
+powerpoint: 13.33%
+scheme: 13.33%
+erp systems: 13.33%
+cfa: 13.33%
+outlook: 12.50%
+project management: 12.50%
+microsoft word: 11.94%
+chinese word processing: 11.76%
+e-commerce: 11.11%
+small: 11.11%
+word: 10.61%
+hkicpa: 9.76%
+acca: 9.30%
+dynamic: 8.51%
+gm: 8.33%
+lcc: 6.67%
+flex system: 5.88%
+myob: 5.56%
+accounting systems: 3.64%

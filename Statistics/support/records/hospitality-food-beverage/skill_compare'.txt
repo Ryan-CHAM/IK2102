@@ -1,0 +1,18 @@
+presentation skill: 100.00%
+id: 50.00%
+goal: 50.00%
+go: 33.33%
+make: 30.00%
+analytical skills: 25.00%
+computer skills: 25.00%
+dynamic: 18.18%
+clean: 16.67%
+fun: 15.38%
+chinese word processing: 14.29%
+basic: 14.29%
+whatsapp: 11.76%
+plus: 11.76%
+microsoft office suite: 8.70%
+wan: 8.33%
+no: 6.25%
+microsoft excel: 3.45%

@@ -1,0 +1,201 @@
+video editing: 26
+no: 21
+photoshop: 243
+adobe illustrator: 40
+plus: 55
+autocad: 85
+3ds max: 17
+r&d: 3
+3d software: 18
+basic: 22
+ai: 29
+mac environment: 9
+visual merchandising: 18
+multimedia: 74
+animation and video editing: 5
+illustration: 15
+project management: 27
+management reports: 1
+goal: 3
+facilities management: 1
+deployment: 2
+microsoft office suite: 29
+graphics: 35
+illustrator: 177
+premiere: 30
+after effects: 65
+visual design: 17
+rhino: 7
+final cut pro: 9
+html: 36
+adobe premiere pro: 1
+javascript: 16
+programming: 9
+max: 21
+adobe creative suite: 44
+web design: 30
+mobile: 31
+facebook: 19
+problem solving skills: 24
+flash: 14
+dreamweaver: 19
+css: 39
+presentations: 15
+adobe: 38
+whatsapp: 3
+in-design: 75
+premiere pro: 11
+adobe photoshop: 33
+typing: 2
+pc: 14
+presentation skill: 8
+c4d: 2
+adobe cs: 5
+web: 44
+analysis: 13
+dynamic: 13
+dog: 1
+exchange: 2
+red: 3
+wordpress: 10
+go: 4
+sketchup: 28
+analytical skills: 5
+microsoft excel: 34
+word processing: 2
+powerpoint: 29
+word: 24
+agile: 9
+rapid: 7
+workshops: 3
+focus: 5
+microsoft office: 14
+fun: 7
+small: 11
+seo: 12
+3d modelling: 4
+bim: 2
+revit: 4
+cad: 10
+computer skills: 5
+adobe software: 4
+sketch up: 7
+visual identity: 1
+nice: 6
+unity: 5
+adobe xd: 7
+wan: 1
+acc: 2
+apex: 2
+e-commerce: 13
+web graphics: 3
+google analytics: 3
+sem: 2
+cool: 3
+adobe indesign: 1
+blockchain: 4
+maintenance: 9
+web pages: 3
+factor: 3
+chinese and english word processing: 1
+visual communication: 9
+make: 17
+wechat: 11
+java: 7
+react: 3
+safe: 5
+maya: 11
+3dmax: 5
+scratch: 1
+microsoft project: 2
+solidworks: 7
+design softwares: 3
+logo: 4
+web applications: 3
+shopify: 2
+pc platform: 1
+etabs: 1
+sap2000: 1
+processing: 3
+luxury industry: 1
+reason: 2
+briefings: 1
+php: 2
+typescript: 1
+python: 2
+animate: 1
+c++: 1
+matlab: 1
+documentation: 9
+acumen: 5
+chinese word processing: 6
+microsoft word: 10
+acrobat: 5
+pc applications: 1
+id: 1
+clips: 2
+creative design: 7
+web development: 3
+power point: 3
+translation: 3
+chinese input: 1
+mac os: 1
+office software: 1
+system design: 1
+azure: 2
+react native: 1
+integration: 2
+kotlin: 1
+devops: 1
+objective-c: 1
+aws: 1
+container: 1
+swift: 1
+code: 3
+android: 1
+adobe premiere: 6
+joy: 1
+mad: 1
+jquery: 1
+pc operations: 1
+outlook: 1
+c: 3
+web products: 1
+squarespace: 1
+office 365: 1
+scheme: 4
+pos: 3
+creative suite: 1
+r: 2
+ar: 3
+adwords: 1
+marco: 1
+bi: 1
+rpa: 1
+web services: 1
+crypto currency: 1
+microsoft powerpoint: 1
+adobe acrobat: 4
+ip: 2
+batch: 1
+pilot: 1
+writing skills: 4
+information system: 1
+cg: 3
+statistical analysis: 1
+technical analysis: 1
+six sigma: 1
+hardware: 1
+visual effects: 1
+amazon: 1
+dc: 2
+simple: 1
+inform: 1
+data mining: 1
+adobe cc: 1
+animation software: 1
+venture capital: 1
+crypto: 1
+io: 1
+chill: 1
+words: 1

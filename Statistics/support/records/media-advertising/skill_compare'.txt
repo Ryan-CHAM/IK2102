@@ -1,0 +1,98 @@
+salesforce: 200.00%
+av system: 200.00%
+whatsapp: 100.00%
+agile: 100.00%
+finance systems: 100.00%
+pl: 100.00%
+pivot table: 100.00%
+analytics tools: 100.00%
+mac os: 100.00%
+vlookup: 100.00%
+planner: 100.00%
+signal: 100.00%
+rapid: 100.00%
+small: 77.78%
+focus: 71.43%
+make: 50.00%
+go: 50.00%
+numerical skills: 50.00%
+dreamweaver: 50.00%
+power point: 50.00%
+android: 50.00%
+words: 50.00%
+adobe xd: 50.00%
+documentation: 50.00%
+adobe premiere: 46.67%
+adobe illustrator: 36.84%
+mobile: 36.36%
+basic: 33.33%
+computer skills: 33.33%
+seo: 33.33%
+adobe premiere pro: 33.33%
+cg: 33.33%
+animate: 33.33%
+fmcg industry: 33.33%
+autocad: 33.33%
+no: 32.14%
+word: 31.71%
+pc: 30.00%
+microsoft office: 29.17%
+e-commerce: 29.17%
+fun: 28.57%
+web design: 28.57%
+pc applications: 28.57%
+microsoft office suite: 27.27%
+adobe photoshop: 27.27%
+analysis: 26.47%
+facebook: 25.86%
+project management: 25.81%
+business management: 25.00%
+max: 25.00%
+outlook: 25.00%
+video editing: 25.00%
+scheme: 25.00%
+visual design: 25.00%
+typing: 25.00%
+vendor: 25.00%
+premiere: 23.53%
+microsoft excel: 23.30%
+illustrator: 23.17%
+after effects: 21.92%
+powerpoint: 21.33%
+google analytics: 21.05%
+photoshop: 20.77%
+server: 20.00%
+information system: 20.00%
+goal: 20.00%
+sem: 19.35%
+multimedia: 19.05%
+html: 18.75%
+adobe: 18.18%
+analytical skills: 17.07%
+dynamic: 16.67%
+acumen: 16.67%
+final cut pro: 16.67%
+hardware: 16.67%
+illustration: 16.67%
+c: 16.67%
+data analytics: 16.67%
+writing skills: 16.00%
+adwords: 15.38%
+in-design: 15.38%
+chinese word processing: 14.89%
+wan: 14.29%
+maintenance: 14.29%
+web development: 14.29%
+graphics: 13.64%
+css: 13.33%
+web: 13.33%
+plus: 13.13%
+wechat: 12.50%
+adobe creative suite: 11.11%
+premiere pro: 9.52%
+translation: 8.70%
+microsoft word: 8.33%
+processing: 7.14%
+presentations: 7.14%
+problem solving skills: 6.78%
+ai: 5.56%

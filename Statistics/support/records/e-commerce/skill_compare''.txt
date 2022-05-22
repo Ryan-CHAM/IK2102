@@ -1,0 +1,102 @@
+vlookup: 200.00%
+pivot table: 100.00%
+crypto: 100.00%
+joy: 100.00%
+word processing: 100.00%
+sap: 100.00%
+angular: 100.00%
+jquery: 100.00%
+ajax: 100.00%
+c++: 100.00%
+pipelines: 100.00%
+web-based applications: 100.00%
+tcp: 100.00%
+router: 100.00%
+wan: 100.00%
+acca: 100.00%
+chill: 100.00%
+small: 80.00%
+go: 75.00%
+devops: 66.67%
+adobe: 66.67%
+code: 66.67%
+web analytics: 66.67%
+ai: 60.00%
+ccnp: 50.00%
+deployment: 50.00%
+business intelligence: 50.00%
+microsoft powerpoint: 50.00%
+itil: 50.00%
+pc: 50.00%
+c: 50.00%
+cpa: 50.00%
+integration: 44.44%
+shopify: 44.44%
+focus: 40.00%
+basic: 33.33%
+web application development: 33.33%
+sales support: 33.33%
+maintenance: 33.33%
+ccna: 33.33%
+whatsapp: 33.33%
+video editing: 33.33%
+words: 33.33%
+project management: 32.61%
+make: 31.03%
+documentation: 30.77%
+programming: 30.00%
+analytical skills: 29.63%
+erp: 28.57%
+word: 26.67%
+salesforce: 25.00%
+wechat: 25.00%
+ip: 25.00%
+order processing: 25.00%
+adwords: 25.00%
+typing: 25.00%
+android: 25.00%
+web development: 25.00%
+graphics: 25.00%
+microsoft office suite: 22.50%
+business management: 22.22%
+microsoft excel: 21.79%
+google analytics: 20.69%
+php: 20.00%
+aws: 20.00%
+fmcg industry: 20.00%
+computer skills: 20.00%
+presentations: 20.00%
+c#: 20.00%
+java: 20.00%
+git: 20.00%
+problem solving skills: 19.40%
+photoshop: 19.23%
+e-commerce: 19.13%
+plus: 17.86%
+microsoft office: 17.65%
+web: 17.39%
+facebook: 16.67%
+vendor: 16.67%
+sem: 16.67%
+chinese word processing: 15.38%
+javascript: 15.38%
+dynamic: 14.81%
+mobile: 14.29%
+oracle: 14.29%
+analytics tools: 14.29%
+agile: 12.50%
+information system: 12.50%
+amazon: 12.50%
+seo: 12.50%
+adobe photoshop: 12.50%
+tableau: 11.11%
+python: 11.11%
+powerpoint: 10.26%
+bi: 10.00%
+css: 7.69%
+sql: 7.69%
+illustrator: 7.69%
+html: 7.14%
+acumen: 6.67%
+microsoft word: 6.25%
+analysis: 5.45%

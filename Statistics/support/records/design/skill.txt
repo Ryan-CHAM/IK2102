@@ -1,0 +1,215 @@
+illustrator: 269
+photoshop: 380
+processing: 5
+basic: 42
+3d software: 23
+solidworks: 12
+statistical analysis: 1
+cad: 18
+technical analysis: 1
+microsoft office suite: 42
+six sigma: 1
+documentation: 16
+dynamic: 24
+scratch: 3
+microsoft excel: 52
+plus: 100
+rhino: 12
+adobe illustrator: 57
+project management: 39
+computer skills: 8
+ai: 46
+in-design: 122
+sketchup: 45
+autocad: 139
+max: 31
+premiere: 39
+web graphics: 3
+after effects: 89
+presentation skill: 13
+briefings: 1
+powerpoint: 48
+problem solving skills: 42
+make: 22
+adobe creative suite: 63
+graphics: 58
+maintenance: 12
+web: 73
+design softwares: 4
+microsoft office: 21
+adobe photoshop: 51
+word: 33
+dreamweaver: 25
+pc: 23
+logo: 7
+creative design: 19
+final cut pro: 13
+e-commerce: 22
+writing skills: 8
+video editing: 49
+visual communication: 18
+small: 15
+r&d: 6
+mac os: 3
+multimedia: 104
+illustration: 25
+mobile: 51
+visual design: 22
+html: 50
+javascript: 24
+css: 53
+adobe: 50
+lean: 1
+agile: 12
+analysis: 22
+safe: 6
+rapid: 10
+ip: 3
+3d modelling: 6
+no: 29
+web applications: 3
+c: 6
+r: 2
+focus: 9
+acrobat: 6
+analytical skills: 9
+microsoft applications: 2
+visual merchandising: 26
+power point: 4
+chinese word processing: 10
+typing: 2
+chinese and english word processing: 1
+acc: 2
+apex: 2
+flash: 17
+nice: 7
+amazon: 1
+3ds max: 21
+web design: 42
+code: 4
+simple: 2
+inform: 2
+cool: 3
+data mining: 1
+facebook: 29
+fun: 12
+words: 3
+adobe software: 8
+creative suite: 1
+c++: 1
+matlab: 1
+python: 3
+maya: 13
+sketch up: 15
+office software: 2
+pc operations: 1
+outlook: 2
+microsoft word: 17
+java: 9
+seo: 14
+wordpress: 12
+jquery: 3
+3dmax: 10
+react: 4
+php: 7
+microsoft powerpoint: 2
+workshops: 4
+presentations: 23
+blockchain: 4
+web pages: 3
+factor: 3
+unity: 6
+adobe indesign: 3
+web development: 6
+information system: 1
+adobe premiere: 8
+adobe cs: 5
+programming: 9
+google analytics: 7
+adobe xd: 12
+shopify: 5
+mac environment: 11
+clips: 2
+adobe cc: 1
+animation software: 1
+clean: 1
+android: 4
+crypto: 1
+io: 2
+ar: 3
+go: 5
+dc: 2
+system design: 1
+acumen: 7
+batch: 1
+scheme: 6
+wechat: 12
+bi: 1
+azure: 2
+pos: 6
+rpa: 1
+integration: 2
+web services: 1
+id: 1
+adwords: 1
+sem: 2
+linux: 1
+swift: 2
+kotlin: 2
+typescript: 1
+visual identity: 1
+venture capital: 1
+adobe acrobat: 5
+premiere pro: 17
+c4d: 2
+reason: 2
+animation and video editing: 5
+whatsapp: 6
+pc knowledge: 1
+animate: 2
+translation: 4
+fmcg industry: 1
+squarespace: 1
+revit: 12
+bim: 7
+educational projects: 1
+mad: 2
+management reports: 1
+goal: 4
+facilities management: 1
+deployment: 2
+microsoft project: 5
+red: 4
+harbour: 1
+chinese input: 2
+sfo: 2
+cg: 3
+pc applications: 2
+wan: 1
+crypto currency: 1
+web products: 1
+bim modelling: 1
+word processing: 2
+joy: 1
+dynamo: 1
+ap: 1
+etabs: 1
+sap2000: 1
+adobe premiere pro: 2
+chill: 1
+visual editing: 1
+hardware: 1
+visual effects: 1
+hop: 1
+react native: 1
+devops: 1
+objective-c: 1
+aws: 1
+container: 1
+marco: 1
+office 365: 1
+exchange: 2
+pilot: 1
+luxury industry: 1
+pc platform: 1
+dog: 1

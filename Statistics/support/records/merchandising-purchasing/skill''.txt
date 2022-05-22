@@ -1,0 +1,182 @@
+microsoft office: 34
+cad: 4
+problem solving skills: 94
+analysis: 59
+make: 24
+dynamic: 21
+documentation: 12
+erp systems: 30
+microsoft excel: 255
+analytical skills: 57
+maintenance: 7
+word: 104
+vendor: 45
+powerpoint: 88
+outlook: 45
+microsoft word: 75
+business management: 15
+pivot table: 21
+vlookup: 19
+microsoft office suite: 167
+airports: 1
+sap: 23
+computer skills: 53
+acumen: 13
+demand planning: 3
+oracle erp: 1
+rapid: 9
+plus: 66
+basic: 11
+accounting systems: 1
+agile: 2
+go: 6
+id: 6
+pc applications: 5
+chinese word processing: 60
+project management: 37
+pc knowledge: 36
+data management: 3
+r&d: 7
+bloomberg: 4
+react: 5
+gap: 5
+focus: 15
+order processing: 10
+goal: 6
+service level agreement: 3
+office software: 4
+c: 9
+inform: 2
+oracle: 6
+hermes: 1
+small: 17
+presentation skill: 6
+hong kong employment ordinance: 1
+power point: 15
+chinese wp: 3
+fun: 5
+simple: 2
+graphics: 1
+illustrator: 12
+scheme: 19
+multimedia: 2
+red: 2
+photoshop: 18
+chinese and english word processing: 1
+ip: 5
+microsoft applications: 4
+visual merchandising: 5
+e-commerce: 8
+pc: 17
+erp: 12
+3d software: 1
+adobe photoshop: 3
+adobe illustrator: 4
+acc: 3
+mobile: 10
+hardware: 3
+logo: 3
+planner: 4
+translation: 4
+garment industry: 9
+wan: 9
+sr: 4
+exchange: 9
+bi: 3
+supply planning: 1
+facebook: 7
+tal: 2
+vba: 1
+pilot: 1
+system implementation: 1
+pmp: 3
+cfa: 1
+financial analysis: 1
+cpa: 3
+vs: 5
+pc operations: 5
+x10: 3
+no: 9
+code: 4
+spreadsheet: 1
+autocad: 5
+bc: 1
+oracle system: 1
+in-design: 1
+typing: 6
+pos: 1
+fmcg industry: 3
+writing skills: 2
+tableau: 1
+sql: 2
+python: 2
+r: 1
+presentations: 9
+tea: 1
+max: 2
+system design: 1
+hkie: 1
+c language: 1
+workshops: 3
+databases: 1
+forth: 1
+charity: 2
+blockchain: 1
+lean: 1
+data analytics: 1
+ai: 1
+hop: 1
+chinese input: 2
+management reports: 2
+words: 3
+jenkins: 1
+web: 5
+server: 2
+vmware: 3
+tcp: 2
+integration: 2
+amazon web services: 1
+office 365: 1
+devops: 2
+ruby: 1
+aws: 2
+ansible: 1
+linux: 2
+php: 2
+bash: 1
+deployment: 4
+programming: 2
+powershell: 1
+processing: 8
+merchandizing: 2
+professional qualifications: 4
+ladder: 1
+solidworks: 2
+word processing: 2
+azure: 2
+react native: 1
+java: 2
+css: 1
+kotlin: 1
+objective-c: 1
+container: 1
+swift: 1
+android: 1
+accpac: 1
+facilities management: 1
+ms sql: 1
+c#: 1
+acca: 2
+chill: 2
+illustration: 1
+microsoft powerpoint: 1
+whatsapp: 2
+ccnp: 1
+ccna: 1
+firewall: 2
+import and export: 1
+switch: 1
+router: 1
+vpn: 1
+reason: 1
+supply chain context: 1

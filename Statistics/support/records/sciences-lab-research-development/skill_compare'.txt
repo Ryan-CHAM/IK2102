@@ -1,0 +1,63 @@
+business management: 100.00%
+exchange: 100.00%
+max: 100.00%
+animal models: 100.00%
+bash: 100.00%
+ip: 100.00%
+data analytics: 100.00%
+cad: 100.00%
+tcl: 100.00%
+outlook: 50.00%
+green card: 50.00%
+beta: 50.00%
+vendor: 50.00%
+animal studies: 40.00%
+linux: 40.00%
+whatsapp: 40.00%
+hardware: 33.33%
+animal work: 33.33%
+gap: 33.33%
+acumen: 33.33%
+statistical analysis: 33.33%
+microsoft word: 25.00%
+pc knowledge: 25.00%
+mouse: 25.00%
+ai: 25.00%
+documentation: 25.00%
+pc: 25.00%
+deployment: 25.00%
+microsoft office: 23.08%
+autocad: 22.22%
+chinese word processing: 22.22%
+maintenance: 21.62%
+java: 20.00%
+safe: 20.00%
+writing skills: 20.00%
+powerpoint: 19.51%
+processing: 19.05%
+plus: 17.78%
+r&d: 17.39%
+dynamic: 16.67%
+data management: 16.67%
+project management: 15.38%
+microsoft office suite: 14.81%
+analysis: 14.75%
+microsoft excel: 14.47%
+rapid: 14.29%
+computer skills: 13.33%
+make: 12.50%
+problem solving skills: 12.31%
+python: 11.76%
+web: 11.11%
+c++: 11.11%
+typing: 11.11%
+programming: 10.53%
+databases: 10.00%
+analytical skills: 9.09%
+word: 8.70%
+no: 8.57%
+r: 8.33%
+basic: 8.11%
+c: 6.67%
+scheme: 5.00%
+focus: 4.17%

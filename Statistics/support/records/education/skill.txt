@@ -1,0 +1,112 @@
+c: 19
+wan: 8
+microsoft excel: 38
+word: 13
+make: 12
+writing skills: 6
+small: 11
+plus: 61
+goal: 2
+powerpoint: 17
+microsoft office suite: 23
+outlook: 3
+basic: 24
+no: 28
+building information modelling: 2
+bim: 3
+problem solving skills: 18
+business management: 1
+pl: 1
+id: 10
+code: 8
+scheme: 10
+whatsapp: 3
+iiqe: 1
+project management: 8
+analysis: 17
+tutor: 1
+mathematics: 2
+facebook: 4
+fun: 4
+ap: 1
+php: 1
+google apps: 1
+ar: 1
+ai: 4
+data analytics: 2
+professional qualifications: 5
+focus: 10
+web: 4
+exchange: 3
+dynamic: 3
+integration: 3
+inform: 1
+mary: 1
+chinese word processing: 12
+chinese and english word processing: 4
+publisher: 3
+office software: 5
+computer systems: 4
+information system: 3
+mobile: 4
+computer skills: 5
+documentation: 1
+analytical skills: 5
+workshops: 3
+data management: 2
+sem: 2
+amos: 1
+statistical analysis: 2
+pilot: 1
+r: 1
+r&d: 3
+processing: 6
+factor: 1
+revit: 1
+multimedia: 3
+max: 1
+macro: 1
+microsoft word: 13
+first aid: 1
+cpr certificate: 1
+microsoft office: 8
+graphics: 2
+hkie: 1
+cool: 1
+pe: 3
+words: 1
+vendor: 1
+accounting softwares: 1
+microsoft applications: 1
+illustrator: 3
+photoshop: 3
+databases: 3
+pc applications: 1
+typing: 3
+facilities management: 2
+adobe photoshop: 2
+adobe premiere: 1
+clean: 1
+system implementation: 1
+word processing: 2
+spreadsheet: 1
+maintenance: 5
+autocad: 2
+final cut pro: 1
+video editing: 2
+web design: 2
+web development: 1
+seo: 1
+jquery: 1
+wordpress: 1
+javascript: 1
+in-design: 1
+alice: 1
+adobe illustrator: 1
+pc: 1
+safe: 1
+acca: 1
+hong kong institute of certified public accountants: 1
+association of chartered certified accountants: 1
+cpa: 1
+hkicpa: 1

@@ -1,0 +1,87 @@
+vlookup: 200.00%
+cdd: 200.00%
+acca: 140.00%
+fmcg industry: 100.00%
+r: 100.00%
+crypto: 100.00%
+dbms: 100.00%
+javascript: 100.00%
+order processing: 100.00%
+css: 100.00%
+chinese wp: 100.00%
+six sigma: 100.00%
+hkicpa: 100.00%
+office 365: 100.00%
+adobe photoshop: 100.00%
+cima: 100.00%
+seo: 100.00%
+sas: 100.00%
+data mining: 100.00%
+whatsapp: 100.00%
+pe: 100.00%
+joy: 100.00%
+mad: 100.00%
+power point: 100.00%
+kyc: 75.00%
+aml: 71.43%
+presentations: 66.67%
+bi: 66.67%
+focus: 60.00%
+vba: 60.00%
+project management: 53.33%
+sizable companies: 50.00%
+programming: 50.00%
+rics: 50.00%
+hkis: 50.00%
+php: 50.00%
+agile: 50.00%
+pivot table: 50.00%
+sfo: 50.00%
+business intelligence: 50.00%
+word processing: 50.00%
+go: 50.00%
+documentation: 42.86%
+scheme: 33.33%
+professional qualifications: 33.33%
+google analytics: 33.33%
+html: 33.33%
+fun: 33.33%
+hkma: 33.33%
+private equity: 33.33%
+basic: 33.33%
+microsoft office: 30.77%
+data analytics: 28.57%
+cpa: 26.67%
+financial analysis: 25.00%
+cfa: 25.00%
+problem solving skills: 25.00%
+no: 25.00%
+words: 25.00%
+information system: 25.00%
+sql: 22.22%
+microsoft office suite: 22.22%
+word: 22.22%
+outlook: 22.22%
+microsoft word: 21.62%
+microsoft excel: 20.99%
+chinese word processing: 20.37%
+analytical skills: 20.00%
+writing skills: 20.00%
+pc: 20.00%
+erp: 20.00%
+plus: 19.15%
+powerpoint: 18.37%
+typing: 18.18%
+dynamic: 18.18%
+computer skills: 17.65%
+translation: 17.07%
+code: 16.67%
+analysis: 15.79%
+securities and futures ordinance: 15.38%
+ai: 14.29%
+processing: 14.29%
+maintenance: 12.50%
+companies ordinance: 11.76%
+sap: 11.11%
+python: 11.11%
+make: 5.56%

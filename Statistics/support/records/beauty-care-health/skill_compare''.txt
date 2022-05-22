@@ -1,0 +1,31 @@
+rapid: 100.00%
+workshops: 100.00%
+hope: 100.00%
+erp: 100.00%
+google analytics: 100.00%
+computer operation knowledge: 100.00%
+joy: 100.00%
+c: 100.00%
+adobe illustrator: 100.00%
+make: 75.00%
+microsoft word: 75.00%
+dynamic: 66.67%
+facebook: 66.67%
+microsoft excel: 50.00%
+basic: 50.00%
+outlook: 50.00%
+problem solving skills: 44.44%
+chinese word processing: 33.33%
+hksi: 33.33%
+analytical skills: 33.33%
+no: 30.77%
+powerpoint: 28.57%
+microsoft office suite: 26.09%
+word: 25.00%
+maintenance: 25.00%
+focus: 25.00%
+computer skills: 22.22%
+whatsapp: 20.59%
+scheme: 16.67%
+photoshop: 16.67%
+plus: 14.29%

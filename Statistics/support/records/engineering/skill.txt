@@ -1,0 +1,239 @@
+problem solving skills: 89
+project management: 73
+pc knowledge: 5
+autocad: 170
+scheme: 28
+microsoft office: 29
+microsoft excel: 63
+word: 37
+certificate of registration of electrical worker: 9
+analytical skills: 11
+maintenance: 98
+rapid: 7
+simple: 4
+chinese word processing: 24
+powerpoint: 23
+microsoft office suite: 98
+computer skills: 19
+workshops: 13
+cctv: 14
+chinese and english word processing: 1
+microsoft word: 24
+documentation: 26
+construction workers registration card: 1
+linux: 17
+plus: 64
+ms windows: 1
+c++: 13
+c: 29
+programming: 28
+hkie: 29
+hkis: 3
+safe: 10
+code: 22
+java: 3
+server: 6
+web: 2
+php: 4
+swift: 1
+html: 3
+objective-c: 1
+mobile: 27
+javascript: 4
+css: 2
+focus: 9
+android: 3
+microsoft project: 7
+sql: 7
+aws: 13
+green card: 15
+basic: 30
+system design: 18
+deployment: 7
+mhkie: 10
+outlook: 3
+the hong kong institute of surveyors: 1
+tcp: 3
+ip: 19
+python: 14
+revit: 23
+assembly language: 3
+hvac: 18
+plc: 12
+hardware: 10
+security personnel permit: 5
+sketchup: 16
+bim: 43
+integration: 15
+clean: 1
+fun: 2
+processing: 11
+adobe photoshop: 2
+rhino: 5
+cad: 35
+matlab: 5
+solidworks: 15
+auto cad 2015: 2
+dc: 13
+container: 5
+wan: 3
+wechat: 1
+ap: 2
+pc applications: 9
+submission process: 3
+pc: 8
+photoshop: 14
+r: 5
+analysis: 36
+material handling system: 2
+pe: 2
+hkicm: 3
+ciob: 3
+no: 14
+ccnp: 8
+ccna: 13
+hope: 1
+whatsapp: 25
+erp: 3
+dynamic: 9
+acumen: 4
+words: 2
+power point: 6
+facilities management: 8
+bms: 7
+cuda: 2
+ml: 2
+c#: 7
+ease: 2
+adobe: 2
+hong kong construction and building related legislations: 2
+fire services system: 2
+building and a&a works: 2
+make: 11
+plumbing and drainage system: 2
+knowledge of hvac: 2
+electrical and lighting system: 2
+elv system: 3
+rics: 2
+av system: 2
+construction site safety requirements: 2
+vpn: 4
+professional qualifications: 3
+microsoft applications: 2
+pmp: 2
+ai: 7
+c language: 1
+vhdl: 1
+verilog: 2
+data management: 1
+sap: 3
+cyber security: 1
+itil: 5
+nice: 3
+small: 8
+information system: 4
+exchange: 4
+office software: 2
+the hong kong institution of engineers: 6
+signal: 5
+sales support: 1
+vendor: 12
+r&d: 14
+go: 2
+sps: 1
+beta: 1
+fortran: 1
+tcl: 1
+wiring diagrams: 1
+labview: 5
+visual basic: 1
+portable: 2
+e-commerce: 1
+system implementation: 4
+data manipulation: 1
+business management: 2
+hong kong employment ordinance: 1
+agile: 5
+web design: 1
+adobe xd: 1
+building management system: 1
+presentations: 4
+planner: 1
+id: 1
+building information modelling: 2
+engineering software packages: 1
+3d modelling: 2
+network management: 5
+server administration: 2
+writing skills: 9
+data storage: 2
+switch: 4
+router: 6
+firewall: 2
+data network: 2
+azure: 7
+presentation skill: 4
+sla: 1
+ms sql server: 1
+jquery: 2
+git: 2
+ajax: 1
+restful api: 2
+angular: 1
+web applications: 2
+react: 1
+application system: 1
+oracle: 1
+perl: 1
+unified communication: 1
+problem solving capabilities: 1
+billing system: 1
+virtualization technology: 1
+ms sql: 1
+networking systems: 1
+xl: 1
+io: 1
+android development: 1
+lean: 7
+apache: 1
+systemverilog: 1
+microservices: 1
+hibernate: 1
+struts: 1
+spring: 1
+multimedia: 1
+illustrator: 3
+revit architecture: 1
+3d software: 1
+etabs: 1
+bim modelling: 1
+dynamo: 2
+chinese input: 1
+pc operations: 3
+acrobat: 1
+3ds max: 1
+sketch up: 2
+sap2000: 1
+max: 2
+microsoft powerpoint: 1
+sem: 1
+typing: 1
+hong kong driving licence: 1
+wi-fi: 1
+erp systems: 1
+ems: 2
+six sigma: 4
+bi: 1
+tableau: 1
+qpl: 1
+red: 1
+aircraft systems: 1
+inform: 1
+prc manufacturing: 1
+goal: 1
+aircraft maintenance: 2
+airlines: 1
+aircraft: 1
+iot applications: 1
+data warehouse: 1
+operation support: 1

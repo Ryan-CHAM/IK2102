@@ -1,0 +1,46 @@
+sketch up: 100.00%
+processing: 100.00%
+hksi: 100.00%
+goal: 100.00%
+graphics: 100.00%
+adobe illustrator: 100.00%
+bim modelling: 100.00%
+hkis: 75.00%
+adobe photoshop: 50.00%
+clean: 50.00%
+no: 40.00%
+dynamic: 40.00%
+pc: 40.00%
+sap2000: 33.33%
+pc knowledge: 33.33%
+analysis: 25.00%
+focus: 25.00%
+ai: 25.00%
+revit: 23.81%
+problem solving skills: 23.08%
+whatsapp: 20.00%
+scheme: 20.00%
+autocad: 17.58%
+bim: 16.67%
+chinese word processing: 16.67%
+maintenance: 16.00%
+microsoft word: 15.38%
+make: 14.29%
+word: 14.29%
+basic: 14.29%
+microsoft project: 14.29%
+cad: 14.29%
+analytical skills: 14.29%
+microsoft excel: 13.16%
+microsoft office: 12.50%
+code: 12.50%
+rhino: 12.50%
+microsoft office suite: 10.42%
+mhkie: 9.09%
+project management: 8.33%
+powerpoint: 7.69%
+sketchup: 7.41%
+hkie: 7.14%
+computer skills: 6.67%
+photoshop: 5.88%
+plus: 5.56%

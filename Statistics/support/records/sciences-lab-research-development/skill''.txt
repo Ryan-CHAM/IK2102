@@ -1,0 +1,157 @@
+microsoft excel: 76
+microsoft office: 13
+no: 35
+verilog: 3
+hardware: 3
+vhdl: 2
+programming: 19
+microsoft office suite: 54
+autocad: 9
+analysis: 61
+maintenance: 37
+problem solving skills: 65
+word: 46
+powerpoint: 41
+outlook: 2
+computer skills: 15
+facebook: 1
+chinese word processing: 27
+c: 30
+microsoft word: 28
+focus: 24
+php: 1
+chinese input: 1
+pc operations: 1
+scheme: 20
+clean: 2
+numerical skills: 1
+basic: 37
+green card: 4
+make: 16
+presentations: 2
+project management: 26
+analytical skills: 22
+hong kong driving licence: 1
+kee: 1
+beta: 2
+r: 12
+pc knowledge: 8
+processing: 21
+web: 9
+matlab: 5
+python: 17
+java: 5
+plus: 45
+id: 2
+dynamic: 6
+workshops: 3
+illustration: 1
+r&d: 23
+mouse: 4
+antiviral: 1
+safe: 5
+databases: 10
+rapid: 7
+spreadsheet: 1
+word processing: 1
+animal studies: 5
+animal work: 6
+system design: 4
+linux: 5
+perl: 1
+graphics: 1
+javascript: 2
+c#: 5
+integration: 5
+bi: 2
+ai: 4
+documentation: 20
+gap: 3
+whatsapp: 5
+business management: 2
+professional qualifications: 8
+c++: 9
+presentation skill: 1
+tea: 1
+operation support: 1
+data management: 6
+bloomberg: 1
+react: 2
+vendor: 2
+s2: 1
+typing: 9
+code: 4
+cuda: 2
+ml: 1
+hkie: 2
+dc: 1
+energy modelling: 1
+sql: 3
+ems: 1
+animal handling: 5
+fmcg industry: 1
+signal: 3
+office software: 4
+exchange: 2
+charity: 1
+itil: 1
+azure: 1
+security management: 1
+aws: 1
+acumen: 6
+inform: 1
+portable: 2
+labview: 2
+adobe illustrator: 1
+go: 2
+pc applications: 7
+lims: 1
+animal science: 4
+animal husbandry: 3
+animal welfare: 3
+translation: 3
+statistical analysis: 3
+educational projects: 1
+illustrator: 2
+video editing: 2
+photoshop: 2
+max: 1
+animal models: 1
+mobile: 2
+server: 4
+chinese and english word processing: 2
+nice: 4
+financial analysis: 2
+ap: 1
+sap: 2
+fortran: 1
+bim: 3
+pc: 4
+technical analysis: 1
+bash: 1
+george: 2
+goal: 1
+devops: 1
+words: 3
+adobe photoshop: 1
+small: 3
+vba: 1
+agile: 4
+pure: 1
+writing skills: 5
+ip: 1
+deployment: 4
+batch: 1
+hksi: 1
+vmware: 1
+active directory: 1
+sccm: 1
+powershell: 1
+ms sql: 1
+gpo: 1
+simple: 1
+local environmental regulations: 1
+computer systems: 1
+data analytics: 1
+cad: 1
+tcl: 1

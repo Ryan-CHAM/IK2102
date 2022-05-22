@@ -1,0 +1,76 @@
+outlook: 200.00%
+pc knowledge: 150.00%
+information system: 100.00%
+exchange: 100.00%
+system implementation: 100.00%
+data storage: 100.00%
+sketch up: 100.00%
+aircraft maintenance: 100.00%
+itil: 66.67%
+pc applications: 50.00%
+illustrator: 50.00%
+dc: 44.44%
+mhkie: 42.86%
+rapid: 40.00%
+photoshop: 40.00%
+ai: 40.00%
+whatsapp: 38.89%
+simple: 33.33%
+vpn: 33.33%
+small: 33.33%
+presentations: 33.33%
+writing skills: 28.57%
+bim: 26.47%
+r: 25.00%
+labview: 25.00%
+agile: 25.00%
+analytical skills: 22.22%
+make: 22.22%
+c: 20.83%
+hvac: 20.00%
+the hong kong institution of engineers: 20.00%
+router: 20.00%
+problem solving skills: 18.67%
+c++: 18.18%
+mobile: 17.39%
+microsoft project: 16.67%
+bms: 16.67%
+r&d: 16.67%
+autocad: 16.44%
+code: 15.79%
+word: 15.62%
+green card: 15.38%
+basic: 15.38%
+microsoft office suite: 15.29%
+pc: 14.29%
+ccnp: 14.29%
+microsoft excel: 12.50%
+certificate of registration of electrical worker: 12.50%
+analysis: 12.50%
+dynamic: 12.50%
+programming: 12.00%
+ip: 11.76%
+microsoft office: 11.54%
+hkie: 11.54%
+safe: 11.11%
+plus: 10.34%
+maintenance: 10.11%
+powerpoint: 9.52%
+revit: 9.52%
+chinese word processing: 9.09%
+microsoft word: 9.09%
+plc: 9.09%
+workshops: 8.33%
+documentation: 8.33%
+ccna: 8.33%
+scheme: 7.69%
+cctv: 7.69%
+python: 7.69%
+no: 7.69%
+integration: 7.14%
+sketchup: 6.67%
+linux: 6.25%
+cad: 6.06%
+system design: 5.88%
+project management: 5.80%
+computer skills: 5.56%

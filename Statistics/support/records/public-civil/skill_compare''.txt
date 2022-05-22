@@ -1,0 +1,33 @@
+hope: 100.00%
+pure: 100.00%
+ai: 100.00%
+plus: 100.00%
+focus: 100.00%
+sql: 100.00%
+simple: 100.00%
+microsoft powerpoint: 100.00%
+small: 66.67%
+dynamic: 66.67%
+translation: 50.00%
+maintenance: 50.00%
+make: 50.00%
+pc knowledge: 50.00%
+red: 50.00%
+c: 50.00%
+charity: 50.00%
+whatsapp: 33.33%
+workshops: 33.33%
+typing: 33.33%
+photoshop: 33.33%
+analysis: 28.57%
+computer skills: 25.00%
+word: 23.08%
+powerpoint: 23.08%
+problem solving skills: 21.43%
+project management: 16.67%
+wan: 16.67%
+microsoft office suite: 16.67%
+no: 14.29%
+microsoft word: 13.33%
+microsoft excel: 12.50%
+chinese word processing: 9.52%

@@ -1,0 +1,98 @@
+code: 6
+problem solving skills: 14
+hope: 1
+whatsapp: 6
+no: 7
+translation: 2
+microsoft excel: 32
+databases: 2
+word: 13
+r: 1
+outlook: 3
+microsoft word: 15
+hkicpa: 1
+acca: 1
+microsoft office: 8
+chinese word processing: 21
+pc applications: 2
+analysis: 7
+data management: 1
+acumen: 5
+powerpoint: 13
+project management: 6
+business management: 2
+facilities management: 1
+maintenance: 2
+workshops: 3
+adobe photoshop: 3
+illustrator: 2
+microsoft project: 1
+green card: 1
+make: 4
+hkie: 1
+computer skills: 4
+basic: 5
+writing skills: 3
+analytical skills: 4
+final cut pro: 1
+video editing: 2
+small: 3
+statistical analysis: 1
+web: 3
+vba: 2
+pure: 1
+chinese input: 1
+power point: 2
+pc knowledge: 2
+typing: 3
+processing: 5
+wan: 6
+ai: 1
+photoshop: 3
+agile: 2
+red: 2
+microsoft office suite: 6
+accounting softwares: 2
+lcc: 2
+myob: 2
+planner: 1
+plus: 4
+project management professional: 1
+rapid: 1
+documentation: 1
+pmp: 1
+presentation skill: 1
+c: 6
+adobe: 1
+data analytics: 2
+php: 2
+e-commerce: 1
+cpa: 1
+autocad: 1
+id: 1
+scheme: 4
+dynamic: 3
+web design: 1
+in-design: 1
+charity: 2
+focus: 2
+exchange: 1
+pc: 1
+sql: 1
+sas: 1
+python: 1
+fun: 1
+simple: 1
+anti-fraud: 1
+inform: 1
+vendor: 1
+adobe premiere pro: 1
+data warehouse: 1
+data mining: 1
+restful api: 1
+wordpress: 1
+javascript: 1
+word processing: 1
+grass: 1
+adobe illustrator: 1
+microsoft powerpoint: 1

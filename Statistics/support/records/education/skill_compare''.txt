@@ -1,0 +1,29 @@
+ai: 200.00%
+typing: 200.00%
+scheme: 100.00%
+facebook: 100.00%
+professional qualifications: 66.67%
+focus: 60.00%
+problem solving skills: 55.56%
+pe: 50.00%
+workshops: 50.00%
+analytical skills: 50.00%
+powerpoint: 44.44%
+microsoft word: 42.86%
+wan: 40.00%
+basic: 35.71%
+code: 33.33%
+small: 33.33%
+chinese word processing: 28.57%
+id: 28.57%
+plus: 27.78%
+c: 27.27%
+microsoft office: 25.00%
+make: 25.00%
+processing: 25.00%
+writing skills: 25.00%
+microsoft excel: 22.73%
+project management: 16.67%
+no: 15.00%
+microsoft office suite: 13.33%
+analysis: 7.69%

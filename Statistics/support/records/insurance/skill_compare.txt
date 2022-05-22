@@ -1,0 +1,26 @@
+vba: 100.00%
+cft: 100.00%
+kyc: 100.00%
+analysis: 57.14%
+c: 50.00%
+operation support: 50.00%
+microsoft office: 40.00%
+documentation: 33.33%
+aml: 33.33%
+typing: 28.57%
+iiqe paper: 25.00%
+scheme: 20.00%
+sales support: 20.00%
+pc applications: 16.67%
+pc: 16.67%
+problem solving skills: 16.22%
+computer skills: 12.20%
+microsoft word: 9.68%
+professional qualifications: 9.09%
+powerpoint: 8.00%
+microsoft excel: 6.59%
+chinese word processing: 6.06%
+processing: 5.88%
+analytical skills: 5.56%
+microsoft office suite: 3.77%
+iiqe: 3.57%

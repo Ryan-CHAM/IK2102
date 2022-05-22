@@ -1,0 +1,82 @@
+merchandizing: 200.00%
+luxury industry: 133.33%
+snowball: 100.00%
+budget management: 100.00%
+ar: 100.00%
+word processing: 100.00%
+spreadsheet: 100.00%
+presentation skill: 100.00%
+compass: 50.00%
+chinese and english word processing: 50.00%
+visual merchandising: 50.00%
+typing: 37.50%
+wechat: 33.33%
+pc applications: 33.33%
+dreamweaver: 33.33%
+business management: 33.33%
+css: 33.33%
+vba: 33.33%
+exchange: 33.33%
+basic: 29.73%
+chinese word processing: 28.57%
+web analytics: 28.57%
+microsoft office suite: 26.61%
+data management: 25.00%
+documentation: 25.00%
+gap: 25.00%
+power point: 25.00%
+crypto currency: 25.00%
+translation: 23.33%
+adobe illustrator: 23.08%
+writing skills: 22.50%
+seo: 20.75%
+focus: 20.00%
+simple: 20.00%
+adobe: 20.00%
+sizable companies: 20.00%
+whatsapp: 20.00%
+html: 18.18%
+fmcg industry: 18.18%
+small: 18.18%
+workshops: 18.18%
+no: 17.86%
+photoshop: 17.74%
+adobe photoshop: 17.65%
+microsoft office: 17.39%
+presentations: 17.39%
+c: 16.67%
+e-commerce: 16.00%
+project management: 15.18%
+illustrator: 15.00%
+microsoft excel: 14.88%
+word: 14.86%
+plus: 14.73%
+dynamic: 14.52%
+analysis: 14.29%
+powerpoint: 13.70%
+microsoft word: 13.43%
+mobile: 13.33%
+google analytics: 13.33%
+maintenance: 13.33%
+facebook: 12.86%
+pc: 12.50%
+video editing: 12.50%
+inform: 12.50%
+problem solving skills: 12.09%
+sem: 11.11%
+sql: 11.11%
+microsoft powerpoint: 11.11%
+blockchain: 11.11%
+processing: 10.53%
+ai: 10.00%
+in-design: 10.00%
+analytical skills: 9.80%
+computer skills: 9.30%
+salesforce: 8.33%
+multimedia: 6.67%
+goal: 5.88%
+agile: 5.56%
+make: 5.41%
+data analytics: 4.35%
+web: 4.17%
+acumen: 2.38%

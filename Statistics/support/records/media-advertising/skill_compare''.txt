@@ -1,0 +1,106 @@
+nice: 200.00%
+ar: 200.00%
+information system: 150.00%
+python: 100.00%
+adobe indesign: 100.00%
+visual design: 100.00%
+aws: 100.00%
+kotlin: 100.00%
+adobe xd: 100.00%
+c++: 100.00%
+linux: 100.00%
+mcse: 100.00%
+vmware: 100.00%
+mcsa: 100.00%
+mac os: 100.00%
+hyper-v: 100.00%
+tcp: 100.00%
+vpn: 100.00%
+perl: 100.00%
+apache: 100.00%
+dns: 100.00%
+ip: 100.00%
+system design: 100.00%
+signal: 100.00%
+documentation: 100.00%
+gm: 100.00%
+javascript: 83.33%
+html: 77.78%
+mac environment: 66.67%
+bash: 50.00%
+web analytics: 50.00%
+css: 50.00%
+code: 50.00%
+adobe cs: 50.00%
+premiere pro: 50.00%
+adobe software: 50.00%
+web technologies: 50.00%
+deployment: 50.00%
+switch: 50.00%
+firewall: 50.00%
+operation support: 50.00%
+autocad: 50.00%
+web design: 40.00%
+computer skills: 38.46%
+analytical skills: 36.67%
+no: 33.33%
+outlook: 33.33%
+visual communication: 33.33%
+scheme: 33.33%
+swift: 33.33%
+ai: 28.57%
+adobe creative suite: 28.57%
+seo: 26.32%
+e-commerce: 26.32%
+multimedia: 26.00%
+premiere: 25.93%
+after effects: 25.86%
+adobe premiere: 25.00%
+wordpress: 25.00%
+microsoft powerpoint: 25.00%
+goal: 25.00%
+simple: 25.00%
+illustrator: 24.24%
+in-design: 23.81%
+maintenance: 23.53%
+wechat: 23.08%
+mobile: 22.22%
+photoshop: 20.37%
+presentation skill: 20.00%
+web: 20.00%
+dynamic: 20.00%
+hardware: 20.00%
+maya: 20.00%
+c: 20.00%
+data analytics: 20.00%
+project management: 19.23%
+google analytics: 18.75%
+word: 17.14%
+video editing: 17.07%
+microsoft excel: 17.05%
+pc applications: 16.67%
+plus: 16.47%
+adobe photoshop: 15.79%
+graphics: 15.79%
+powerpoint: 15.38%
+sem: 14.81%
+microsoft office: 14.29%
+final cut pro: 14.29%
+typing: 14.29%
+problem solving skills: 13.46%
+microsoft office suite: 12.82%
+make: 12.50%
+microsoft word: 12.50%
+small: 12.50%
+adobe premiere pro: 12.50%
+chinese word processing: 11.90%
+adobe illustrator: 11.76%
+programming: 9.09%
+basic: 9.09%
+writing skills: 8.70%
+processing: 7.69%
+presentations: 7.69%
+facebook: 7.41%
+adobe: 4.76%
+translation: 4.55%
+analysis: 3.03%

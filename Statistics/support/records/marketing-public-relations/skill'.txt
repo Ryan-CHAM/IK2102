@@ -1,0 +1,203 @@
+microsoft excel: 193
+plus: 148
+microsoft word: 76
+problem solving skills: 102
+powerpoint: 166
+wechat: 28
+adobe illustrator: 16
+pc applications: 8
+dynamic: 71
+facebook: 79
+photoshop: 73
+project management: 129
+focus: 36
+acumen: 43
+chinese word processing: 90
+illustrator: 46
+html: 13
+pc: 9
+data management: 10
+microsoft office suite: 138
+dreamweaver: 4
+adobe creative suite: 7
+charity: 4
+writing skills: 49
+basic: 48
+web: 25
+video editing: 18
+mobile: 34
+premiere pro: 7
+multimedia: 16
+after effects: 9
+word: 85
+outlook: 11
+fmcg industry: 13
+computer skills: 47
+typing: 11
+microsoft office: 27
+google analytics: 51
+bi: 11
+amazon: 2
+ai: 33
+premiere: 4
+analysis: 96
+small: 13
+e-commerce: 58
+business management: 16
+reason: 3
+animate: 1
+css: 4
+in-design: 11
+scheme: 9
+analytical skills: 56
+adobe photoshop: 20
+vs: 3
+deployment: 7
+seo: 64
+id: 1
+code: 14
+goal: 18
+hardware: 1
+web traffic: 2
+r&d: 2
+unity: 2
+planner: 3
+analytics tools: 12
+marketing skills: 4
+agile: 19
+documentation: 10
+no: 33
+maintenance: 17
+pipelines: 2
+adobe indesign: 4
+presentations: 27
+make: 39
+compass: 3
+translation: 37
+sem: 30
+sql: 10
+vba: 4
+simple: 6
+adobe: 18
+adwords: 21
+tableau: 10
+data visualization: 6
+integration: 5
+oracle: 2
+professional qualifications: 4
+internal control: 1
+processing: 21
+wordpress: 8
+rapid: 4
+go: 13
+business intelligence: 3
+vc: 2
+lean: 2
+fun: 11
+web analytics: 9
+information system: 4
+c: 14
+exchange: 4
+salesforce: 13
+wan: 4
+hope: 2
+joy: 3
+data analytics: 24
+workshops: 13
+sizable companies: 6
+python: 6
+microsoft powerpoint: 10
+words: 2
+sap: 1
+io: 4
+customer journeys: 1
+sas: 3
+database programming: 1
+data mining: 3
+pc operations: 2
+ms based applications: 1
+r: 5
+whatsapp: 6
+inform: 9
+statistical analysis: 1
+adobe premiere pro: 1
+server: 3
+databases: 5
+printers: 2
+itil: 1
+ip: 1
+pmp: 1
+vendor: 5
+pure: 1
+graphics: 3
+gap: 5
+blockchain: 10
+facilities management: 1
+cpa: 1
+crypto: 2
+web technologies: 1
+luxury industry: 7
+briefings: 3
+information sessions: 1
+educational projects: 1
+microsoft applications: 4
+web authoring: 1
+stakeholder events: 1
+chinese and english word processing: 3
+snowball: 2
+visual merchandising: 3
+creative design: 1
+power point: 5
+sales support: 1
+crypto currency: 5
+macro: 2
+pc knowledge: 4
+cool: 2
+adobe cc: 1
+iiqe: 1
+c++: 1
+publisher: 1
+visual editing: 2
+venture capital: 1
+illustration: 3
+budget management: 2
+programming: 5
+adobe software: 1
+final cut pro: 2
+web development: 1
+web performance: 1
+ar: 2
+spark: 1
+nice: 3
+safe: 1
+access points: 1
+pivot table: 2
+accpac: 1
+container: 1
+word processing: 2
+spreadsheet: 2
+merchandizing: 3
+problem solving capabilities: 1
+chinese wp: 1
+presentation skill: 2
+web design: 1
+tea: 1
+demand planning: 1
+data warehouse: 1
+java: 1
+javascript: 1
+foxpro: 1
+grass: 1
+rpa: 1
+react: 1
+creative suite: 1
+social media applications: 1
+harbour: 1
+private equity: 1
+pos: 2
+server administration: 1
+erp: 1
+ap: 2
+bloomberg: 1
+financial analysis: 1
+myob: 1

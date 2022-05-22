@@ -1,0 +1,103 @@
+vba: 200.00%
+data mining: 200.00%
+r: 150.00%
+programming: 150.00%
+premiere pro: 133.33%
+charity: 100.00%
+r&d: 100.00%
+unity: 100.00%
+oracle: 100.00%
+lean: 100.00%
+python: 100.00%
+io: 100.00%
+crypto: 100.00%
+visual editing: 100.00%
+final cut pro: 100.00%
+pivot table: 100.00%
+bi: 83.33%
+tableau: 66.67%
+databases: 66.67%
+go: 62.50%
+dreamweaver: 50.00%
+analytics tools: 50.00%
+sql: 50.00%
+adwords: 50.00%
+microsoft powerpoint: 50.00%
+sas: 50.00%
+server: 50.00%
+briefings: 50.00%
+video editing: 45.45%
+sem: 42.11%
+deployment: 40.00%
+illustrator: 33.33%
+web: 33.33%
+marketing skills: 33.33%
+wordpress: 33.33%
+information system: 33.33%
+salesforce: 33.33%
+wan: 33.33%
+inform: 33.33%
+gap: 33.33%
+microsoft applications: 33.33%
+power point: 33.33%
+crypto currency: 33.33%
+pc knowledge: 33.33%
+wechat: 31.25%
+mobile: 30.43%
+facebook: 29.63%
+after effects: 28.57%
+agile: 28.57%
+blockchain: 28.57%
+microsoft office: 27.78%
+plus: 27.72%
+basic: 27.59%
+code: 27.27%
+photoshop: 26.53%
+computer skills: 26.47%
+microsoft word: 26.42%
+seo: 26.19%
+microsoft excel: 25.37%
+analysis: 25.37%
+chinese word processing: 25.00%
+writing skills: 25.00%
+multimedia: 25.00%
+in-design: 25.00%
+translation: 25.00%
+adobe: 25.00%
+integration: 25.00%
+sizable companies: 25.00%
+whatsapp: 25.00%
+vendor: 25.00%
+word: 23.33%
+outlook: 22.22%
+google analytics: 21.62%
+analytical skills: 21.43%
+adobe photoshop: 21.43%
+powerpoint: 20.66%
+pc applications: 20.00%
+focus: 20.00%
+ai: 20.00%
+data visualization: 20.00%
+c: 20.00%
+microsoft office suite: 19.78%
+e-commerce: 19.05%
+dynamic: 16.98%
+acumen: 16.67%
+adobe creative suite: 16.67%
+no: 16.67%
+web analytics: 16.67%
+problem solving skills: 15.19%
+presentations: 15.00%
+data analytics: 15.00%
+project management: 14.29%
+data management: 14.29%
+documentation: 14.29%
+goal: 13.33%
+processing: 11.76%
+fmcg industry: 10.00%
+fun: 10.00%
+workshops: 10.00%
+business management: 9.09%
+make: 8.82%
+adobe illustrator: 8.33%
+maintenance: 7.14%

@@ -1,0 +1,152 @@
+microsoft excel: 65
+microsoft office: 9
+no: 31
+verilog: 2
+hardware: 2
+vhdl: 1
+programming: 17
+microsoft office suite: 46
+autocad: 9
+analysis: 51
+maintenance: 28
+problem solving skills: 56
+word: 41
+powerpoint: 37
+outlook: 2
+computer skills: 11
+facebook: 1
+chinese word processing: 22
+c: 27
+microsoft word: 23
+focus: 21
+php: 1
+chinese input: 1
+pc operations: 1
+scheme: 17
+clean: 2
+numerical skills: 1
+basic: 34
+green card: 3
+make: 14
+presentations: 2
+project management: 22
+analytical skills: 18
+hong kong driving licence: 1
+kee: 1
+beta: 2
+r: 11
+pc knowledge: 6
+processing: 16
+web: 8
+matlab: 4
+python: 14
+java: 4
+plus: 37
+id: 2
+dynamic: 5
+workshops: 3
+illustration: 1
+r&d: 19
+mouse: 3
+antiviral: 1
+safe: 4
+databases: 9
+rapid: 6
+spreadsheet: 1
+word processing: 1
+animal studies: 3
+animal work: 5
+system design: 3
+linux: 4
+perl: 1
+graphics: 1
+javascript: 2
+c#: 4
+integration: 4
+bi: 2
+ai: 3
+documentation: 16
+gap: 3
+whatsapp: 5
+business management: 2
+professional qualifications: 6
+c++: 7
+presentation skill: 1
+tea: 1
+operation support: 1
+data management: 4
+bloomberg: 1
+react: 2
+vendor: 2
+s2: 1
+typing: 8
+code: 4
+cuda: 2
+ml: 1
+hkie: 2
+dc: 1
+energy modelling: 1
+sql: 3
+ems: 1
+animal handling: 5
+fmcg industry: 1
+signal: 3
+office software: 4
+exchange: 2
+charity: 1
+itil: 1
+azure: 1
+security management: 1
+aws: 1
+acumen: 5
+inform: 1
+portable: 1
+labview: 1
+adobe illustrator: 1
+go: 2
+pc applications: 6
+lims: 1
+animal science: 3
+animal husbandry: 2
+animal welfare: 2
+translation: 2
+statistical analysis: 3
+educational projects: 1
+illustrator: 2
+video editing: 1
+photoshop: 1
+max: 1
+animal models: 1
+mobile: 2
+server: 4
+chinese and english word processing: 2
+nice: 4
+financial analysis: 2
+ap: 1
+sap: 1
+fortran: 1
+bim: 3
+pc: 3
+technical analysis: 1
+bash: 1
+george: 1
+goal: 1
+devops: 1
+words: 2
+adobe photoshop: 1
+small: 3
+vba: 1
+agile: 4
+pure: 1
+writing skills: 4
+ip: 1
+deployment: 3
+batch: 1
+hksi: 1
+vmware: 1
+active directory: 1
+sccm: 1
+powershell: 1
+ms sql: 1
+gpo: 1
+simple: 1

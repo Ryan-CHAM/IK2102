@@ -1,0 +1,172 @@
+microsoft excel: 372
+chinese word processing: 226
+microsoft word: 128
+powerpoint: 191
+computer skills: 47
+word: 162
+erp systems: 3
+outlook: 48
+pl: 1
+microsoft office suite: 255
+facilities management: 6
+plus: 61
+processing: 24
+make: 25
+pivot table: 12
+vlookup: 10
+basic: 18
+typing: 15
+pc: 14
+computer operation knowledge: 1
+sap: 13
+pc knowledge: 36
+microsoft office: 72
+pc applications: 14
+hong kong employment ordinance: 38
+pc operations: 3
+autocad: 5
+problem solving skills: 70
+analytical skills: 39
+ai: 4
+photoshop: 8
+video editing: 6
+writing skills: 9
+hkis: 1
+rics: 1
+documentation: 15
+oracle: 4
+ar: 1
+analysis: 38
+focus: 20
+maintenance: 22
+management reports: 3
+scheme: 15
+databases: 5
+dynamic: 51
+acumen: 10
+wan: 9
+ipl: 6
+acca: 4
+bloomberg: 1
+cfa: 2
+cpa: 3
+frm: 1
+project management: 41
+fl: 1
+ladder: 1
+lean: 5
+nice: 5
+business management: 19
+small: 18
+accounting softwares: 1
+financial analysis: 1
+vendor: 6
+myob: 2
+information system: 12
+c: 26
+bi: 3
+e-commerce: 1
+sizable companies: 18
+business intelligence: 1
+no: 25
+data analytics: 2
+deployment: 2
+agile: 10
+code: 4
+go: 7
+budget management: 1
+airlines: 2
+aircraft: 5
+workshops: 6
+microsoft applications: 7
+fun: 6
+numerical skills: 3
+translation: 3
+presentation skill: 3
+hkicpa: 2
+git: 1
+java: 1
+azure: 3
+web: 2
+react: 4
+ms sql server: 1
+amazon: 1
+objective-c: 1
+rpa: 1
+mobile: 3
+programming: 2
+swift: 2
+r: 1
+kotlin: 1
+android: 1
+mpf regulations: 9
+presentations: 8
+data management: 4
+inform: 1
+rapid: 6
+system implementation: 2
+sql: 1
+server: 1
+security management: 1
+multimedia: 2
+compass: 1
+chinese input: 2
+professional qualifications: 4
+bookings: 1
+venture capital: 1
+clean: 2
+simple: 1
+tea: 2
+word processing: 13
+typewriting: 1
+whatsapp: 3
+charity: 4
+reason: 2
+business software: 3
+words: 12
+blockchain: 1
+exchange: 2
+crypto currency: 1
+fmcg industry: 1
+power point: 4
+facebook: 2
+airports: 1
+graphics: 2
+microsoft powerpoint: 7
+microsoft project: 1
+chinese and english word processing: 3
+private equity: 2
+chinese wp: 2
+salesforce: 2
+illustration: 2
+hksi: 1
+ats: 1
+erp: 4
+integration: 3
+devops: 1
+goal: 3
+sdlc: 1
+pmp: 1
+id: 5
+chill: 1
+pos: 1
+pipelines: 1
+ap: 3
+ip: 1
+safe: 2
+printers: 1
+import and export: 1
+final cut pro: 1
+illustrator: 2
+abap: 1
+office software: 2
+acrobat: 1
+switch: 1
+quickbooks: 1
+accounting systems: 1
+alice: 1
+adobe illustrator: 1
+sr: 1
+transcript: 1
+adobe software: 1
+spreadsheet: 1

@@ -1,0 +1,60 @@
+office 365: 100.00%
+acc: 66.67%
+fun: 60.00%
+agile: 50.00%
+gap: 40.00%
+id: 33.33%
+focus: 33.33%
+hardware: 33.33%
+logo: 33.33%
+no: 33.33%
+words: 33.33%
+order processing: 30.00%
+r&d: 28.57%
+make: 25.00%
+bloomberg: 25.00%
+e-commerce: 25.00%
+adobe illustrator: 25.00%
+planner: 25.00%
+dynamic: 23.81%
+outlook: 22.22%
+rapid: 22.22%
+project management: 21.62%
+vlookup: 21.05%
+vendor: 20.00%
+pc applications: 20.00%
+chinese word processing: 20.00%
+react: 20.00%
+visual merchandising: 20.00%
+mobile: 20.00%
+vs: 20.00%
+pc operations: 20.00%
+autocad: 20.00%
+web: 20.00%
+basic: 18.18%
+go: 16.67%
+illustrator: 16.67%
+photoshop: 16.67%
+word: 15.38%
+analysis: 15.25%
+plus: 15.15%
+problem solving skills: 14.89%
+powerpoint: 14.77%
+pivot table: 14.29%
+microsoft excel: 13.33%
+microsoft word: 13.33%
+computer skills: 13.21%
+analytical skills: 12.28%
+pc: 11.76%
+microsoft office suite: 11.38%
+pc knowledge: 11.11%
+c: 11.11%
+garment industry: 11.11%
+exchange: 11.11%
+sap: 8.70%
+documentation: 8.33%
+acumen: 7.69%
+erp systems: 6.67%
+business management: 6.67%
+microsoft office: 5.88%
+small: 5.88%

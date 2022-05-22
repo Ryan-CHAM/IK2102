@@ -1,0 +1,30 @@
+vendor: 100.00%
+cpa: 100.00%
+analytical skills: 75.00%
+microsoft powerpoint: 50.00%
+vba: 50.00%
+pure: 50.00%
+scheme: 40.00%
+dynamic: 40.00%
+processing: 33.33%
+small: 33.33%
+charity: 33.33%
+focus: 25.00%
+basic: 22.22%
+no: 22.22%
+microsoft office: 22.22%
+project management: 20.00%
+analysis: 20.00%
+microsoft word: 16.67%
+typing: 16.67%
+computer skills: 16.67%
+code: 16.67%
+photoshop: 14.29%
+wan: 14.29%
+microsoft excel: 12.50%
+microsoft office suite: 12.50%
+powerpoint: 11.76%
+c: 11.11%
+plus: 10.00%
+chinese word processing: 8.00%
+word: 5.56%

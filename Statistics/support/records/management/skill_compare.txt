@@ -1,0 +1,31 @@
+small: 100.00%
+microsoft powerpoint: 100.00%
+adobe photoshop: 100.00%
+hy: 100.00%
+mobile: 66.67%
+business management: 50.00%
+acumen: 50.00%
+agile: 50.00%
+r&d: 50.00%
+pc operations: 50.00%
+microsoft word: 50.00%
+project management: 41.18%
+analysis: 40.00%
+whatsapp: 33.33%
+pc: 33.33%
+pmp: 33.33%
+acca: 25.00%
+professional qualifications: 25.00%
+computer skills: 25.00%
+no: 20.00%
+hkicpa: 20.00%
+chinese word processing: 20.00%
+scheme: 20.00%
+plus: 18.75%
+make: 16.67%
+microsoft office suite: 12.50%
+analytical skills: 9.09%
+microsoft excel: 8.33%
+powerpoint: 7.69%
+word: 6.67%
+problem solving skills: 4.35%

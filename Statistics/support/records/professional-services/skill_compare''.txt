@@ -1,0 +1,56 @@
+simple: 100.00%
+presentation skill: 100.00%
+words: 100.00%
+fun: 100.00%
+databases: 100.00%
+sfo: 100.00%
+sas: 100.00%
+go: 100.00%
+internal control: 100.00%
+vpn: 100.00%
+no: 71.43%
+pc: 66.67%
+autocad: 50.00%
+bi: 50.00%
+adobe: 50.00%
+small: 50.00%
+private equity: 50.00%
+computer systems: 50.00%
+documentation: 40.00%
+ai: 40.00%
+dynamic: 37.50%
+maintenance: 33.33%
+acumen: 30.77%
+microsoft office: 30.00%
+sql: 28.57%
+word: 28.57%
+plus: 27.03%
+erp: 25.00%
+data visualization: 25.00%
+translation: 24.24%
+microsoft word: 23.33%
+typing: 22.22%
+computer skills: 21.43%
+microsoft office suite: 21.15%
+ip: 20.00%
+mobile: 20.00%
+make: 20.00%
+agile: 20.00%
+microsoft excel: 19.12%
+analysis: 18.75%
+securities and futures ordinance: 18.18%
+processing: 16.67%
+data analytics: 16.67%
+tableau: 16.67%
+business management: 16.67%
+exchange: 16.67%
+project management: 15.38%
+chinese word processing: 14.89%
+c: 14.29%
+powerpoint: 13.95%
+analytical skills: 13.64%
+companies ordinance: 13.33%
+sap: 12.50%
+python: 12.50%
+writing skills: 11.11%
+problem solving skills: 7.69%

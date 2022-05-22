@@ -1,0 +1,45 @@
+typing: 200.00%
+george: 200.00%
+code: 200.00%
+stata: 200.00%
+sas: 200.00%
+business management: 100.00%
+data management: 100.00%
+rapid: 100.00%
+animal studies: 100.00%
+agile: 100.00%
+it knowledge: 100.00%
+dexa: 100.00%
+sr: 100.00%
+goal: 100.00%
+computer operation knowledge: 66.67%
+r: 66.67%
+html: 66.67%
+wan: 50.00%
+batch: 50.00%
+microsoft excel: 40.00%
+word: 40.00%
+scheme: 40.00%
+mammography: 40.00%
+microsoft office: 33.33%
+maintenance: 33.33%
+fun: 33.33%
+presentations: 33.33%
+bi: 33.33%
+ai: 33.33%
+pc knowledge: 30.77%
+microsoft office suite: 28.57%
+plus: 27.27%
+dynamic: 27.27%
+powerpoint: 26.32%
+basic: 25.00%
+problem solving skills: 20.59%
+integration: 20.00%
+microsoft word: 19.05%
+analysis: 18.18%
+documentation: 16.67%
+make: 15.38%
+chinese word processing: 11.76%
+focus: 11.11%
+no: 6.90%
+computer skills: 5.56%

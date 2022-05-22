@@ -1,0 +1,205 @@
+make: 16
+google analytics: 16
+php: 1
+ruby: 1
+html: 9
+python: 2
+bash: 2
+javascript: 6
+google apps script: 1
+programming: 11
+web analytics: 2
+css: 10
+go: 8
+no: 21
+basic: 22
+fun: 7
+photoshop: 108
+project management: 26
+plus: 85
+microsoft excel: 88
+word: 35
+powerpoint: 65
+analytical skills: 30
+processing: 13
+sem: 27
+whatsapp: 2
+facebook: 54
+3d software: 5
+3ds max: 5
+illustrator: 66
+multimedia: 50
+wechat: 13
+analysis: 33
+writing skills: 23
+mobile: 18
+computer skills: 13
+focus: 7
+wan: 7
+business management: 4
+green card: 3
+server: 5
+numerical skills: 2
+microsoft office suite: 39
+exchange: 3
+microsoft word: 32
+chinese word processing: 42
+premiere: 27
+after effects: 58
+adwords: 13
+small: 8
+presentation skill: 5
+animators: 1
+ease: 1
+seo: 19
+web: 25
+information system: 2
+presentations: 13
+code: 2
+adobe photoshop: 19
+microsoft office: 21
+dynamic: 25
+pc literate: 1
+translation: 22
+problem solving skills: 52
+execution strategy: 3
+nice: 1
+amazon: 1
+agile: 2
+chill: 1
+ai: 14
+adobe creative suite: 14
+maintenance: 17
+acumen: 6
+adobe indesign: 2
+adobe: 21
+adobe illustrator: 17
+graphics: 19
+ar: 1
+adobe premiere: 12
+web design: 5
+c4d: 3
+adobe cs: 4
+max: 4
+outlook: 3
+id: 2
+pc: 10
+video editing: 41
+final cut pro: 21
+inform: 3
+adobe premiere pro: 8
+acrobat: 1
+in-design: 21
+dreamweaver: 2
+web development: 7
+visual communication: 3
+premiere pro: 14
+wordpress: 4
+e-commerce: 19
+tea: 1
+microsoft powerpoint: 4
+clips: 2
+hardware: 5
+pc applications: 6
+jade: 1
+illustration: 6
+animation software: 1
+cg: 3
+maya: 5
+3d modelling: 1
+visual effects: 2
+sketchup: 1
+finance systems: 1
+pl: 2
+financial analysis: 11
+cpa: 5
+adobe software: 2
+power point: 2
+bi: 1
+pivot table: 1
+scheme: 3
+iiqe: 1
+web technologies: 2
+c: 5
+sql: 1
+data visualization: 2
+mac environment: 3
+visual design: 2
+data analytics: 5
+goal: 4
+analytics tools: 3
+animate: 3
+git: 3
+integration: 3
+aws: 2
+deployment: 2
+swift: 3
+kotlin: 1
+android: 2
+workshops: 2
+fmcg industry: 3
+words: 4
+adobe xd: 1
+typing: 7
+investment products: 1
+vendor: 4
+design softwares: 3
+c++: 1
+objective-c: 1
+publisher: 2
+web conferencing: 1
+simple: 4
+office software: 1
+tie: 1
+linux: 2
+mcse: 1
+vmware: 2
+mcsa: 1
+active directory: 1
+server administration: 1
+switch: 2
+vmare: 1
+router: 1
+firewall: 2
+windows server: 1
+restful api: 2
+react: 3
+jquery: 2
+typescript: 2
+io: 2
+tableau: 1
+mac os: 1
+sales support: 1
+word processing: 1
+vlookup: 1
+hyper-v: 1
+tcp: 1
+vpn: 1
+perl: 1
+apache: 1
+dns: 1
+ip: 1
+web metrics: 1
+operation support: 2
+planner: 1
+adobe cc: 1
+3dmax: 1
+autocad: 2
+system design: 1
+web editing: 1
+cpl: 1
+management reports: 1
+marketing skills: 1
+signal: 1
+salesforce: 1
+documentation: 2
+gm: 1
+pc knowledge: 1
+sr: 1
+cl: 1
+cfa: 1
+rapid: 1
+ap: 1
+billing system: 1
+oracle: 1
+davinci resolve: 1

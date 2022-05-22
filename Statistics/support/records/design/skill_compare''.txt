@@ -1,0 +1,99 @@
+bim: 200.00%
+php: 150.00%
+revit: 125.00%
+adobe premiere pro: 100.00%
+sketch up: 100.00%
+google analytics: 100.00%
+adobe indesign: 100.00%
+microsoft project: 100.00%
+shopify: 100.00%
+animate: 100.00%
+mac os: 100.00%
+office software: 100.00%
+kotlin: 100.00%
+swift: 100.00%
+android: 100.00%
+jquery: 100.00%
+io: 100.00%
+words: 100.00%
+whatsapp: 66.67%
+web development: 66.67%
+presentation skill: 62.50%
+solidworks: 57.14%
+cad: 50.00%
+adobe software: 50.00%
+python: 50.00%
+premiere pro: 45.45%
+creative design: 42.86%
+analytical skills: 40.00%
+focus: 40.00%
+3dmax: 40.00%
+microsoft word: 40.00%
+r&d: 33.33%
+red: 33.33%
+processing: 33.33%
+documentation: 33.33%
+chinese word processing: 33.33%
+power point: 33.33%
+c: 33.33%
+dynamic: 30.77%
+autocad: 30.59%
+plus: 29.09%
+pc: 28.57%
+microsoft office: 28.57%
+adobe xd: 28.57%
+visual merchandising: 27.78%
+video editing: 26.92%
+photoshop: 25.93%
+sketchup: 25.00%
+scheme: 25.00%
+writing skills: 25.00%
+ai: 24.14%
+microsoft excel: 23.53%
+in-design: 22.67%
+adobe illustrator: 22.50%
+visual communication: 22.22%
+powerpoint: 20.69%
+illustration: 20.00%
+graphics: 20.00%
+acumen: 20.00%
+max: 19.05%
+illustrator: 18.64%
+3ds max: 17.65%
+make: 17.65%
+after effects: 15.38%
+e-commerce: 15.38%
+no: 14.29%
+rapid: 14.29%
+fun: 14.29%
+java: 14.29%
+web: 13.64%
+multimedia: 13.51%
+premiere: 13.33%
+presentations: 13.33%
+adobe: 13.16%
+problem solving skills: 12.50%
+word: 12.50%
+3d software: 11.11%
+mac environment: 11.11%
+project management: 11.11%
+maintenance: 11.11%
+dreamweaver: 10.53%
+microsoft office suite: 10.34%
+css: 10.26%
+web design: 10.00%
+wordpress: 10.00%
+basic: 9.09%
+adobe creative suite: 9.09%
+adobe photoshop: 9.09%
+small: 9.09%
+wechat: 9.09%
+maya: 9.09%
+html: 8.33%
+seo: 8.33%
+analysis: 7.69%
+flash: 7.14%
+mobile: 6.45%
+javascript: 6.25%
+visual design: 5.88%
+facebook: 5.26%

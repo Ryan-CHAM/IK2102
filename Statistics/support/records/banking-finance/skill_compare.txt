@@ -1,0 +1,127 @@
+operation support: 100.00%
+alteryx: 100.00%
+pmp: 100.00%
+qdii: 100.00%
+chinese input: 100.00%
+adobe illustrator: 100.00%
+sizable companies: 100.00%
+react: 100.00%
+business intelligence: 66.67%
+planner: 66.67%
+office software: 50.00%
+data warehouse: 50.00%
+presentation skill: 50.00%
+qfii: 50.00%
+vc: 50.00%
+acrobat: 50.00%
+know your customer: 50.00%
+visual basic: 50.00%
+litigation process: 50.00%
+credit analytical skills: 50.00%
+sdlc: 50.00%
+marco: 50.00%
+xero: 50.00%
+import and export: 50.00%
+whatsapp: 42.86%
+web: 41.67%
+sap: 40.00%
+dcass: 40.00%
+information system: 37.50%
+financial analytical skills: 33.33%
+ra type: 33.33%
+data mining: 33.33%
+customer due diligence: 33.33%
+workshops: 33.33%
+sfc license: 31.58%
+focus: 30.30%
+microsoft office: 25.00%
+typing: 25.00%
+anti-money laundering: 25.00%
+crypto: 25.00%
+pc literate: 25.00%
+integration: 25.00%
+pivot table: 25.00%
+aml screening: 25.00%
+internal control: 23.08%
+processing: 22.45%
+business management: 21.05%
+macro: 21.05%
+html: 20.00%
+pc knowledge: 20.00%
+tableau: 20.00%
+six sigma: 20.00%
+crypto currency: 20.00%
+mobile: 20.00%
+javascript: 20.00%
+chinese word processing: 19.80%
+financial analysis: 19.05%
+cfa: 18.75%
+pe: 18.18%
+data management: 18.18%
+cpa: 17.65%
+swift: 17.24%
+kyc: 17.02%
+sfo: 16.67%
+investment products: 16.67%
+small: 16.67%
+aamlp: 16.67%
+rapid: 15.38%
+make: 15.22%
+frm: 15.00%
+maintenance: 14.29%
+pc applications: 14.29%
+cdd: 14.29%
+marketing skills: 14.29%
+vlookup: 14.29%
+credit analysis: 14.29%
+vendor: 14.29%
+basic: 14.00%
+account opening: 13.64%
+acumen: 13.16%
+aml: 12.90%
+analysis: 12.86%
+loan products: 12.50%
+system implementation: 12.50%
+oracle: 12.50%
+dynamic: 12.07%
+microsoft excel: 11.94%
+documentation: 11.76%
+no: 11.63%
+microsoft office suite: 11.40%
+plus: 11.24%
+reason: 11.11%
+outlook: 11.11%
+exchange: 11.11%
+problem solving skills: 10.98%
+microsoft word: 10.96%
+powerpoint: 10.95%
+analytical skills: 10.87%
+computer skills: 10.59%
+ccass: 10.53%
+vba: 10.29%
+inform: 10.00%
+hksi paper: 10.00%
+word: 9.70%
+writing skills: 9.38%
+sas: 9.38%
+blockchain: 9.09%
+project management: 8.79%
+iiqe: 8.57%
+iiqe paper: 8.33%
+c: 8.33%
+code: 8.33%
+hksi: 7.94%
+acca: 7.69%
+hkma: 7.69%
+data analytics: 7.14%
+professional qualifications: 6.98%
+hkicpa: 6.90%
+programming: 6.82%
+agile: 6.67%
+go: 5.26%
+presentations: 5.00%
+bloomberg: 4.69%
+sql: 4.65%
+pc: 4.55%
+scheme: 4.35%
+private equity: 3.57%

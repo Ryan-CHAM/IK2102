@@ -1,0 +1,294 @@
+sales support: 10
+microsoft excel: 422
+chinese word processing: 121
+microsoft office: 50
+word: 147
+problem solving skills: 182
+business management: 23
+focus: 43
+loan products: 9
+iiqe: 38
+hksi: 68
+ms windows: 3
+analytical skills: 153
+sfo: 35
+microsoft word: 162
+microsoft office suite: 215
+powerpoint: 152
+acumen: 43
+pc: 23
+plus: 188
+project management: 99
+basic: 57
+documentation: 76
+computer skills: 94
+financial analysis: 50
+analysis: 158
+make: 53
+credit processing: 2
+maintenance: 24
+typing: 10
+iiqe paper: 13
+adobe photoshop: 1
+illustrator: 2
+premiere pro: 2
+c: 39
+pc applications: 24
+dynamic: 65
+operation support: 2
+myob: 3
+agile: 48
+reason: 70
+no: 48
+html: 6
+pc knowledge: 24
+web: 17
+office software: 3
+pl: 4
+scheme: 24
+processing: 60
+typewriting: 5
+pc operations: 2
+cdd: 24
+goal: 7
+cfa: 114
+bloomberg: 67
+cpa: 100
+acca: 28
+financial analytical skills: 4
+hkicpa: 31
+pe: 26
+frm: 46
+ra type: 4
+kyc: 55
+aml: 70
+r: 12
+securities and futures ordinance: 23
+frr: 7
+ml: 3
+presentations: 21
+wechat: 6
+facebook: 3
+inform: 11
+word processing: 5
+anti-money laundering: 15
+writing skills: 35
+sfc license: 25
+marketing skills: 8
+hkma: 42
+vlookup: 8
+microsoft powerpoint: 12
+data management: 13
+outlook: 10
+databases: 9
+credit analysis: 56
+hy: 2
+swift: 34
+sap: 7
+data analytics: 15
+account opening: 25
+accounting systems: 13
+vba: 75
+words: 3
+professional qualifications: 46
+information system: 11
+ms sql: 3
+private equity: 29
+whatsapp: 10
+ap: 3
+e-commerce: 8
+airlines: 6
+web technologies: 1
+python: 41
+sas: 35
+tableau: 6
+alteryx: 2
+business intelligence: 5
+vendor: 8
+pmp: 4
+sql: 45
+six sigma: 6
+internal control: 16
+technical analysis: 1
+flex accounting: 1
+simple: 3
+microsoft applications: 5
+erp: 1
+id: 4
+hope: 1
+charity: 1
+ai: 4
+data warehouse: 3
+aws: 2
+chartered financial analyst: 1
+c#: 6
+presentation skill: 9
+hksfc: 3
+investment products: 42
+macro: 23
+java: 11
+c++: 8
+programming: 47
+data mining: 8
+mathematics: 6
+cft: 12
+blockchain: 12
+system implementation: 9
+go: 20
+qfii: 3
+qdii: 2
+rqfii: 2
+securities laws: 3
+quickbooks: 2
+venture capital: 4
+accounting softwares: 6
+lcc: 3
+crypto: 10
+code: 26
+pipelines: 1
+power point: 12
+harbour: 3
+spreadsheet: 3
+rics: 1
+hkis: 1
+management reports: 7
+rapid: 15
+php: 2
+vc: 9
+acrobat: 3
+sfc rules: 5
+sehk: 4
+order processing: 1
+ch: 3
+planner: 5
+numerical skills: 3
+sr: 2
+data visualization: 5
+dcass: 7
+ccass: 21
+hksi paper: 11
+crypto currency: 6
+small: 7
+crs: 4
+fatca: 4
+pc literate: 5
+hkma regulatory reporting: 7
+customer due diligence: 8
+banking laws: 2
+oracle: 9
+cics: 1
+jcl: 1
+cobol: 1
+chinese input: 2
+aamlp: 7
+analytics tools: 1
+bi: 8
+o365: 2
+mac os: 4
+ease: 2
+hardware: 2
+facilities management: 2
+mobile device: 2
+know your customer: 3
+financial risk manager: 2
+visual basic: 3
+litigation process: 3
+credit analytical skills: 3
+ada: 1
+joy: 10
+fun: 11
+mad: 10
+logical skills: 1
+erp systems: 5
+compass: 1
+exchange: 20
+workshops: 4
+sbl: 1
+integration: 5
+sdlc: 3
+safe: 3
+pearl: 1
+hong kong employment ordinance: 2
+r&d: 2
+pivot table: 5
+oracle erp: 1
+pilot: 1
+dc: 1
+itil: 1
+mobile: 6
+nice: 4
+acams: 6
+ifrs: 5
+factor: 1
+server: 1
+data manipulation: 1
+linux: 7
+statistical analysis: 2
+marco: 3
+incoming and outgoing swift payments: 2
+aml screening: 5
+translation: 3
+unix shell: 1
+typescript: 1
+react native: 1
+javascript: 6
+kotlin: 1
+batch: 1
+adobe illustrator: 2
+sizable companies: 2
+banking practice: 5
+frm qualification: 1
+informix: 1
+jenkins: 1
+hibernate: 1
+spring: 2
+perl: 1
+salesforce: 1
+apex: 1
+problem solving capabilities: 2
+prc accounting: 1
+cl: 1
+oracle system: 1
+autocad: 1
+association of chartered certified accountants: 1
+flash: 1
+react: 2
+xero: 3
+rpa: 2
+gm: 1
+sla: 1
+euclid: 1
+import and export: 3
+bookings: 2
+clean: 1
+companies ordinance: 1
+google analytics: 1
+seo: 1
+wordpress: 1
+web analytics: 1
+css: 1
+adobe xd: 1
+in-design: 1
+after effects: 1
+multimedia: 1
+adobe creative suite: 1
+photoshop: 1
+sfc authorized funds regulations: 1
+matlab: 1
+deployment: 2
+gap: 1
+lua: 1
+ar: 2
+billing system: 1
+anti-bribery: 1
+focal: 1
+devops: 2
+lean: 1
+voice of the customer: 1
+max: 1
+red: 1
+setup system: 1
+scratch: 1
+web services: 1
+tie: 1
+switch: 1

@@ -1,0 +1,195 @@
+computer skills: 35
+microsoft excel: 162
+plus: 65
+no: 20
+word: 86
+powerpoint: 75
+outlook: 24
+documentation: 37
+project management: 53
+dynamic: 13
+analytical skills: 43
+garment industry: 8
+pc knowledge: 18
+microsoft office suite: 126
+problem solving skills: 124
+chinese word processing: 57
+microsoft word: 38
+shipping document: 1
+make: 34
+bi: 4
+web: 12
+ai: 5
+rpa: 1
+programming: 5
+pmp: 3
+microsoft office: 15
+pivot table: 8
+pc applications: 17
+photoshop: 24
+merchandizing: 8
+data management: 5
+statistical analysis: 7
+o365: 1
+azure: 2
+vmware: 1
+active directory: 1
+sccm: 1
+hardware: 4
+os: 1
+pc: 8
+windows server: 1
+antivirus: 1
+adobe illustrator: 9
+vba: 4
+basic: 14
+analysis: 53
+vlookup: 8
+lcc: 2
+accounting systems: 3
+cad: 7
+sap: 13
+power point: 5
+r&d: 15
+chinese and english word processing: 5
+macro: 2
+prc accounting: 2
+cpa: 2
+internal control: 1
+c: 7
+erp systems: 17
+acumen: 3
+processing: 17
+agile: 5
+whatsapp: 3
+quickbooks: 1
+myob: 1
+bloomberg: 1
+react: 3
+gap: 2
+focus: 9
+reporting systems: 1
+simple: 9
+cobra: 3
+maintenance: 37
+go: 5
+peachtree: 1
+illustrator: 11
+tex: 2
+nice: 2
+databases: 8
+wan: 7
+3d software: 4
+marco: 6
+presentations: 3
+sql: 2
+lean: 21
+autocad: 5
+scheme: 12
+words: 4
+erp: 10
+in-design: 6
+translation: 3
+vendor: 13
+building information modelling: 2
+bim: 2
+information system: 3
+server: 2
+java: 1
+tcp: 1
+code: 4
+web development: 1
+web apps: 1
+html: 1
+router: 1
+aws: 1
+typescript: 1
+container: 2
+javascript: 1
+angular: 1
+linux: 1
+bash: 1
+ip: 1
+css: 1
+six sigma: 14
+writing skills: 5
+apt: 2
+business management: 9
+mad: 1
+solidworks: 3
+small: 13
+exchange: 7
+typing: 6
+id: 3
+rapid: 9
+qpl: 1
+ems: 3
+rhino: 1
+credit analysis: 1
+safe: 3
+factor: 4
+deployment: 1
+local environmental regulations: 1
+microsoft applications: 10
+scrum framework: 1
+clean: 4
+batch: 9
+system design: 1
+video editing: 1
+adobe creative suite: 2
+adobe acrobat: 1
+printers: 1
+graphics: 3
+visual identity: 1
+web application development: 1
+web services: 1
+c#: 1
+web design: 1
+acrobat: 1
+adobe indesign: 1
+sla: 1
+adobe: 1
+chinese wp: 1
+oracle: 3
+goal: 3
+import and export: 1
+beta: 1
+demand planning: 2
+order processing: 4
+planner: 2
+pc literate: 2
+financial analysis: 2
+fun: 3
+pc operations: 2
+e-commerce: 1
+mobile: 2
+flex: 1
+system implementation: 3
+oracle system: 1
+r: 3
+inform: 4
+labview: 2
+cool: 1
+data mining: 1
+bank documents: 1
+presentation skill: 1
+numerical skills: 1
+plc: 1
+hong kong driving licence: 1
+airlines: 2
+facilities management: 2
+certificate of registration of electrical worker: 1
+it knowledge: 1
+integration: 1
+office software: 1
+dc: 1
+rsl: 1
+vs: 1
+pipelines: 2
+dcl: 2
+fmcg industry: 2
+msl: 1
+converge: 1
+submission process: 1
+red: 1
+prc manufacturing: 1

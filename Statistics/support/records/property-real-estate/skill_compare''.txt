@@ -1,0 +1,24 @@
+analysis: 200.00%
+pc applications: 200.00%
+power point: 100.00%
+pc knowledge: 100.00%
+autocad: 100.00%
+translation: 100.00%
+pc: 100.00%
+financial analysis: 100.00%
+typing: 66.67%
+documentation: 50.00%
+word: 42.11%
+no: 30.00%
+microsoft office suite: 28.57%
+professional qualifications: 25.00%
+microsoft office: 25.00%
+microsoft excel: 21.28%
+microsoft word: 20.69%
+chinese word processing: 17.14%
+basic: 14.29%
+powerpoint: 12.50%
+computer skills: 9.09%
+facilities management: 8.70%
+problem solving skills: 8.33%
+maintenance: 4.76%

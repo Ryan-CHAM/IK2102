@@ -1,0 +1,47 @@
+programming: 200.00%
+hksi: 200.00%
+autocad: 200.00%
+processing: 100.00%
+animal science: 100.00%
+animal husbandry: 100.00%
+animal welfare: 100.00%
+translation: 100.00%
+lis: 100.00%
+pilot: 100.00%
+pmp: 100.00%
+html: 100.00%
+maintenance: 80.00%
+fun: 50.00%
+computer operation knowledge: 50.00%
+web: 50.00%
+statistical analysis: 50.00%
+integration: 50.00%
+six sigma: 50.00%
+lean: 50.00%
+data analytics: 50.00%
+mobile: 50.00%
+databases: 50.00%
+powerpoint: 45.45%
+word: 44.44%
+documentation: 42.86%
+microsoft word: 41.67%
+mouse: 40.00%
+microsoft excel: 38.10%
+problem solving skills: 36.36%
+computer skills: 36.36%
+bi: 33.33%
+plus: 33.33%
+pc knowledge: 33.33%
+safe: 33.33%
+r&d: 33.33%
+microsoft office suite: 30.43%
+microsoft office: 30.00%
+chinese word processing: 27.27%
+no: 27.27%
+analysis: 26.67%
+c: 25.00%
+mammography: 25.00%
+analytical skills: 25.00%
+basic: 23.53%
+make: 22.22%
+dynamic: 12.50%

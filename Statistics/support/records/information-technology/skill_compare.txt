@@ -1,0 +1,233 @@
+video editing: 150.00%
+graphics: 100.00%
+centos: 100.00%
+web standards: 100.00%
+groovy: 100.00%
+joy: 100.00%
+mad: 100.00%
+airports: 100.00%
+android studio: 100.00%
+office software: 100.00%
+csh: 100.00%
+awk: 100.00%
+web products: 100.00%
+customer journeys: 100.00%
+vsan: 100.00%
+statistical analysis: 100.00%
+cctv: 66.67%
+matlab: 66.67%
+flash: 66.67%
+cloud environment: 57.14%
+internal control: 57.14%
+id: 50.00%
+hibernate: 50.00%
+numerical skills: 50.00%
+in-design: 50.00%
+informix: 50.00%
+labview: 50.00%
+airflow: 50.00%
+web & mobile: 40.00%
+windows 10: 40.00%
+sem: 40.00%
+simple: 33.33%
+bash: 33.33%
+power point: 33.33%
+web api: 33.33%
+alteryx: 33.33%
+scratch: 33.33%
+printers: 33.33%
+web application firewall: 33.33%
+system upgrades: 33.33%
+sas: 33.33%
+antivirus: 33.33%
+dreamweaver: 33.33%
+after effects: 33.33%
+photoshop: 28.57%
+presentations: 28.57%
+goal: 28.57%
+small: 27.78%
+spring: 27.27%
+container: 27.27%
+lcc: 26.67%
+inform: 25.00%
+data warehouse: 25.00%
+public cloud platforms: 25.00%
+pipelines: 25.00%
+dbms: 25.00%
+autocad: 25.00%
+professional qualifications: 25.00%
+web application security: 25.00%
+cisco certified network associate: 25.00%
+illustrator: 25.00%
+clean: 25.00%
+safe: 23.53%
+web services: 23.08%
+fun: 22.58%
+infrastructure support: 21.43%
+mcsa: 21.43%
+jquery: 20.93%
+writing skills: 20.83%
+business intelligence: 20.59%
+analytics tools: 20.00%
+web apps: 20.00%
+visual basic: 20.00%
+android development: 20.00%
+mobile device: 20.00%
+microsoft applications: 20.00%
+code: 19.70%
+airlines: 19.05%
+cyber security: 18.87%
+salesforce: 18.75%
+aircraft: 18.75%
+react native: 18.42%
+scheme: 18.42%
+chinese word processing: 18.18%
+go: 18.18%
+itil: 18.06%
+dns: 17.65%
+microsoft office: 17.14%
+microsoft office suite: 16.98%
+azure: 16.67%
+e-commerce: 16.67%
+adobe illustrator: 16.67%
+business management: 16.67%
+office 365: 16.67%
+unix shell: 16.67%
+pos: 16.67%
+abap: 16.67%
+web server: 16.67%
+batch: 16.67%
+adobe photoshop: 16.67%
+dynamic: 16.00%
+javascript: 15.56%
+r&d: 15.38%
+hkma: 15.38%
+web applications: 15.00%
+vpn: 15.00%
+adobe: 15.00%
+firewall: 14.89%
+web: 14.81%
+os: 14.71%
+android: 14.71%
+html: 14.55%
+focus: 14.55%
+aws: 14.49%
+vendor: 14.43%
+restful api: 14.29%
+ml: 14.29%
+jenkins: 14.29%
+ajax: 14.29%
+kotlin: 14.29%
+microsoft exchange: 14.29%
+whatsapp: 14.29%
+operation support: 14.29%
+sales support: 14.29%
+t-sql: 14.29%
+problem solving skills: 14.21%
+ip: 14.10%
+sql: 14.07%
+wan: 14.04%
+erp: 13.95%
+data management: 13.89%
+deployment: 13.85%
+no: 13.85%
+tcp: 13.79%
+project management: 13.78%
+ms sql: 13.70%
+ms sql server: 13.64%
+qlikview: 13.64%
+rapid: 13.33%
+java: 13.15%
+plus: 13.09%
+pl: 13.04%
+vmware: 12.96%
+databases: 12.90%
+programming: 12.79%
+linux: 12.78%
+c#: 12.77%
+devops: 12.68%
+php: 12.50%
+active directory: 12.50%
+microservices: 12.50%
+powershell: 12.50%
+presentation skill: 12.50%
+sccm: 12.50%
+s3: 12.50%
+six sigma: 12.50%
+analysis: 12.40%
+mcse: 12.31%
+analytical skills: 12.30%
+ccna: 12.05%
+windows server: 12.00%
+r: 12.00%
+angular: 11.76%
+pmp: 11.76%
+web application development: 11.54%
+microsoft excel: 11.50%
+css: 11.50%
+server: 11.47%
+web technologies: 11.11%
+google analytics: 11.11%
+hyper-v: 11.11%
+exchange: 11.11%
+information system: 11.11%
+rpa: 11.11%
+adobe creative suite: 11.11%
+lean: 11.11%
+mobile: 11.03%
+word: 10.96%
+computer skills: 10.71%
+hardware: 10.67%
+bi: 10.53%
+acumen: 10.34%
+multimedia: 10.00%
+system design: 10.00%
+wi-fi: 10.00%
+oracle: 9.60%
+swift: 9.52%
+data visualization: 9.52%
+workshops: 9.52%
+basic: 9.47%
+switch: 9.38%
+ai: 9.30%
+integration: 9.18%
+maintenance: 9.15%
+python: 9.14%
+outlook: 9.09%
+nas: 9.09%
+tableau: 8.93%
+documentation: 8.82%
+objective-c: 8.70%
+typescript: 8.70%
+make: 8.62%
+agile: 8.33%
+citrix: 8.33%
+sap: 8.33%
+perl: 8.33%
+scala: 8.33%
+spark: 8.33%
+git: 7.81%
+c: 7.69%
+data analytics: 7.69%
+system implementation: 7.69%
+visual design: 7.69%
+application system: 7.69%
+network management: 7.69%
+ansible: 7.69%
+sla: 7.14%
+react: 6.90%
+router: 6.90%
+seo: 6.67%
+data mining: 6.67%
+server administration: 6.67%
+sdlc: 6.38%
+network administration: 6.25%
+cpa: 5.88%
+powerpoint: 5.56%
+c++: 5.56%
+o365: 5.56%
+processing: 5.26%
+web development: 5.00%
+ccnp: 4.76%
+pc: 3.85%
+microsoft word: 3.70%

@@ -1,0 +1,182 @@
+microsoft excel: 132
+powerpoint: 62
+project management: 41
+problem solving skills: 101
+words: 4
+computer skills: 29
+plus: 52
+oracle system: 1
+microsoft office suite: 101
+no: 18
+airlines: 2
+facilities management: 2
+make: 28
+information system: 2
+simple: 9
+cobra: 3
+maintenance: 31
+pivot table: 4
+adobe illustrator: 8
+vlookup: 4
+photoshop: 21
+documentation: 31
+batch: 7
+chinese word processing: 45
+fun: 3
+word: 70
+outlook: 16
+pc knowledge: 16
+microsoft word: 35
+inform: 4
+cool: 1
+analysis: 44
+data mining: 1
+rapid: 6
+business management: 9
+analytical skills: 36
+pc applications: 11
+processing: 17
+building information modelling: 2
+bim: 2
+ai: 4
+autocad: 4
+system design: 1
+r&d: 13
+chinese and english word processing: 5
+integration: 1
+mobile: 2
+merchandizing: 8
+data management: 5
+microsoft applications: 8
+server: 2
+vs: 1
+six sigma: 9
+labview: 1
+vendor: 11
+sap: 10
+web: 8
+erp: 10
+whatsapp: 2
+r: 3
+certificate of registration of electrical worker: 1
+erp systems: 15
+oracle: 3
+clean: 3
+small: 10
+adobe creative suite: 1
+e-commerce: 1
+flex: 1
+focus: 6
+code: 4
+databases: 6
+msl: 1
+converge: 1
+bi: 3
+system implementation: 3
+exchange: 7
+translation: 1
+marco: 3
+factor: 4
+web design: 1
+go: 4
+statistical analysis: 6
+presentations: 3
+sql: 2
+plc: 1
+hong kong driving licence: 1
+macro: 1
+basic: 10
+scheme: 8
+goal: 3
+microsoft office: 12
+pipelines: 2
+gap: 1
+c: 6
+pc: 7
+order processing: 4
+typing: 5
+lean: 17
+web application development: 1
+agile: 4
+programming: 4
+web services: 1
+c#: 1
+mad: 1
+ems: 3
+dynamic: 10
+prc accounting: 2
+chinese wp: 1
+garment industry: 8
+writing skills: 2
+power point: 5
+reporting systems: 1
+dc: 1
+cad: 5
+in-design: 5
+illustrator: 9
+lcc: 2
+accounting systems: 2
+wan: 4
+solidworks: 2
+dcl: 2
+react: 2
+hardware: 2
+scrum framework: 1
+peachtree: 1
+apt: 2
+vba: 3
+acumen: 3
+office software: 1
+id: 2
+pc operations: 2
+quickbooks: 1
+myob: 1
+azure: 1
+java: 1
+tcp: 1
+web development: 1
+web apps: 1
+html: 1
+router: 1
+aws: 1
+typescript: 1
+container: 2
+javascript: 1
+angular: 1
+linux: 1
+bash: 1
+ip: 1
+css: 1
+numerical skills: 1
+prc manufacturing: 1
+pmp: 2
+adobe acrobat: 1
+import and export: 1
+fmcg industry: 2
+planner: 1
+cpa: 2
+internal control: 1
+safe: 3
+video editing: 1
+printers: 1
+bank documents: 1
+financial analysis: 1
+rhino: 1
+credit analysis: 1
+adobe: 1
+pc literate: 1
+submission process: 1
+it knowledge: 1
+rsl: 1
+3d software: 2
+sla: 1
+graphics: 2
+visual identity: 1
+shipping document: 1
+tex: 1
+nice: 1
+demand planning: 2
+deployment: 1
+local environmental regulations: 1
+beta: 1
+qpl: 1

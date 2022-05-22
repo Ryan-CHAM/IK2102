@@ -1,0 +1,229 @@
+microsoft office suite: 66
+microsoft office: 36
+writing skills: 32
+no: 42
+chinese word processing: 62
+in-design: 35
+illustrator: 112
+typing: 13
+pc: 13
+photoshop: 175
+powerpoint: 104
+translation: 27
+microsoft excel: 144
+microsoft word: 43
+adobe: 31
+small: 18
+plus: 123
+mac os: 4
+sales support: 1
+word processing: 2
+dynamic: 37
+go: 12
+word: 61
+web: 34
+adobe indesign: 5
+mobile: 33
+premiere: 44
+html: 20
+multimedia: 84
+web technologies: 3
+scheme: 8
+video editing: 66
+web editing: 1
+publisher: 3
+basic: 38
+green card: 4
+after effects: 103
+adobe illustrator: 27
+pl: 4
+css: 19
+illustration: 7
+facebook: 82
+wordpress: 6
+outlook: 7
+web development: 8
+seo: 35
+graphics: 28
+ai: 23
+javascript: 11
+adobe creative suite: 22
+whatsapp: 4
+web design: 9
+maintenance: 25
+make: 30
+vendor: 5
+planner: 3
+google analytics: 24
+project management: 45
+problem solving skills: 73
+cfa: 1
+rapid: 2
+data visualization: 2
+adobe premiere: 22
+processing: 16
+financial analysis: 12
+programming: 14
+hyper-v: 2
+vmware: 4
+tcp: 2
+vpn: 2
+firewall: 3
+perl: 2
+aws: 4
+python: 4
+linux: 4
+apache: 2
+dns: 2
+switch: 3
+bash: 3
+ip: 2
+deployment: 3
+swift: 4
+analytical skills: 52
+final cut pro: 31
+maya: 7
+3ds max: 6
+analysis: 48
+mcse: 2
+mcsa: 2
+wechat: 19
+premiere pro: 30
+id: 2
+ap: 1
+billing system: 1
+oracle: 1
+signal: 4
+3d software: 5
+adobe software: 3
+max: 5
+av system: 3
+documentation: 6
+c++: 2
+objective-c: 1
+c: 7
+android: 3
+mac environment: 5
+system design: 2
+autocad: 6
+server: 7
+pc applications: 10
+operation support: 3
+java: 1
+azure: 1
+kotlin: 2
+acumen: 8
+e-commerce: 33
+adobe photoshop: 30
+computer systems: 1
+presentation skill: 6
+information system: 7
+web-based applications: 1
+inform: 3
+adobe premiere pro: 14
+react: 3
+active directory: 1
+server administration: 1
+vmare: 1
+router: 1
+windows server: 1
+business management: 5
+visual communication: 4
+computer skills: 26
+web savvy: 1
+dreamweaver: 3
+c4d: 3
+hardware: 7
+jade: 1
+acca: 1
+hkicpa: 1
+wan: 8
+adwords: 15
+chill: 3
+words: 9
+animate: 5
+clips: 2
+restful api: 2
+integration: 3
+git: 3
+jquery: 2
+typescript: 2
+data analytics: 8
+web conferencing: 2
+pc knowledge: 2
+pos: 1
+simple: 5
+cl: 1
+adobe cc: 2
+adobe cs: 6
+crypto: 1
+reporting writing skills: 1
+internal control: 1
+marketing skills: 1
+nice: 3
+design softwares: 3
+sem: 40
+office software: 1
+gm: 2
+pivot table: 2
+vlookup: 2
+workshops: 2
+focus: 16
+tea: 1
+analytics tools: 6
+presentations: 16
+goal: 6
+cg: 5
+microsoft powerpoint: 7
+cpa: 5
+execution strategy: 3
+numerical skills: 3
+power point: 4
+investment products: 1
+iiqe paper: 1
+sql: 1
+web metrics: 1
+sr: 2
+tie: 1
+agile: 4
+bi: 2
+fmcg industry: 4
+microsoft applications: 1
+salesforce: 3
+tableau: 1
+fun: 10
+io: 3
+php: 1
+ruby: 1
+google apps script: 1
+web analytics: 3
+ar: 3
+finance systems: 2
+beta: 1
+bookings: 3
+exchange: 4
+cpl: 1
+animators: 1
+iiqe: 1
+web experience: 1
+ease: 1
+code: 3
+pc literate: 1
+pmp: 1
+project management professional: 1
+visual effects: 2
+visual design: 5
+davinci resolve: 1
+animation software: 1
+reason: 1
+adobe xd: 3
+management reports: 1
+flash: 1
+3dmax: 2
+acrobat: 1
+amazon: 1
+clean: 1
+merchandizing: 1
+visual merchandising: 1
+3d modelling: 1
+sketchup: 1

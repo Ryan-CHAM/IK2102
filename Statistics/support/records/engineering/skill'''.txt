@@ -1,0 +1,198 @@
+whatsapp: 11
+maintenance: 61
+sketchup: 10
+project management: 47
+photoshop: 7
+certificate of registration of electrical worker: 5
+problem solving skills: 54
+microsoft office suite: 58
+autocad: 103
+r&d: 9
+writing skills: 5
+workshops: 10
+scheme: 16
+basic: 18
+c++: 8
+rhino: 3
+cad: 26
+python: 7
+programming: 16
+rapid: 2
+matlab: 2
+solidworks: 12
+small: 5
+c: 19
+dynamic: 4
+acumen: 4
+goal: 1
+plus: 41
+hkie: 21
+documentation: 16
+deployment: 5
+system design: 15
+word: 24
+pc applications: 6
+microsoft excel: 45
+ap: 2
+code: 12
+security personnel permit: 4
+elv system: 3
+make: 7
+switch: 3
+ccnp: 6
+ip: 9
+business management: 2
+aircraft systems: 1
+pmp: 2
+microsoft word: 18
+chinese word processing: 10
+data network: 1
+engineering software packages: 1
+3d modelling: 2
+focus: 8
+dc: 7
+plc: 7
+container: 2
+ems: 2
+xl: 1
+io: 1
+integration: 12
+signal: 2
+simple: 3
+ease: 1
+inform: 1
+no: 9
+analysis: 20
+dynamo: 2
+bim: 22
+revit: 14
+information system: 2
+exchange: 2
+microsoft office: 22
+revit architecture: 1
+computer skills: 13
+presentation skill: 2
+ccna: 6
+vendor: 8
+router: 4
+vpn: 1
+firewall: 1
+green card: 8
+facilities management: 5
+analytical skills: 6
+portable: 1
+processing: 5
+labview: 2
+c#: 5
+microsoft project: 4
+words: 2
+power point: 6
+azure: 5
+aws: 8
+erp systems: 1
+lean: 6
+sap: 3
+six sigma: 3
+hvac: 13
+bms: 6
+pc: 4
+nice: 3
+hong kong construction and building related legislations: 2
+fire services system: 2
+building and a&a works: 2
+plumbing and drainage system: 2
+submission process: 2
+knowledge of hvac: 2
+electrical and lighting system: 2
+ciob: 3
+hkicm: 3
+rics: 2
+av system: 2
+construction site safety requirements: 2
+auto cad 2015: 1
+mhkie: 4
+mobile: 16
+wiring diagrams: 1
+linux: 10
+oracle: 1
+java: 2
+network management: 3
+php: 2
+sql: 4
+perl: 1
+bim modelling: 1
+server administration: 1
+powerpoint: 16
+r: 2
+sem: 1
+cuda: 2
+ml: 2
+professional qualifications: 2
+office software: 2
+server: 5
+android development: 1
+web applications: 1
+apache: 1
+cctv: 10
+hardware: 7
+android: 3
+web: 1
+swift: 1
+html: 3
+objective-c: 1
+javascript: 2
+css: 2
+presentations: 2
+fun: 2
+adobe photoshop: 2
+building information modelling: 1
+ai: 3
+building management system: 1
+clean: 1
+safe: 6
+illustrator: 2
+max: 1
+microsoft powerpoint: 1
+iot applications: 1
+microsoft applications: 1
+agile: 3
+adobe: 1
+chinese input: 1
+pc operations: 1
+application system: 1
+typing: 1
+wechat: 1
+the hong kong institution of engineers: 3
+assembly language: 1
+hong kong employment ordinance: 1
+erp: 2
+sales support: 1
+unified communication: 1
+id: 1
+construction workers registration card: 1
+aircraft maintenance: 1
+data management: 1
+cyber security: 1
+fortran: 1
+tcl: 1
+sap2000: 1
+pc knowledge: 2
+web design: 1
+adobe xd: 1
+sketch up: 1
+sla: 1
+wi-fi: 1
+material handling system: 2
+pe: 2
+problem solving capabilities: 1
+billing system: 1
+itil: 1
+ms windows: 1
+data warehouse: 1
+operation support: 1
+hope: 1
+hkis: 1
+wan: 1
+acrobat: 1
+go: 1
+qpl: 1

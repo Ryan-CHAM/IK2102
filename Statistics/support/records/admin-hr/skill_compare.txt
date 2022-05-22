@@ -1,0 +1,60 @@
+data analytics: 100.00%
+swift: 100.00%
+data management: 100.00%
+chinese input: 100.00%
+reason: 100.00%
+exchange: 100.00%
+databases: 66.67%
+management reports: 50.00%
+business software: 50.00%
+business management: 35.71%
+code: 33.33%
+presentations: 33.33%
+professional qualifications: 33.33%
+power point: 33.33%
+erp: 33.33%
+writing skills: 28.57%
+autocad: 25.00%
+lean: 25.00%
+nice: 25.00%
+aircraft: 25.00%
+id: 25.00%
+computer skills: 20.51%
+ipl: 20.00%
+vendor: 20.00%
+rapid: 20.00%
+word processing: 18.18%
+outlook: 17.07%
+pc: 16.67%
+pc applications: 16.67%
+microsoft applications: 16.67%
+documentation: 15.38%
+analysis: 15.15%
+microsoft word: 13.27%
+microsoft office: 12.50%
+small: 12.50%
+chinese word processing: 11.88%
+hong kong employment ordinance: 11.76%
+powerpoint: 11.70%
+vlookup: 11.11%
+agile: 11.11%
+word: 10.96%
+dynamic: 10.87%
+project management: 10.81%
+microsoft office suite: 10.39%
+microsoft excel: 10.39%
+pivot table: 9.09%
+pc knowledge: 9.09%
+words: 9.09%
+make: 8.70%
+sap: 8.33%
+analytical skills: 8.33%
+c: 8.33%
+problem solving skills: 7.69%
+scheme: 7.14%
+basic: 5.88%
+focus: 5.26%
+plus: 5.17%
+maintenance: 4.76%
+processing: 4.35%
+no: 4.17%

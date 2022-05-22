@@ -1,0 +1,48 @@
+microsoft applications: 200.00%
+erp: 100.00%
+video editing: 100.00%
+peachtree: 100.00%
+react: 100.00%
+android: 100.00%
+cpa: 100.00%
+e-commerce: 50.00%
+mobile: 50.00%
+lcc: 50.00%
+web: 50.00%
+pc operations: 50.00%
+goal: 50.00%
+word processing: 50.00%
+html: 50.00%
+go: 33.33%
+exchange: 33.33%
+javascript: 33.33%
+whatsapp: 30.00%
+erp systems: 28.57%
+simple: 25.00%
+make: 25.00%
+translation: 25.00%
+pc applications: 25.00%
+sql: 25.00%
+computer skills: 23.81%
+chinese word processing: 23.68%
+analysis: 20.00%
+pc knowledge: 20.00%
+java: 20.00%
+microsoft office suite: 18.87%
+powerpoint: 16.67%
+writing skills: 16.67%
+photoshop: 16.67%
+cctv: 16.67%
+facebook: 16.67%
+word: 15.15%
+dynamic: 14.29%
+microsoft excel: 11.36%
+c: 9.52%
+analytical skills: 8.33%
+plus: 7.69%
+microsoft word: 6.25%
+microsoft office: 6.25%
+outlook: 5.88%
+maintenance: 5.56%
+basic: 5.26%
+no: 4.35%

@@ -1,0 +1,91 @@
+facilities management: 28
+word: 33
+maintenance: 23
+project management: 3
+problem solving skills: 16
+spring: 1
+chinese word processing: 52
+microsoft office suite: 30
+business management: 2
+professional qualifications: 6
+cpa: 2
+fl: 1
+microsoft excel: 71
+powerpoint: 33
+computer skills: 18
+microsoft word: 44
+microsoft office: 11
+documentation: 3
+hkie: 5
+hkis: 11
+rics: 8
+certificate of registration of electrical worker: 2
+flex system: 1
+lcc: 1
+plus: 6
+io: 1
+pmp: 5
+power point: 2
+photoshop: 1
+wan: 1
+ms windows: 2
+budget management: 1
+no: 16
+typing: 5
+outlook: 4
+dynamic: 8
+analysis: 3
+writing skills: 1
+focus: 2
+basic: 8
+pc operations: 2
+nice: 1
+small: 1
+pc knowledge: 8
+mobile: 1
+words: 3
+chinese input: 1
+acumen: 4
+scheme: 2
+code: 2
+c: 2
+planner: 1
+cfa: 3
+tea: 2
+cctv: 2
+make: 5
+airlines: 1
+safe: 1
+visual inspection: 1
+autocad: 2
+word processing: 1
+web: 1
+translation: 2
+harbour: 1
+pc: 4
+vendor: 1
+pivot table: 1
+analytics tools: 1
+bi: 1
+argus: 1
+financial analysis: 2
+private equity: 1
+chartered financial analyst: 1
+goal: 2
+cad: 1
+pc applications: 3
+itil: 1
+whatsapp: 1
+multimedia: 1
+agile: 1
+databases: 1
+processing: 1
+microsoft powerpoint: 1
+dc: 1
+mcse: 1
+ccna: 1
+bim: 1
+presentation skill: 1
+microsoft applications: 1
+security personnel permit: 1
+vba: 1

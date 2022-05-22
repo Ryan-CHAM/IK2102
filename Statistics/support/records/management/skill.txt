@@ -1,0 +1,109 @@
+problem solving skills: 24
+animal welfare: 1
+business management: 12
+acumen: 12
+project management: 24
+analysis: 21
+agile: 6
+no: 18
+make: 7
+analytical skills: 12
+microsoft excel: 26
+word: 16
+powerpoint: 14
+microsoft office suite: 18
+hvac: 3
+goal: 5
+dynamic: 12
+acca: 5
+hkicpa: 6
+plus: 19
+professional qualifications: 5
+small: 2
+luxury industry: 1
+marco: 1
+chinese word processing: 6
+r&d: 3
+inform: 1
+vendor: 4
+mobile: 5
+basic: 13
+cfa: 8
+cpa: 4
+fun: 2
+e-commerce: 3
+go: 4
+application system: 1
+microsoft office: 16
+pc operations: 3
+computer skills: 5
+microsoft powerpoint: 2
+gap: 2
+scheme: 6
+code: 4
+presentation skill: 3
+microsoft word: 6
+power point: 3
+pc knowledge: 1
+maintenance: 8
+safe: 2
+sml: 1
+iiqe: 1
+rapid: 3
+wan: 1
+marketing skills: 2
+focus: 5
+video editing: 1
+clips: 1
+photoshop: 3
+planner: 2
+hksi: 1
+outlook: 3
+id: 2
+c: 3
+whatsapp: 4
+airlines: 1
+pc: 4
+loan products: 2
+pearl: 1
+adobe photoshop: 2
+presentations: 4
+illustrator: 2
+help desk support: 1
+ms windows: 1
+hardware: 1
+accounting systems: 1
+dc: 1
+adobe acrobat: 1
+ai: 2
+demand planning: 1
+bms: 2
+pipelines: 1
+hy: 2
+pmp: 4
+green card: 1
+salesforce: 1
+private equity: 1
+project management professional: 1
+documentation: 3
+bi: 1
+tableau: 1
+harbour: 1
+in-design: 1
+autocad: 2
+sketchup: 1
+facebook: 2
+facilities management: 3
+macro: 1
+word processing: 1
+lean: 1
+writing skills: 1
+six sigma: 1
+hong kong driving licence: 1
+seo: 1
+adobe illustrator: 1
+kyc: 1
+io: 1
+microsoft project: 1
+import and export: 1
+processing: 1

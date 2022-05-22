@@ -1,0 +1,39 @@
+agile: 200.00%
+javascript: 200.00%
+sql: 100.00%
+c++: 100.00%
+html: 100.00%
+adobe photoshop: 100.00%
+c#: 100.00%
+pc applications: 100.00%
+fun: 100.00%
+goal: 100.00%
+presentations: 100.00%
+java: 66.67%
+make: 60.00%
+illustrator: 50.00%
+photoshop: 50.00%
+oracle: 50.00%
+go: 50.00%
+erp systems: 40.00%
+focus: 33.33%
+basic: 26.67%
+analysis: 25.00%
+whatsapp: 25.00%
+pc knowledge: 25.00%
+maintenance: 20.00%
+facebook: 20.00%
+cctv: 20.00%
+chinese word processing: 18.75%
+microsoft word: 18.52%
+problem solving skills: 16.67%
+scheme: 16.67%
+plus: 13.04%
+microsoft excel: 12.82%
+word: 10.00%
+powerpoint: 9.09%
+analytical skills: 9.09%
+microsoft office: 6.67%
+microsoft office suite: 6.00%
+project management: 5.88%
+no: 4.55%

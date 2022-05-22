@@ -1,0 +1,205 @@
+presentation skill: 2
+c: 8
+microsoft excel: 113
+chinese word processing: 70
+basic: 9
+microsoft word: 50
+crypto: 2
+ip: 7
+anti-money laundering: 1
+microsoft office suite: 81
+plus: 64
+private equity: 6
+analytical skills: 33
+documentation: 20
+aml: 13
+outlook: 11
+word: 36
+microsoft office: 19
+computer skills: 21
+microsoft applications: 2
+powerpoint: 64
+acrobat: 1
+word processing: 3
+problem solving skills: 44
+make: 19
+kyc: 7
+processing: 9
+sfo: 3
+analysis: 60
+peachtree: 1
+acumen: 20
+typing: 13
+focus: 12
+id: 1
+cdd: 3
+acams: 2
+rapid: 3
+dynamic: 16
+sfc license: 1
+exchange: 7
+translation: 53
+computer systems: 3
+facebook: 1
+sugar: 1
+securities and futures ordinance: 15
+workshops: 5
+lcc: 1
+cima: 2
+no: 18
+companies ordinance: 21
+business management: 9
+hkma: 6
+abc: 1
+integration: 8
+code: 9
+banking laws: 1
+vlookup: 3
+microsoft powerpoint: 2
+agile: 10
+investment products: 1
+pc applications: 6
+writing skills: 13
+transcript: 1
+tea: 1
+fun: 8
+pc knowledge: 4
+inform: 7
+pc: 8
+simple: 2
+cfa: 8
+bloomberg: 1
+cpa: 21
+ai: 9
+project management: 28
+autocad: 4
+maintenance: 11
+erp: 6
+r&d: 2
+sales support: 1
+sap: 10
+e-commerce: 1
+pos: 2
+fms: 1
+gap: 2
+vendor: 4
+deployment: 1
+hope: 1
+google analytics: 4
+bi: 7
+sql: 16
+whatsapp: 2
+data analytics: 12
+lean: 1
+information system: 6
+reason: 1
+six sigma: 2
+pmp: 2
+aircraft: 1
+presentations: 6
+office 365: 2
+java: 4
+data visualization: 6
+mobile: 6
+acca: 12
+ifrs: 1
+oracle: 5
+chill: 1
+internal control: 2
+small: 3
+sas: 7
+salesforce: 5
+tableau: 8
+business intelligence: 3
+python: 13
+database programming: 1
+data mining: 3
+vba: 10
+financial analysis: 5
+fmcg industry: 2
+joy: 2
+go: 3
+mad: 2
+scheme: 5
+linux: 1
+c++: 2
+unix shell: 1
+pl: 1
+adobe: 3
+ms sql: 1
+programming: 7
+data manipulation: 1
+windows server: 1
+web: 4
+pivot table: 3
+r: 2
+qlikview: 1
+data management: 1
+amazon: 1
+devops: 2
+aws: 2
+scala: 1
+spark: 1
+s3: 1
+container: 1
+data warehouse: 1
+hardware: 1
+web analytics: 1
+frm: 2
+hkis: 3
+rics: 3
+erp systems: 1
+professional qualifications: 5
+supply planning: 1
+demand planning: 1
+system design: 1
+cyber security: 1
+red: 1
+macro: 1
+hkicpa: 8
+xero: 1
+php: 3
+chinese wp: 2
+vc: 1
+pe: 2
+server: 1
+databases: 2
+alteryx: 1
+seo: 2
+adobe photoshop: 2
+adobe illustrator: 2
+html: 4
+sem: 1
+application system: 1
+javascript: 2
+css: 2
+photoshop: 1
+vpn: 2
+react: 1
+dbms: 2
+order processing: 2
+azure: 1
+graphics: 1
+wan: 3
+power point: 3
+accounting systems: 1
+words: 5
+nice: 1
+sizable companies: 3
+crs: 1
+account opening: 1
+fatca: 1
+cft: 1
+wordpress: 1
+clean: 1
+briefings: 2
+adobe acrobat: 1
+web browsers: 1
+bc: 1
+android: 1
+hksi: 1
+george: 1
+the hong kong institution of engineers: 1
+video editing: 1
+multimedia: 1
+charity: 1

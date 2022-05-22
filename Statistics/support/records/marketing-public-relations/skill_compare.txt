@@ -1,0 +1,102 @@
+statistical analysis: 200.00%
+java: 200.00%
+data warehouse: 200.00%
+web design: 100.00%
+ms based applications: 100.00%
+chinese wp: 100.00%
+react: 100.00%
+amazon: 100.00%
+visual merchandising: 66.67%
+business intelligence: 66.67%
+programming: 60.00%
+databases: 60.00%
+r: 60.00%
+pivot table: 50.00%
+pipelines: 50.00%
+presentation skill: 50.00%
+pc operations: 50.00%
+cool: 50.00%
+hope: 50.00%
+data visualization: 50.00%
+crypto: 50.00%
+charity: 50.00%
+r&d: 50.00%
+fmcg industry: 38.46%
+compass: 33.33%
+joy: 33.33%
+nice: 33.33%
+python: 33.33%
+data mining: 33.33%
+adobe creative suite: 28.57%
+c: 28.57%
+typing: 27.27%
+business management: 25.00%
+adobe indesign: 25.00%
+dreamweaver: 25.00%
+exchange: 25.00%
+information system: 25.00%
+wordpress: 25.00%
+analytical skills: 23.21%
+web analytics: 22.22%
+acumen: 20.93%
+adobe photoshop: 20.00%
+vendor: 20.00%
+power point: 20.00%
+integration: 20.00%
+sql: 20.00%
+tableau: 20.00%
+ai: 18.18%
+in-design: 18.18%
+fun: 18.18%
+bi: 18.18%
+analysis: 16.67%
+whatsapp: 16.67%
+facebook: 16.46%
+agile: 15.79%
+google analytics: 15.69%
+dynamic: 15.49%
+html: 15.38%
+salesforce: 15.38%
+make: 15.38%
+no: 15.15%
+computer skills: 14.89%
+microsoft office: 14.81%
+mobile: 14.71%
+microsoft office suite: 14.49%
+chinese word processing: 14.44%
+translation: 13.51%
+sem: 13.33%
+illustrator: 13.04%
+microsoft excel: 12.95%
+word: 12.94%
+pc applications: 12.50%
+seo: 12.50%
+data analytics: 12.50%
+project management: 12.40%
+microsoft word: 11.84%
+maintenance: 11.76%
+focus: 11.11%
+wechat: 10.71%
+documentation: 10.00%
+blockchain: 10.00%
+powerpoint: 9.64%
+adwords: 9.52%
+outlook: 9.09%
+plus: 8.78%
+e-commerce: 8.62%
+analytics tools: 8.33%
+photoshop: 8.22%
+problem solving skills: 7.84%
+workshops: 7.69%
+go: 7.69%
+small: 7.69%
+presentations: 7.41%
+code: 7.14%
+adobe illustrator: 6.25%
+multimedia: 6.25%
+writing skills: 6.12%
+adobe: 5.56%
+video editing: 5.56%
+goal: 5.56%
+processing: 4.76%
+basic: 4.17%

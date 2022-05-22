@@ -1,0 +1,66 @@
+go: 400.00%
+business management: 300.00%
+autocad: 200.00%
+pc operations: 150.00%
+microsoft powerpoint: 100.00%
+presentation skill: 100.00%
+animate: 100.00%
+alteryx: 100.00%
+data visualization: 100.00%
+python: 100.00%
+green card: 100.00%
+vba: 50.00%
+web: 50.00%
+information system: 50.00%
+deployment: 50.00%
+workshops: 50.00%
+planner: 50.00%
+html: 50.00%
+facebook: 50.00%
+presentations: 40.00%
+pivot table: 33.33%
+shipping document: 33.33%
+sql: 33.33%
+simple: 33.33%
+agile: 33.33%
+chinese word processing: 32.14%
+processing: 31.25%
+pc knowledge: 27.78%
+no: 25.00%
+vlookup: 25.00%
+whatsapp: 22.73%
+typing: 22.22%
+problem solving skills: 21.15%
+plus: 20.51%
+sap: 20.00%
+bookings: 20.00%
+rapid: 20.00%
+pc applications: 20.00%
+microsoft office: 19.23%
+e-commerce: 18.18%
+oracle: 16.67%
+computer skills: 16.28%
+microsoft excel: 15.98%
+microsoft word: 15.79%
+project management: 15.38%
+make: 15.00%
+word: 14.93%
+documentation: 14.71%
+clean: 14.29%
+airlines: 14.29%
+outlook: 13.79%
+erp: 12.50%
+pc: 11.11%
+analysis: 11.11%
+dynamic: 11.11%
+acumen: 11.11%
+powerpoint: 11.11%
+import and export: 10.00%
+microsoft office suite: 9.40%
+order processing: 9.09%
+wan: 7.69%
+analytical skills: 7.41%
+scheme: 6.25%
+aircraft: 5.00%
+c: 4.35%
+basic: 3.03%

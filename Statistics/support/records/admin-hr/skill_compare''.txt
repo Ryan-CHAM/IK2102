@@ -1,0 +1,58 @@
+vlookup: 100.00%
+myob: 100.00%
+airlines: 100.00%
+acca: 100.00%
+presentation skill: 100.00%
+databases: 100.00%
+chinese wp: 100.00%
+pivot table: 66.67%
+documentation: 66.67%
+facilities management: 50.00%
+charity: 50.00%
+words: 50.00%
+numerical skills: 50.00%
+pc operations: 50.00%
+pc applications: 50.00%
+ap: 50.00%
+whatsapp: 50.00%
+bi: 50.00%
+lean: 50.00%
+erp systems: 50.00%
+word processing: 40.00%
+outlook: 37.50%
+mpf regulations: 33.33%
+pc knowledge: 31.58%
+problem solving skills: 30.23%
+agile: 28.57%
+sap: 28.57%
+plus: 26.83%
+focus: 26.67%
+microsoft office suite: 26.58%
+make: 25.00%
+basic: 25.00%
+small: 25.00%
+rapid: 25.00%
+microsoft excel: 24.57%
+chinese word processing: 22.92%
+c: 22.22%
+project management: 22.22%
+word: 20.95%
+computer skills: 20.69%
+microsoft office: 20.41%
+writing skills: 20.00%
+scheme: 20.00%
+analysis: 19.23%
+powerpoint: 18.40%
+go: 16.67%
+hong kong employment ordinance: 16.67%
+microsoft powerpoint: 16.67%
+typing: 16.67%
+microsoft word: 16.47%
+no: 14.29%
+acumen: 14.29%
+dynamic: 13.89%
+wan: 12.50%
+maintenance: 11.76%
+analytical skills: 10.00%
+information system: 10.00%
+processing: 5.26%

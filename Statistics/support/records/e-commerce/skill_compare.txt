@@ -1,0 +1,98 @@
+gap: 200.00%
+merchandizing: 100.00%
+s3: 100.00%
+server: 100.00%
+web traffic: 100.00%
+hardware: 66.67%
+pc knowledge: 66.67%
+system implementation: 66.67%
+processing: 50.00%
+customer journeys: 50.00%
+presentation skill: 50.00%
+acca: 50.00%
+typing: 50.00%
+restful api: 50.00%
+rapid: 50.00%
+web applications: 50.00%
+azure: 50.00%
+wechat: 40.00%
+translation: 33.33%
+writing skills: 33.33%
+react native: 33.33%
+small: 30.00%
+adwords: 28.57%
+data analytics: 28.57%
+basic: 27.78%
+microsoft word: 26.09%
+video editing: 25.00%
+go: 25.00%
+luxury industry: 25.00%
+sap: 25.00%
+words: 25.00%
+ccnp: 25.00%
+fun: 25.00%
+word processing: 25.00%
+jquery: 25.00%
+web technologies: 25.00%
+chill: 25.00%
+microsoft office: 23.08%
+amazon: 22.22%
+acumen: 22.22%
+deployment: 22.22%
+dynamic: 21.21%
+power point: 20.00%
+graphics: 20.00%
+salesforce: 20.00%
+web analytics: 20.00%
+cpa: 20.00%
+android: 20.00%
+word: 19.15%
+sem: 18.75%
+analytical skills: 17.07%
+powerpoint: 16.98%
+ip: 16.67%
+adobe: 16.67%
+adobe illustrator: 16.67%
+wordpress: 16.67%
+c#: 16.67%
+web development: 16.67%
+scheme: 16.67%
+chinese word processing: 16.22%
+microsoft office suite: 16.07%
+documentation: 15.79%
+microsoft excel: 15.00%
+computer skills: 15.00%
+e-commerce: 14.55%
+plus: 14.29%
+shopify: 14.29%
+outlook: 14.29%
+project management: 14.29%
+php: 13.33%
+agile: 13.04%
+web: 12.50%
+illustrator: 12.50%
+integration: 11.76%
+make: 11.36%
+ai: 11.11%
+analytics tools: 11.11%
+whatsapp: 11.11%
+react: 11.11%
+mobile: 10.81%
+analysis: 10.29%
+vendor: 10.00%
+focus: 10.00%
+adobe photoshop: 10.00%
+oracle: 10.00%
+google analytics: 9.76%
+information system: 9.09%
+no: 9.09%
+aws: 7.69%
+problem solving skills: 7.53%
+maintenance: 6.25%
+business management: 5.88%
+sql: 5.88%
+photoshop: 5.71%
+javascript: 5.56%
+html: 5.00%
+seo: 5.00%
+facebook: 4.17%

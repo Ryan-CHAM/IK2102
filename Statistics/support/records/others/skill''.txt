@@ -1,0 +1,140 @@
+microsoft excel: 78
+basic: 15
+bookings: 1
+microsoft office suite: 50
+microsoft word: 27
+java: 3
+focus: 6
+maintenance: 15
+plus: 23
+writing skills: 6
+acrobat: 1
+in-design: 3
+illustrator: 2
+powerpoint: 22
+c: 21
+creative suite: 1
+photoshop: 4
+no: 22
+dynamic: 7
+power point: 3
+vba: 2
+analytical skills: 11
+analysis: 4
+sql: 2
+problem solving skills: 24
+c++: 1
+autocad: 6
+computer skills: 21
+facebook: 5
+whatsapp: 8
+chinese word processing: 32
+project management: 17
+lean: 1
+agile: 1
+information system: 1
+reason: 1
+six sigma: 1
+pmp: 1
+workshops: 8
+words: 4
+microsoft office: 15
+word: 30
+typing: 7
+import and export: 3
+processing: 6
+integration: 1
+pc operations: 2
+make: 5
+html: 1
+final cut pro: 1
+adobe photoshop: 1
+adobe illustrator: 1
+adobe premiere: 1
+pc knowledge: 4
+green card: 2
+outlook: 17
+wan: 3
+security personnel permit: 13
+documentation: 8
+cctv: 5
+oracle: 2
+vendor: 2
+scheme: 6
+mobile: 4
+business intelligence: 1
+c#: 1
+php: 2
+system design: 1
+hardware maintenance: 1
+chinese wp: 1
+simple: 4
+business management: 1
+max: 1
+translation: 4
+bi: 4
+google analytics: 1
+e-commerce: 2
+adobe: 3
+web metrics: 1
+mhkie: 1
+first aid certificate: 2
+accounting softwares: 1
+sap: 7
+word processing: 2
+pc applications: 2
+professional qualifications: 3
+exchange: 3
+3pl management: 1
+deployment: 1
+safe: 2
+rapid: 1
+r: 1
+forth: 1
+pos: 1
+bloomberg: 1
+numerical skills: 1
+fun: 1
+pc: 3
+erp systems: 5
+sales support: 1
+acumen: 2
+data management: 1
+accounting systems: 1
+lcc: 2
+go: 2
+erp: 1
+peachtree: 1
+aml: 1
+pivot table: 1
+vlookup: 2
+3d software: 1
+etabs: 1
+rhino: 1
+revit: 1
+linux: 1
+apache: 1
+jquery: 1
+javascript: 1
+android: 1
+microsoft applications: 1
+salesforce: 2
+spreadsheet: 1
+cpa: 1
+airlines: 2
+aircraft: 2
+computer systems: 1
+goal: 1
+databases: 1
+video editing: 1
+marketing skills: 2
+loan products: 1
+financial analytical skills: 1
+facilities management: 1
+presentations: 1
+data mining: 1
+osh: 1
+shipping document: 1
+first aid: 1
+cad: 1
+ccna: 1

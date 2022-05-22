@@ -1,0 +1,88 @@
+ecc: 100.00%
+microsoft applications: 100.00%
+r&d: 100.00%
+focal: 100.00%
+sfo: 100.00%
+system implementation: 50.00%
+goal: 50.00%
+business management: 50.00%
+oracle erp: 50.00%
+pivot table: 50.00%
+small: 40.00%
+python: 40.00%
+words: 33.33%
+flex system: 33.33%
+word processing: 33.33%
+business intelligence: 33.33%
+pc applications: 33.33%
+financial analytical skills: 33.33%
+companies ordinance: 30.00%
+macro: 28.57%
+internal control: 25.00%
+sizable companies: 25.00%
+agile: 25.00%
+vlookup: 25.00%
+erp: 22.73%
+hkfrs: 22.22%
+project management: 22.22%
+wan: 20.00%
+writing skills: 20.00%
+ap: 20.00%
+html: 20.00%
+alteryx: 20.00%
+chinese word processing: 19.30%
+scheme: 17.65%
+analysis: 17.33%
+sap: 17.19%
+problem solving skills: 16.67%
+outlook: 16.67%
+spreadsheet: 16.67%
+typing: 16.67%
+myob: 15.79%
+microsoft office suite: 15.17%
+acumen: 15.09%
+prc accounting: 14.81%
+hkicpa: 14.44%
+pc knowledge: 14.29%
+pc: 14.29%
+management reports: 14.29%
+programming: 14.29%
+make: 14.29%
+frr: 14.29%
+tableau: 14.29%
+powerpoint: 14.12%
+plus: 13.93%
+microsoft excel: 13.92%
+accounting softwares: 13.79%
+financial analysis: 13.79%
+cpa: 13.67%
+microsoft word: 13.33%
+analytical skills: 13.33%
+bi: 13.33%
+ifrs: 13.33%
+computer skills: 12.96%
+mobile: 12.50%
+accounting systems: 12.28%
+vba: 11.76%
+documentation: 11.76%
+oracle system: 11.11%
+word: 10.96%
+acca: 10.64%
+ar: 10.53%
+xero: 10.00%
+erp systems: 9.80%
+no: 9.68%
+professional qualifications: 9.09%
+r: 9.09%
+presentations: 9.09%
+fmcg industry: 8.33%
+sql: 8.33%
+dynamic: 7.84%
+gm: 7.69%
+focus: 7.69%
+basic: 7.41%
+microsoft office: 7.14%
+c: 6.67%
+lcc: 6.25%
+processing: 4.55%
+oracle: 2.17%

@@ -1,0 +1,84 @@
+fun: 3
+analysis: 13
+web: 3
+exchange: 3
+code: 3
+problem solving skills: 9
+data management: 1
+no: 20
+pe: 2
+computer skills: 4
+microsoft office suite: 15
+plus: 36
+factor: 1
+basic: 14
+illustrator: 2
+photoshop: 1
+c: 11
+project management: 6
+multimedia: 2
+scheme: 4
+microsoft excel: 22
+chinese word processing: 7
+powerpoint: 9
+microsoft word: 7
+professional qualifications: 3
+chinese and english word processing: 3
+publisher: 3
+office software: 4
+facebook: 1
+whatsapp: 3
+wan: 5
+vendor: 1
+r&d: 3
+google apps: 1
+hkie: 1
+small: 6
+microsoft office: 4
+id: 7
+computer systems: 3
+mobile: 3
+workshops: 2
+focus: 5
+statistical analysis: 2
+acca: 1
+hong kong institute of certified public accountants: 1
+association of chartered certified accountants: 1
+cpa: 1
+hkicpa: 1
+word: 9
+outlook: 2
+mary: 1
+databases: 2
+make: 8
+accounting softwares: 1
+microsoft applications: 1
+processing: 4
+dynamic: 1
+writing skills: 4
+clean: 1
+system implementation: 1
+pl: 1
+analytical skills: 2
+adobe photoshop: 2
+word processing: 2
+spreadsheet: 1
+goal: 1
+ap: 1
+php: 1
+maintenance: 3
+information system: 2
+adobe premiere: 1
+data analytics: 1
+macro: 1
+pc applications: 1
+facilities management: 1
+safe: 1
+autocad: 2
+iiqe: 1
+ai: 1
+pilot: 1
+r: 1
+building information modelling: 1
+bim: 1
+typing: 1

@@ -1,0 +1,23 @@
+go: 100.00%
+safe: 100.00%
+professional qualifications: 100.00%
+make: 66.67%
+documentation: 50.00%
+c: 50.00%
+whatsapp: 50.00%
+agile: 50.00%
+rapid: 50.00%
+photoshop: 50.00%
+facilities management: 50.00%
+pc: 50.00%
+project management: 33.33%
+vendor: 33.33%
+focus: 33.33%
+maintenance: 33.33%
+computer skills: 33.33%
+no: 28.57%
+analysis: 16.67%
+microsoft office: 11.11%
+analytical skills: 11.11%
+plus: 8.33%
+problem solving skills: 5.56%

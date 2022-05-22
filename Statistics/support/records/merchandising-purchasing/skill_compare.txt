@@ -1,0 +1,61 @@
+spreadsheet: 200.00%
+airports: 100.00%
+facilities management: 100.00%
+databases: 100.00%
+agile: 66.67%
+management reports: 50.00%
+exchange: 40.00%
+web: 33.33%
+chinese wp: 33.33%
+data management: 33.33%
+fmcg industry: 33.33%
+go: 28.57%
+maintenance: 28.57%
+hardware: 25.00%
+logo: 25.00%
+sr: 25.00%
+acumen: 21.43%
+power point: 20.00%
+acc: 20.00%
+computer skills: 16.67%
+typing: 16.67%
+mobile: 16.67%
+goal: 16.67%
+autocad: 16.67%
+sap: 16.00%
+order processing: 15.38%
+make: 13.33%
+pc knowledge: 12.50%
+processing: 12.50%
+id: 12.50%
+plus: 11.84%
+problem solving skills: 11.11%
+microsoft office: 11.11%
+small: 11.11%
+wan: 11.11%
+vendor: 11.11%
+presentations: 11.11%
+r&d: 11.11%
+microsoft word: 10.59%
+microsoft excel: 10.38%
+microsoft office suite: 10.22%
+garment industry: 10.00%
+e-commerce: 10.00%
+focus: 10.00%
+c: 10.00%
+erp systems: 9.38%
+analytical skills: 9.38%
+word: 9.17%
+rapid: 9.09%
+vlookup: 8.70%
+erp: 8.33%
+pivot table: 8.33%
+no: 8.33%
+powerpoint: 7.92%
+analysis: 7.35%
+chinese word processing: 6.94%
+project management: 6.67%
+pc: 5.26%
+photoshop: 4.76%
+dynamic: 3.85%
+outlook: 1.82%

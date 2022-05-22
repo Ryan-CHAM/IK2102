@@ -1,0 +1,89 @@
+prc manufacturing: 200.00%
+agile: 133.33%
+react: 100.00%
+reason: 100.00%
+planner: 100.00%
+kyc: 100.00%
+factor: 100.00%
+sizable companies: 100.00%
+import and export: 100.00%
+c: 100.00%
+garment industry: 100.00%
+budget management: 100.00%
+sfc license: 100.00%
+seo: 100.00%
+mobile device: 100.00%
+windows 10: 100.00%
+adobe: 100.00%
+service level agreement: 100.00%
+word processing: 75.00%
+words: 66.67%
+pc: 62.50%
+visual merchandising: 60.00%
+sales support: 60.00%
+integration: 50.00%
+order processing: 50.00%
+power point: 50.00%
+rapid: 50.00%
+loan products: 50.00%
+investment products: 50.00%
+data management: 50.00%
+erp systems: 50.00%
+google analytics: 50.00%
+safe: 50.00%
+joy: 50.00%
+video editing: 50.00%
+after effects: 50.00%
+fun: 45.45%
+sap: 41.67%
+business management: 41.67%
+documentation: 37.50%
+e-commerce: 36.00%
+pc knowledge: 35.29%
+whatsapp: 34.62%
+salesforce: 33.33%
+wechat: 33.33%
+ai: 33.33%
+ms windows: 33.33%
+programming: 33.33%
+autocad: 33.33%
+aircraft: 33.33%
+pc operations: 33.33%
+microsoft office: 31.58%
+no: 31.03%
+pc applications: 27.27%
+make: 25.81%
+problem solving skills: 25.32%
+analytical skills: 25.00%
+iiqe paper: 25.00%
+fmcg industry: 25.00%
+code: 25.00%
+chinese word processing: 24.29%
+acumen: 24.14%
+goal: 22.22%
+go: 22.22%
+microsoft office suite: 20.80%
+mobile: 20.00%
+focus: 20.00%
+typing: 20.00%
+plus: 19.51%
+microsoft excel: 19.15%
+basic: 18.42%
+maintenance: 18.18%
+word: 17.98%
+analysis: 17.95%
+photoshop: 16.67%
+presentation skill: 16.67%
+processing: 15.79%
+powerpoint: 15.46%
+scheme: 15.38%
+project management: 15.15%
+workshops: 12.50%
+microsoft word: 11.94%
+computer skills: 11.11%
+html: 10.00%
+pivot table: 10.00%
+vlookup: 9.09%
+dynamic: 7.89%
+facebook: 7.69%
+outlook: 3.70%

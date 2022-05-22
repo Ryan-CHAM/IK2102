@@ -1,0 +1,46 @@
+go: 100.00%
+max: 100.00%
+batch: 100.00%
+msl: 100.00%
+wan: 100.00%
+web design: 100.00%
+agile: 100.00%
+adobe xd: 100.00%
+adobe photoshop: 100.00%
+javascript: 100.00%
+css: 100.00%
+animal studies: 100.00%
+pc literate: 100.00%
+integration: 66.67%
+icon: 50.00%
+plc: 50.00%
+project management professional: 50.00%
+whatsapp: 50.00%
+processing: 50.00%
+ai: 50.00%
+html: 50.00%
+plus: 37.50%
+maintenance: 33.33%
+programming: 33.33%
+safe: 25.00%
+r&d: 25.00%
+microsoft word: 23.53%
+dynamic: 22.22%
+chinese word processing: 21.43%
+microsoft excel: 20.69%
+documentation: 20.00%
+computer skills: 20.00%
+analytical skills: 20.00%
+powerpoint: 18.75%
+make: 18.18%
+microsoft office suite: 16.67%
+analysis: 15.79%
+microsoft office: 15.38%
+word: 15.38%
+basic: 14.29%
+problem solving skills: 13.33%
+bi: 12.50%
+scheme: 11.11%
+c: 10.00%
+pc knowledge: 8.33%
+no: 3.57%

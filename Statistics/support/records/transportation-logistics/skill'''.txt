@@ -1,0 +1,166 @@
+pc: 9
+microsoft office suite: 117
+whatsapp: 22
+cfa: 1
+plus: 39
+analysis: 27
+frm: 1
+no: 28
+microsoft office: 26
+dynamic: 18
+container: 2
+acumen: 9
+chinese word processing: 28
+word: 67
+powerpoint: 45
+analytical skills: 27
+microsoft excel: 169
+clean: 7
+wechat: 6
+wan: 13
+problem solving capabilities: 1
+billing system: 1
+service level agreement: 1
+accounting systems: 2
+problem solving skills: 52
+airlines: 28
+scheme: 16
+vba: 2
+bi: 6
+statistical analysis: 3
+data analytics: 5
+tableau: 2
+project management: 13
+programming: 4
+business intelligence: 1
+sap: 35
+microsoft word: 38
+documentation: 34
+vendor: 12
+aircraft: 20
+computer skills: 43
+supply planning: 6
+amazon: 3
+e-commerce: 11
+data warehouse: 3
+demand planning: 5
+erp: 8
+mobile: 5
+pc knowledge: 18
+c: 23
+words: 5
+presentations: 5
+adobe illustrator: 1
+microsoft powerpoint: 1
+processing: 16
+fun: 11
+bookings: 5
+basic: 33
+sales support: 3
+3pl management: 5
+typing: 9
+maintenance: 16
+pc literate: 2
+pc operations: 2
+import and export: 10
+small: 8
+rust: 2
+inbound and outbound logistics: 4
+hkicpa: 1
+safe: 6
+outlook: 29
+erp systems: 13
+pivot table: 6
+make: 20
+vlookup: 4
+order processing: 11
+shipping document: 3
+oracle erp: 2
+power point: 9
+pl: 4
+lean: 2
+six sigma: 2
+focus: 8
+chinese input: 4
+bank documents: 2
+pos: 5
+dc: 1
+presentation skill: 1
+web: 2
+animate: 1
+information system: 2
+sql: 6
+deployment: 2
+workshops: 2
+oracle: 6
+swift: 1
+databases: 3
+planner: 4
+simple: 3
+html: 4
+aircraft maintenance: 3
+lcc: 1
+rapid: 5
+go: 1
+numerical skills: 1
+luxury industry: 1
+writing skills: 5
+web design: 1
+web development: 1
+java: 1
+agile: 3
+jenkins: 1
+jquery: 1
+code: 2
+ansible: 1
+adobe: 1
+spring: 1
+application server: 1
+pearl: 1
+translation: 1
+nice: 1
+macro: 1
+pc applications: 5
+mcse: 1
+vmware: 1
+active directory: 1
+server administration: 1
+ccna: 1
+firewall: 1
+windows server: 1
+airports: 1
+airworthiness: 1
+airframe: 1
+inform: 2
+focal: 1
+r: 1
+id: 4
+fmcg industry: 7
+vs: 1
+autocad: 1
+hong kong institute of certified public accountants: 1
+sr: 2
+pos system: 4
+ap: 1
+acca: 1
+flex accounting: 1
+hong kong driving licence: 3
+business management: 1
+harbour: 1
+goal: 2
+professional qualifications: 1
+transcript: 1
+facebook: 2
+the hong kong institution of engineers: 1
+accpac: 2
+batch: 1
+word processing: 1
+office software: 1
+jade: 1
+supply chain context: 1
+system design: 1
+computer operation knowledge: 1
+alteryx: 1
+data visualization: 1
+python: 1
+green card: 1

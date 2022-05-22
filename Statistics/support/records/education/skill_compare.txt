@@ -1,0 +1,44 @@
+bim: 200.00%
+goal: 100.00%
+building information modelling: 100.00%
+data analytics: 100.00%
+data management: 100.00%
+video editing: 100.00%
+web design: 100.00%
+code: 60.00%
+integration: 50.00%
+information system: 50.00%
+illustrator: 50.00%
+photoshop: 50.00%
+databases: 50.00%
+facebook: 33.33%
+fun: 33.33%
+ai: 33.33%
+chinese and english word processing: 33.33%
+computer systems: 33.33%
+mobile: 33.33%
+microsoft word: 30.00%
+scheme: 25.00%
+office software: 25.00%
+computer skills: 25.00%
+analytical skills: 25.00%
+maintenance: 25.00%
+microsoft excel: 22.58%
+powerpoint: 21.43%
+writing skills: 20.00%
+basic: 20.00%
+chinese word processing: 20.00%
+processing: 20.00%
+word: 18.18%
+wan: 14.29%
+project management: 14.29%
+microsoft office: 14.29%
+analysis: 13.33%
+problem solving skills: 12.50%
+c: 11.76%
+focus: 11.11%
+small: 10.00%
+microsoft office suite: 9.52%
+make: 9.09%
+plus: 8.93%
+no: 7.69%

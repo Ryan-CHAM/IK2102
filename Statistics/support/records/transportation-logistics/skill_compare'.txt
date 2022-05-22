@@ -1,0 +1,78 @@
+aircraft maintenance: 100.00%
+airworthiness: 100.00%
+airframe: 100.00%
+salesforce: 100.00%
+business management: 75.00%
+sales support: 66.67%
+data analytics: 60.00%
+shipping document: 50.00%
+lean: 50.00%
+bank documents: 50.00%
+presentation skill: 50.00%
+rapid: 50.00%
+code: 50.00%
+inform: 50.00%
+project management: 46.67%
+pc: 40.00%
+demand planning: 40.00%
+3pl management: 40.00%
+writing skills: 40.00%
+erp systems: 38.46%
+maintenance: 37.50%
+bi: 33.33%
+supply planning: 33.33%
+amazon: 33.33%
+data warehouse: 33.33%
+erp: 33.33%
+web: 33.33%
+information system: 33.33%
+workshops: 33.33%
+pc applications: 33.33%
+plus: 27.66%
+programming: 25.00%
+vendor: 25.00%
+c: 25.00%
+pivot table: 25.00%
+focus: 25.00%
+simple: 25.00%
+pos system: 25.00%
+analysis: 23.33%
+whatsapp: 22.22%
+problem solving skills: 22.22%
+powerpoint: 22.00%
+mobile: 20.00%
+pc operations: 20.00%
+vlookup: 20.00%
+pos: 20.00%
+aircraft: 19.05%
+microsoft word: 18.18%
+typing: 18.18%
+import and export: 18.18%
+pc knowledge: 17.39%
+make: 17.39%
+analytical skills: 17.24%
+wechat: 16.67%
+safe: 16.67%
+order processing: 16.67%
+planner: 16.67%
+html: 16.67%
+microsoft excel: 16.33%
+computer skills: 16.00%
+microsoft office suite: 15.62%
+basic: 14.71%
+wan: 14.29%
+sap: 14.29%
+fmcg industry: 14.29%
+clean: 12.50%
+outlook: 12.12%
+power point: 11.11%
+chinese word processing: 10.81%
+word: 10.39%
+microsoft office: 9.68%
+processing: 9.52%
+airlines: 9.38%
+documentation: 7.69%
+e-commerce: 7.69%
+scheme: 5.88%
+no: 5.71%
+dynamic: 5.00%

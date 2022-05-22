@@ -1,0 +1,97 @@
+microsoft office suite: 29
+whatsapp: 41
+dynamic: 5
+rapid: 2
+ease: 1
+first aid certificate: 2
+make: 7
+problem solving skills: 13
+microsoft excel: 21
+no: 17
+chinese word processing: 20
+word: 20
+microsoft word: 7
+plus: 16
+tutor: 1
+basic: 6
+scheme: 7
+small: 3
+hksi: 4
+pc: 2
+analytical skills: 4
+microsoft office: 4
+fun: 4
+maintenance: 5
+facebook: 5
+workshops: 4
+hope: 2
+scratch: 1
+axiom: 1
+six sigma: 1
+lean: 1
+merchandizing: 1
+agile: 1
+first aid: 1
+airlines: 1
+writing skills: 2
+powerpoint: 9
+outlook: 3
+mammography: 1
+general radiology: 1
+dexa: 1
+id: 1
+facilities management: 2
+safe: 1
+computer skills: 11
+focus: 5
+mcse: 2
+nas: 2
+ccnp: 2
+ccna: 2
+server: 3
+seo: 1
+project management: 2
+sem: 1
+web analytics: 1
+wan: 1
+typing: 2
+processing: 2
+erp: 2
+pc knowledge: 2
+presentation skill: 2
+illustrator: 3
+premiere: 2
+photoshop: 7
+r&d: 1
+documentation: 1
+google analytics: 2
+ai: 2
+analysis: 1
+in-design: 1
+wordpress: 1
+final cut pro: 1
+adobe premiere: 1
+planner: 1
+computer operation knowledge: 2
+go: 1
+e-commerce: 1
+pos: 2
+php: 2
+ms sql server: 2
+erp systems: 2
+windows server: 2
+microsoft applications: 1
+animal health: 1
+joy: 2
+acumen: 1
+c: 2
+word processing: 1
+microsoft powerpoint: 1
+adobe illustrator: 2
+fmcg industry: 1
+sla: 1
+presentations: 1
+goal: 1
+r: 1
+words: 1
+flash: 1

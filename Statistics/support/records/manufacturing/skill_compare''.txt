@@ -1,0 +1,50 @@
+pipelines: 100.00%
+id: 100.00%
+fmcg industry: 100.00%
+demand planning: 100.00%
+small: 66.67%
+scheme: 60.00%
+garment industry: 60.00%
+pc applications: 57.14%
+oracle: 50.00%
+bi: 50.00%
+statistical analysis: 50.00%
+vba: 50.00%
+safe: 50.00%
+pc: 40.00%
+vendor: 37.50%
+factor: 33.33%
+microsoft office: 33.33%
+order processing: 33.33%
+programming: 33.33%
+wan: 33.33%
+computer skills: 26.09%
+erp: 25.00%
+typing: 25.00%
+analysis: 22.22%
+processing: 21.43%
+lean: 21.43%
+problem solving skills: 20.24%
+no: 20.00%
+databases: 20.00%
+c: 20.00%
+chinese word processing: 18.42%
+r&d: 18.18%
+project management: 17.14%
+microsoft word: 16.67%
+exchange: 16.67%
+analytical skills: 16.13%
+microsoft office suite: 16.09%
+plus: 15.56%
+maintenance: 14.81%
+documentation: 14.81%
+pc knowledge: 14.29%
+merchandizing: 14.29%
+microsoft applications: 14.29%
+microsoft excel: 12.82%
+powerpoint: 12.73%
+six sigma: 12.50%
+word: 11.11%
+sap: 11.11%
+make: 7.69%
+outlook: 6.67%

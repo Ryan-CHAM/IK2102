@@ -1,0 +1,93 @@
+vpn: 200.00%
+assembly language: 200.00%
+tcp: 200.00%
+container: 150.00%
+data network: 100.00%
+ease: 100.00%
+firewall: 100.00%
+server administration: 100.00%
+r: 100.00%
+web: 100.00%
+max: 100.00%
+microsoft applications: 100.00%
+adobe: 100.00%
+go: 100.00%
+jquery: 100.00%
+git: 100.00%
+restful api: 100.00%
+system implementation: 100.00%
+signal: 66.67%
+network management: 66.67%
+the hong kong institution of engineers: 66.67%
+certificate of registration of electrical worker: 60.00%
+vendor: 50.00%
+submission process: 50.00%
+professional qualifications: 50.00%
+presentations: 50.00%
+pc operations: 50.00%
+erp: 50.00%
+wan: 50.00%
+chinese word processing: 46.67%
+linux: 45.45%
+aws: 44.44%
+hardware: 42.86%
+azure: 40.00%
+plc: 37.50%
+processing: 37.50%
+switch: 33.33%
+ccna: 33.33%
+php: 33.33%
+agile: 33.33%
+ip: 30.77%
+green card: 30.00%
+cctv: 30.00%
+security personnel permit: 25.00%
+router: 25.00%
+ai: 25.00%
+scheme: 23.81%
+revit: 23.53%
+word: 23.08%
+bim: 21.43%
+mobile: 21.05%
+problem solving skills: 20.97%
+whatsapp: 20.00%
+r&d: 20.00%
+small: 20.00%
+microsoft project: 20.00%
+server: 20.00%
+microsoft office suite: 19.72%
+maintenance: 18.67%
+no: 18.18%
+microsoft office: 18.18%
+project management: 16.95%
+autocad: 16.80%
+writing skills: 16.67%
+deployment: 16.67%
+ccnp: 16.67%
+pc: 16.67%
+mhkie: 16.67%
+sketchup: 15.38%
+hvac: 15.38%
+c: 14.29%
+dynamic: 14.29%
+facilities management: 14.29%
+plus: 13.73%
+basic: 13.04%
+hkie: 13.04%
+focus: 12.50%
+dc: 12.50%
+computer skills: 12.50%
+analytical skills: 12.50%
+code: 11.76%
+photoshop: 11.11%
+cad: 10.00%
+microsoft word: 10.00%
+microsoft excel: 9.80%
+workshops: 9.09%
+documentation: 9.09%
+programming: 8.70%
+integration: 7.69%
+solidworks: 7.14%
+system design: 6.25%
+powerpoint: 5.00%
+analysis: 3.23%

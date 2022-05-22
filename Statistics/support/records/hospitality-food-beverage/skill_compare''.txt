@@ -1,0 +1,28 @@
+presentations: 100.00%
+goal: 100.00%
+first aid: 100.00%
+power point: 100.00%
+acumen: 66.67%
+project management: 66.67%
+microsoft word: 57.14%
+go: 50.00%
+chinese & english typing: 50.00%
+dynamic: 37.50%
+analytical skills: 33.33%
+computer skills: 33.33%
+microsoft excel: 31.82%
+chinese word processing: 27.27%
+word: 25.00%
+no: 23.08%
+powerpoint: 22.22%
+microsoft office suite: 21.05%
+server: 20.00%
+scheme: 20.00%
+clean: 20.00%
+fun: 18.18%
+basic: 16.67%
+plus: 13.33%
+make: 11.11%
+problem solving skills: 10.00%
+wan: 9.09%
+whatsapp: 6.25%

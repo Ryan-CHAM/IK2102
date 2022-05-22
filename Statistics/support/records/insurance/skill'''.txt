@@ -1,0 +1,79 @@
+microsoft excel: 64
+chinese word processing: 22
+microsoft office: 3
+nice: 2
+word: 19
+iiqe paper: 10
+problem solving skills: 26
+powerpoint: 34
+microsoft word: 38
+data analytics: 3
+acumen: 4
+whatsapp: 2
+focus: 7
+vba: 1
+plus: 20
+r: 1
+sas: 3
+programming: 1
+pc: 5
+no: 3
+make: 11
+batch: 2
+processing: 13
+microsoft office suite: 32
+illustrator: 3
+photoshop: 3
+pc applications: 4
+analytical skills: 9
+iiqe: 13
+sla: 3
+outlook: 3
+typing: 5
+computer skills: 32
+facebook: 2
+translation: 1
+maintenance: 3
+pc literate: 2
+basic: 2
+data management: 2
+analysis: 3
+sales support: 5
+project management: 5
+web: 4
+scheme: 3
+business management: 1
+words: 2
+power point: 2
+sfc license: 1
+dynamic: 7
+facilities management: 2
+hugo: 1
+presentation skill: 2
+professional qualifications: 8
+documentation: 2
+harbour: 1
+operation support: 1
+cfa: 1
+cpa: 2
+frm: 1
+id: 1
+accounting systems: 1
+hkicpa: 1
+numerical skills: 4
+plc: 3
+planner: 2
+react: 1
+aml: 1
+anti-money laundering: 1
+adobe acrobat: 1
+credit analysis: 1
+financial analysis: 1
+c: 1
+code: 1
+presentations: 1
+investment products: 1
+reason: 1
+workshops: 1
+pmp: 1
+agile: 1

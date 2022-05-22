@@ -1,0 +1,173 @@
+analysis: 80
+chinese word processing: 37
+microsoft office suite: 69
+linux: 9
+programming: 23
+python: 21
+r: 14
+perl: 2
+basic: 44
+problem solving skills: 80
+r&d: 31
+c: 33
+autocad: 11
+no: 40
+typing: 12
+animal science: 4
+maintenance: 47
+animal husbandry: 3
+animal welfare: 3
+translation: 3
+make: 18
+project management: 33
+code: 5
+acumen: 8
+id: 2
+dynamic: 10
+workshops: 4
+illustration: 1
+tcl: 2
+java: 6
+html: 1
+microsoft excel: 94
+plus: 61
+powerpoint: 52
+pc knowledge: 12
+microsoft word: 39
+kee: 1
+system design: 4
+beta: 4
+processing: 27
+scheme: 23
+graphics: 1
+web: 11
+javascript: 2
+c#: 5
+c++: 11
+analytical skills: 27
+matlab: 5
+focus: 26
+word: 52
+animal studies: 7
+animal work: 9
+bash: 2
+ip: 2
+databases: 11
+documentation: 27
+go: 2
+statistical analysis: 5
+verilog: 3
+hkie: 2
+php: 2
+mouse: 7
+animal handling: 6
+safe: 7
+cuda: 2
+ml: 1
+microsoft office: 20
+computer skills: 17
+vhdl: 2
+integration: 5
+hardware: 4
+portable: 2
+photoshop: 2
+labview: 2
+mobile: 3
+server: 4
+react: 2
+devops: 1
+tcp: 1
+sql: 4
+writing skills: 6
+dc: 1
+signal: 3
+small: 4
+animal models: 2
+computer systems: 1
+ai: 5
+educational projects: 1
+illustrator: 2
+video editing: 2
+rhino: 1
+rapid: 9
+solidworks: 2
+mary: 1
+bi: 2
+business management: 4
+pc applications: 8
+fmcg industry: 2
+clean: 2
+presentation skill: 2
+sap: 3
+pc: 6
+facilities management: 1
+tea: 1
+operation support: 1
+professional qualifications: 8
+outlook: 3
+facebook: 1
+simple: 1
+pmp: 1
+words: 3
+exchange: 4
+submission process: 1
+red hat: 1
+deployment: 5
+vmware: 1
+active directory: 1
+sccm: 1
+powershell: 1
+ms sql: 1
+gpo: 1
+whatsapp: 8
+itil: 1
+azure: 1
+security management: 1
+vendor: 3
+aws: 1
+george: 2
+green card: 6
+data analytics: 2
+lims: 1
+numerical skills: 1
+office software: 4
+hksi: 1
+agile: 5
+fortran: 1
+bim: 3
+nice: 4
+sas: 1
+data visualization: 1
+data mining: 1
+stata: 1
+antiviral: 1
+max: 2
+vba: 2
+gap: 4
+technical analysis: 1
+ems: 1
+six sigma: 1
+inform: 1
+spreadsheet: 1
+word processing: 1
+cad: 2
+chinese and english word processing: 2
+batch: 1
+goal: 2
+data management: 7
+fl: 1
+adobe: 1
+adobe photoshop: 1
+charity: 1
+chinese input: 1
+pc operations: 1
+adobe illustrator: 2
+ap: 1
+energy modelling: 1
+local environmental regulations: 1
+bloomberg: 1
+s2: 1
+financial analysis: 2
+presentations: 2
+hong kong driving licence: 1
+pure: 1

@@ -6,7 +6,7 @@ Input:
 Output: Forecasted value corresponding to wanted time stamp
 '''
 
-# TODO: insert time stamps and corresponding values instead of demo data below
+# TODO: insert real time stamps and corresponding values instead of demo data below
 x = [-12, -8, -4, 0]
 y = [6000, 8000, 10000, 3000]
 

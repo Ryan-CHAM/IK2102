@@ -1,0 +1,83 @@
+chill: 200.00%
+word processing: 100.00%
+web conferencing: 100.00%
+pc knowledge: 100.00%
+adobe cc: 100.00%
+sr: 100.00%
+bi: 100.00%
+3dmax: 100.00%
+scheme: 60.00%
+publisher: 50.00%
+planner: 50.00%
+autocad: 50.00%
+words: 50.00%
+io: 50.00%
+outlook: 40.00%
+microsoft powerpoint: 40.00%
+green card: 33.33%
+focus: 33.33%
+power point: 33.33%
+exchange: 33.33%
+premiere pro: 30.43%
+typing: 30.00%
+adobe indesign: 25.00%
+animate: 25.00%
+cg: 25.00%
+ai: 21.05%
+wordpress: 20.00%
+3ds max: 20.00%
+adobe: 19.23%
+basic: 18.75%
+microsoft office suite: 17.86%
+in-design: 16.67%
+programming: 16.67%
+maya: 16.67%
+server: 16.67%
+information system: 16.67%
+adobe premiere pro: 16.67%
+microsoft office: 16.13%
+problem solving skills: 15.87%
+after effects: 15.73%
+project management: 15.38%
+chinese word processing: 14.81%
+powerpoint: 14.29%
+acumen: 14.29%
+data analytics: 14.29%
+no: 13.51%
+microsoft excel: 13.39%
+word: 12.96%
+small: 12.50%
+facebook: 12.33%
+multimedia: 12.00%
+graphics: 12.00%
+css: 11.76%
+analysis: 11.63%
+photoshop: 11.46%
+make: 11.11%
+pc applications: 11.11%
+fun: 11.11%
+illustrator: 10.89%
+final cut pro: 10.71%
+writing skills: 10.34%
+microsoft word: 10.26%
+mobile: 10.00%
+video editing: 10.00%
+adobe creative suite: 10.00%
+plus: 9.82%
+seo: 9.38%
+financial analysis: 9.09%
+analytical skills: 8.33%
+computer skills: 8.33%
+sem: 8.11%
+translation: 8.00%
+adobe photoshop: 7.14%
+processing: 6.67%
+presentations: 6.67%
+e-commerce: 6.45%
+dynamic: 5.71%
+wechat: 5.56%
+html: 5.26%
+premiere: 4.76%
+google analytics: 4.35%
+maintenance: 4.17%
+adobe illustrator: 3.85%

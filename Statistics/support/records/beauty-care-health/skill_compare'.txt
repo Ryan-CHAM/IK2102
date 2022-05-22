@@ -1,0 +1,31 @@
+analysis: 200.00%
+first aid: 100.00%
+acumen: 100.00%
+c: 100.00%
+sla: 100.00%
+presentations: 100.00%
+goal: 100.00%
+r: 100.00%
+dynamic: 80.00%
+workshops: 75.00%
+rapid: 50.00%
+fun: 50.00%
+hope: 50.00%
+facilities management: 50.00%
+typing: 50.00%
+presentation skill: 50.00%
+make: 42.86%
+maintenance: 40.00%
+outlook: 33.33%
+no: 29.41%
+plus: 25.00%
+hksi: 25.00%
+microsoft office: 25.00%
+whatsapp: 24.39%
+word: 20.00%
+focus: 20.00%
+microsoft excel: 14.29%
+scheme: 14.29%
+microsoft office suite: 13.79%
+chinese word processing: 10.00%
+problem solving skills: 7.69%

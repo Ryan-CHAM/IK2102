@@ -1,0 +1,115 @@
+analysis: 22
+basic: 24
+scheme: 10
+documentation: 12
+problem solving skills: 34
+maintenance: 12
+rapid: 1
+bi: 9
+microsoft office suite: 35
+microsoft office: 15
+dynamic: 11
+acumen: 4
+plus: 11
+mouse: 7
+animal handling: 3
+small: 2
+fun: 3
+computer skills: 18
+microsoft excel: 35
+oracle: 1
+chinese word processing: 17
+powerpoint: 19
+erp: 1
+microsoft word: 21
+no: 29
+typing: 1
+pc: 2
+r: 3
+word: 15
+make: 13
+c: 11
+focus: 9
+code: 1
+presentations: 3
+pc knowledge: 13
+icon: 3
+plc: 3
+project management professional: 3
+computer operation knowledge: 3
+hope: 3
+whatsapp: 9
+web: 3
+r language: 1
+programming: 4
+animal work: 3
+statistical analysis: 3
+processing: 3
+hksi: 3
+ai: 3
+integration: 5
+go: 2
+safe: 5
+microsoft applications: 2
+r&d: 5
+cad: 1
+submission process: 1
+business management: 2
+briefings: 1
+animal health: 1
+animal science: 2
+animal husbandry: 2
+animal welfare: 2
+translation: 2
+six sigma: 3
+lean: 3
+chinese & english typing: 1
+project management: 2
+data analytics: 6
+workshops: 1
+presentation skill: 1
+words: 1
+facilities management: 1
+autocad: 3
+pc applications: 2
+lis: 2
+mammography: 5
+max: 2
+analytical skills: 6
+mobile: 3
+batch: 2
+general radiology: 1
+dexa: 1
+system design: 1
+clean: 1
+pilot: 2
+databases: 6
+msl: 2
+sr: 1
+alice: 1
+professional qualifications: 1
+facebook: 1
+seo: 1
+multimedia: 1
+sem: 1
+fmcg industry: 1
+pmp: 2
+wan: 2
+stata: 1
+html: 3
+sas: 1
+web design: 2
+agile: 2
+adobe xd: 2
+adobe photoshop: 2
+javascript: 2
+css: 2
+goal: 1
+data mining: 1
+data management: 1
+writing skills: 1
+ms windows: 1
+animal studies: 2
+pc literate: 2
+george: 1
+it knowledge: 1

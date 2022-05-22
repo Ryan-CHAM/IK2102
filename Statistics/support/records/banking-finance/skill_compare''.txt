@@ -1,0 +1,133 @@
+information system: 100.00%
+sfc rules: 100.00%
+data warehouse: 100.00%
+mathematics: 100.00%
+aws: 100.00%
+statistical analysis: 100.00%
+sehk: 100.00%
+know your customer: 100.00%
+data mining: 100.00%
+r: 83.33%
+cft: 80.00%
+frr: 75.00%
+crypto: 75.00%
+mobile: 66.67%
+hkma regulatory reporting: 66.67%
+tableau: 66.67%
+microsoft applications: 66.67%
+data analytics: 62.50%
+ms windows: 50.00%
+vlookup: 50.00%
+customer due diligence: 50.00%
+ms sql: 50.00%
+words: 50.00%
+c#: 50.00%
+ap: 50.00%
+airlines: 50.00%
+id: 50.00%
+numerical skills: 50.00%
+simple: 50.00%
+typewriting: 50.00%
+ml: 50.00%
+translation: 50.00%
+business intelligence: 50.00%
+accounting systems: 42.86%
+bi: 40.00%
+whatsapp: 40.00%
+rapid: 37.50%
+code: 37.50%
+internal control: 37.50%
+anti-money laundering: 37.50%
+python: 36.00%
+hkma: 34.62%
+crs: 33.33%
+fatca: 33.33%
+exchange: 33.33%
+presentations: 33.33%
+cdd: 33.33%
+pc literate: 33.33%
+ai: 33.33%
+erp systems: 33.33%
+make: 32.26%
+hkicpa: 31.58%
+kyc: 31.03%
+sas: 29.41%
+microsoft office: 27.59%
+microsoft word: 27.27%
+pc knowledge: 26.67%
+analytical skills: 26.32%
+computer skills: 26.23%
+powerpoint: 25.51%
+financial analysis: 25.00%
+dynamic: 25.00%
+aml: 25.00%
+agile: 25.00%
+cpa: 25.00%
+mad: 25.00%
+power point: 25.00%
+ccass: 25.00%
+goal: 25.00%
+six sigma: 25.00%
+data management: 25.00%
+private equity: 25.00%
+vendor: 25.00%
+wechat: 25.00%
+crypto currency: 25.00%
+programming: 24.14%
+swift: 23.81%
+pe: 23.53%
+acca: 23.53%
+plus: 23.48%
+sfo: 22.73%
+securities and futures ordinance: 22.22%
+blockchain: 22.22%
+project management: 21.67%
+word: 21.65%
+problem solving skills: 21.24%
+no: 21.21%
+microsoft excel: 20.88%
+bloomberg: 20.41%
+system implementation: 20.00%
+small: 20.00%
+vc: 20.00%
+linux: 20.00%
+aamlp: 20.00%
+chinese word processing: 19.74%
+analysis: 19.23%
+account opening: 18.75%
+go: 18.75%
+frm: 18.52%
+sql: 18.52%
+processing: 18.18%
+reason: 18.18%
+c: 17.86%
+pc applications: 16.67%
+basic: 16.67%
+typing: 16.67%
+documentation: 16.33%
+focus: 16.00%
+iiqe: 16.00%
+cfa: 15.71%
+acumen: 15.38%
+sales support: 14.29%
+microsoft office suite: 14.00%
+business management: 13.33%
+outlook: 12.50%
+maintenance: 12.50%
+credit analysis: 12.50%
+joy: 12.50%
+java: 12.50%
+inform: 12.50%
+vba: 12.24%
+professional qualifications: 12.12%
+writing skills: 12.00%
+web: 11.11%
+hksi paper: 11.11%
+fun: 10.00%
+microsoft powerpoint: 10.00%
+iiqe paper: 10.00%
+hksi: 8.70%
+investment products: 8.00%
+sfc license: 6.67%
+macro: 6.25%
+pc: 5.00%

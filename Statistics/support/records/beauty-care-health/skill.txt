@@ -1,0 +1,103 @@
+whatsapp: 53
+typing: 4
+microsoft office suite: 38
+word: 27
+microsoft excel: 28
+problem solving skills: 16
+computer skills: 12
+chinese word processing: 25
+clean: 1
+maintenance: 7
+merchandizing: 1
+agile: 1
+mcse: 2
+nas: 2
+ccnp: 2
+ccna: 2
+server: 3
+plus: 22
+fun: 7
+airlines: 2
+dynamic: 10
+make: 11
+facebook: 6
+joy: 2
+microsoft word: 8
+pos: 2
+php: 2
+ms sql server: 2
+erp systems: 2
+windows server: 2
+photoshop: 8
+powerpoint: 11
+hope: 4
+no: 25
+workshops: 7
+presentation skill: 3
+acumen: 2
+scheme: 10
+r&d: 1
+documentation: 1
+project management: 4
+hksi: 6
+c: 5
+small: 3
+go: 1
+presentations: 2
+goal: 2
+rapid: 3
+r: 2
+focus: 6
+outlook: 4
+microsoft office: 6
+seo: 2
+sem: 2
+web analytics: 2
+adobe: 1
+google analytics: 3
+illustrator: 3
+premiere: 2
+final cut pro: 1
+adobe premiere: 1
+erp: 2
+analytical skills: 5
+pc knowledge: 2
+word processing: 1
+microsoft powerpoint: 1
+facilities management: 3
+writing skills: 2
+id: 1
+safe: 1
+basic: 8
+tutor: 1
+words: 1
+planner: 1
+sizable companies: 1
+first aid: 2
+autocad: 1
+ai: 2
+analysis: 3
+in-design: 1
+wordpress: 1
+ease: 1
+first aid certificate: 2
+pc: 3
+wan: 2
+adobe illustrator: 2
+flash: 1
+scratch: 1
+axiom: 1
+web: 1
+processing: 3
+sla: 2
+computer operation knowledge: 2
+animal health: 1
+microsoft applications: 1
+mammography: 1
+general radiology: 1
+dexa: 1
+fmcg industry: 1
+pos system: 1
+six sigma: 1
+lean: 1
+e-commerce: 1

@@ -1,0 +1,293 @@
+macro: 19
+cfa: 96
+financial analysis: 42
+frm: 40
+microsoft office suite: 193
+account opening: 22
+litigation process: 2
+plus: 169
+focus: 33
+investment products: 36
+make: 46
+credit processing: 2
+microsoft excel: 377
+chinese word processing: 101
+ms windows: 3
+outlook: 9
+pc knowledge: 20
+processing: 49
+crs: 4
+hkma: 39
+fatca: 4
+swift: 29
+dynamic: 58
+documentation: 68
+word: 134
+powerpoint: 137
+bloomberg: 64
+analysis: 140
+exchange: 18
+presentations: 20
+pc applications: 21
+aml: 62
+acams: 6
+computer skills: 85
+microsoft word: 146
+pc: 22
+reason: 63
+vba: 68
+pe: 22
+accounting systems: 13
+problem solving skills: 164
+basic: 50
+bi: 8
+oracle erp: 1
+management reports: 7
+pilot: 1
+alteryx: 1
+chinese input: 1
+analytical skills: 138
+business management: 19
+hong kong employment ordinance: 2
+agile: 45
+cpa: 85
+acca: 26
+information system: 8
+sales support: 10
+hksi: 63
+bookings: 2
+tie: 1
+maintenance: 21
+kyc: 47
+credit analysis: 49
+project management: 91
+technical analysis: 1
+rapid: 13
+system implementation: 8
+typing: 8
+securities and futures ordinance: 23
+professional qualifications: 43
+securities laws: 3
+qfii: 2
+qdii: 1
+rqfii: 2
+vlookup: 7
+mobile: 5
+sas: 32
+sql: 43
+programming: 44
+iiqe: 35
+ra type: 3
+o365: 2
+no: 43
+mac os: 4
+ease: 2
+hardware: 2
+facilities management: 2
+mobile device: 2
+scheme: 23
+accounting softwares: 6
+lcc: 3
+myob: 3
+loan products: 8
+sfc license: 19
+sfo: 30
+code: 24
+dcass: 5
+joy: 10
+fun: 11
+go: 19
+mad: 10
+hkma regulatory reporting: 7
+blockchain: 11
+java: 11
+c++: 8
+python: 41
+acumen: 38
+customer due diligence: 6
+cdd: 21
+microsoft office: 40
+microsoft powerpoint: 12
+word processing: 5
+power point: 12
+writing skills: 32
+pc literate: 4
+credit analytical skills: 2
+autocad: 1
+pivot table: 4
+web: 12
+ms sql: 3
+deployment: 2
+databases: 9
+web services: 1
+oracle: 8
+small: 6
+safe: 3
+anti-bribery: 1
+presentation skill: 6
+spreadsheet: 3
+financial analytical skills: 3
+sfc rules: 5
+ccass: 19
+analytics tools: 1
+inform: 10
+words: 3
+goal: 7
+vc: 6
+hkicpa: 29
+six sigma: 5
+data analytics: 14
+data warehouse: 2
+sbl: 1
+linux: 7
+nice: 4
+mathematics: 6
+unix shell: 1
+problem solving capabilities: 2
+whatsapp: 7
+informix: 1
+jenkins: 1
+hibernate: 1
+aws: 2
+c: 36
+spring: 2
+perl: 1
+cft: 12
+clean: 1
+office software: 2
+iiqe paper: 12
+r: 12
+c#: 6
+ap: 3
+e-commerce: 8
+airlines: 6
+statistical analysis: 2
+marketing skills: 7
+visual basic: 2
+logical skills: 1
+internal control: 13
+planner: 3
+data management: 11
+server: 1
+data manipulation: 1
+acrobat: 2
+hksi paper: 10
+quickbooks: 2
+venture capital: 4
+private equity: 28
+frr: 7
+harbour: 3
+workshops: 3
+sap: 5
+vendor: 7
+lua: 1
+wechat: 6
+php: 2
+id: 4
+anti-money laundering: 12
+pl: 4
+numerical skills: 3
+ada: 1
+order processing: 1
+ai: 4
+aml screening: 4
+hy: 2
+tableau: 5
+rpa: 2
+data visualization: 5
+sehk: 4
+pearl: 1
+erp systems: 5
+flash: 1
+import and export: 2
+banking laws: 2
+facebook: 3
+hksfc: 3
+sla: 1
+crypto: 8
+crypto currency: 5
+simple: 3
+r&d: 2
+typewriting: 5
+incoming and outgoing swift payments: 2
+companies ordinance: 1
+lean: 1
+voice of the customer: 1
+max: 1
+aamlp: 6
+marco: 2
+ml: 3
+microsoft applications: 5
+dc: 1
+pipelines: 1
+sr: 2
+react: 1
+hope: 1
+charity: 1
+batch: 1
+itil: 1
+sdlc: 2
+html: 5
+adobe photoshop: 1
+illustrator: 2
+premiere pro: 2
+web technologies: 1
+gm: 1
+factor: 1
+ch: 3
+translation: 3
+focal: 1
+cl: 1
+ifrs: 5
+business intelligence: 3
+chartered financial analyst: 1
+gap: 1
+pmp: 2
+setup system: 1
+scratch: 1
+banking practice: 5
+know your customer: 2
+flex accounting: 1
+sizable companies: 1
+cics: 1
+jcl: 1
+cobol: 1
+data mining: 6
+ar: 2
+adobe xd: 1
+in-design: 1
+after effects: 1
+multimedia: 1
+adobe creative suite: 1
+photoshop: 1
+xero: 2
+billing system: 1
+matlab: 1
+typescript: 1
+react native: 1
+javascript: 5
+kotlin: 1
+integration: 4
+salesforce: 1
+apex: 1
+association of chartered certified accountants: 1
+operation support: 1
+financial risk manager: 2
+erp: 1
+pc operations: 2
+devops: 2
+switch: 1
+sfc authorized funds regulations: 1
+euclid: 1
+frm qualification: 1
+compass: 1
+oracle system: 1
+rics: 1
+hkis: 1
+google analytics: 1
+seo: 1
+wordpress: 1
+web analytics: 1
+css: 1
+adobe illustrator: 1
+prc accounting: 1

@@ -1,0 +1,27 @@
+dynamic: 200.00%
+photoshop: 100.00%
+facilities management: 100.00%
+mathematics: 100.00%
+multimedia: 50.00%
+facebook: 50.00%
+outlook: 50.00%
+microsoft office: 40.00%
+web: 33.33%
+analytical skills: 33.33%
+maintenance: 33.33%
+code: 25.00%
+small: 25.00%
+microsoft office suite: 23.53%
+word: 22.22%
+plus: 21.74%
+c: 21.43%
+microsoft excel: 14.81%
+problem solving skills: 14.29%
+no: 13.04%
+focus: 12.50%
+chinese word processing: 11.11%
+id: 11.11%
+make: 10.00%
+powerpoint: 7.69%
+analysis: 7.14%
+basic: 5.26%

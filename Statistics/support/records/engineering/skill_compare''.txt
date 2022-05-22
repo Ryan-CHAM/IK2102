@@ -1,0 +1,75 @@
+itil: 200.00%
+hkis: 200.00%
+rapid: 150.00%
+matlab: 150.00%
+presentation skill: 100.00%
+portable: 100.00%
+labview: 100.00%
+auto cad 2015: 100.00%
+web applications: 100.00%
+javascript: 100.00%
+building information modelling: 100.00%
+pc operations: 100.00%
+wan: 100.00%
+python: 85.71%
+dynamic: 75.00%
+sql: 75.00%
+rhino: 66.67%
+processing: 60.00%
+analysis: 55.00%
+chinese word processing: 50.00%
+signal: 50.00%
+ccna: 50.00%
+pc: 50.00%
+mhkie: 50.00%
+java: 50.00%
+php: 50.00%
+safe: 50.00%
+ip: 44.44%
+programming: 43.75%
+code: 41.67%
+facilities management: 40.00%
+c#: 40.00%
+c++: 37.50%
+documentation: 37.50%
+whatsapp: 36.36%
+analytical skills: 33.33%
+six sigma: 33.33%
+ai: 33.33%
+scheme: 31.25%
+sketchup: 30.00%
+photoshop: 28.57%
+make: 28.57%
+basic: 27.78%
+bim: 27.27%
+project management: 25.53%
+green card: 25.00%
+microsoft project: 25.00%
+powerpoint: 25.00%
+plus: 24.39%
+computer skills: 23.08%
+maintenance: 22.95%
+microsoft office suite: 22.41%
+no: 22.22%
+revit: 21.43%
+autocad: 21.36%
+writing skills: 20.00%
+deployment: 20.00%
+mobile: 18.75%
+solidworks: 16.67%
+lean: 16.67%
+cad: 15.38%
+problem solving skills: 14.81%
+dc: 14.29%
+plc: 14.29%
+microsoft excel: 13.33%
+aws: 12.50%
+r&d: 11.11%
+microsoft word: 11.11%
+c: 10.53%
+workshops: 10.00%
+linux: 10.00%
+hkie: 9.52%
+word: 8.33%
+integration: 8.33%
+system design: 6.67%

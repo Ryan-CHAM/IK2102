@@ -1,0 +1,38 @@
+programming: 100.00%
+facebook: 100.00%
+pc literate: 100.00%
+basic: 100.00%
+analysis: 100.00%
+hugo: 100.00%
+operation support: 100.00%
+react: 100.00%
+aml: 100.00%
+c: 100.00%
+investment products: 100.00%
+analytical skills: 77.78%
+make: 54.55%
+acumen: 50.00%
+data management: 50.00%
+documentation: 50.00%
+cpa: 50.00%
+project management: 40.00%
+iiqe: 38.46%
+no: 33.33%
+outlook: 33.33%
+maintenance: 33.33%
+iiqe paper: 30.00%
+microsoft office suite: 28.12%
+microsoft word: 26.32%
+pc applications: 25.00%
+web: 25.00%
+powerpoint: 23.53%
+problem solving skills: 23.08%
+chinese word processing: 22.73%
+microsoft excel: 17.19%
+word: 15.79%
+processing: 15.38%
+focus: 14.29%
+dynamic: 14.29%
+computer skills: 12.50%
+professional qualifications: 12.50%
+plus: 5.00%

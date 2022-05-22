@@ -1,0 +1,90 @@
+reason: 100.00%
+web chat: 100.00%
+hkis: 100.00%
+rics: 100.00%
+struts: 100.00%
+ajax: 100.00%
+oracle: 100.00%
+system implementation: 100.00%
+flex: 100.00%
+tableau: 100.00%
+clips: 100.00%
+small: 66.67%
+ai: 60.00%
+factor: 50.00%
+deployment: 50.00%
+service level agreement: 50.00%
+spring: 50.00%
+garment industry: 50.00%
+go: 41.67%
+words: 40.00%
+writing skills: 33.33%
+integration: 33.33%
+ms windows: 33.33%
+sfc license: 33.33%
+loan products: 33.33%
+sales support: 30.00%
+salesforce: 30.00%
+wan: 28.57%
+project management: 26.19%
+pc operations: 25.00%
+goal: 25.00%
+iiqe: 25.00%
+investment products: 25.00%
+data analytics: 25.00%
+workshops: 25.00%
+video editing: 25.00%
+erp: 25.00%
+microsoft powerpoint: 25.00%
+aircraft: 25.00%
+java: 25.00%
+pc: 22.22%
+presentation skill: 22.22%
+erp systems: 22.22%
+pc applications: 21.43%
+power point: 20.00%
+simple: 20.00%
+no: 19.51%
+mobile: 19.05%
+maintenance: 18.75%
+facebook: 18.75%
+documentation: 18.18%
+problem solving skills: 18.10%
+acumen: 17.07%
+safe: 16.67%
+make: 16.67%
+vendor: 16.67%
+wechat: 16.67%
+iiqe paper: 16.67%
+microsoft excel: 16.28%
+dynamic: 15.69%
+presentations: 15.38%
+word: 15.00%
+plus: 14.91%
+analysis: 14.29%
+word processing: 14.29%
+photoshop: 14.29%
+powerpoint: 14.06%
+outlook: 12.90%
+microsoft office: 12.73%
+computer skills: 12.68%
+microsoft office suite: 12.43%
+basic: 11.76%
+scheme: 11.76%
+microsoft word: 10.99%
+sap: 10.53%
+analytical skills: 10.00%
+business management: 10.00%
+airlines: 10.00%
+chinese word processing: 9.71%
+pivot table: 9.09%
+vlookup: 8.33%
+focus: 8.33%
+order processing: 8.33%
+e-commerce: 7.69%
+html: 7.69%
+typing: 5.88%
+fun: 5.88%
+processing: 3.85%
+pc knowledge: 3.85%
+whatsapp: 2.27%

@@ -1,0 +1,279 @@
+macro: 17
+cfa: 81
+financial analysis: 40
+frm: 32
+microsoft office suite: 171
+account opening: 19
+litigation process: 2
+plus: 142
+focus: 29
+investment products: 27
+make: 41
+credit processing: 2
+microsoft excel: 330
+chinese word processing: 91
+ms windows: 3
+outlook: 9
+pc knowledge: 19
+processing: 39
+crs: 4
+hkma: 35
+fatca: 4
+swift: 26
+dynamic: 50
+documentation: 57
+word: 118
+powerpoint: 123
+bloomberg: 59
+analysis: 124
+exchange: 16
+presentations: 20
+pc applications: 14
+aml: 50
+acams: 4
+computer skills: 77
+microsoft word: 126
+pc: 21
+reason: 52
+vba: 55
+pe: 21
+accounting systems: 10
+problem solving skills: 137
+basic: 42
+bi: 7
+oracle erp: 1
+management reports: 6
+pilot: 1
+alteryx: 1
+chinese input: 1
+analytical skills: 120
+business management: 17
+hong kong employment ordinance: 2
+agile: 40
+cpa: 70
+acca: 21
+information system: 6
+sales support: 8
+hksi: 50
+bookings: 2
+tie: 1
+maintenance: 18
+kyc: 38
+credit analysis: 45
+project management: 73
+technical analysis: 1
+rapid: 11
+system implementation: 6
+typing: 7
+securities and futures ordinance: 22
+professional qualifications: 37
+securities laws: 3
+qfii: 2
+qdii: 1
+rqfii: 2
+vlookup: 6
+mobile: 5
+sas: 22
+sql: 32
+programming: 36
+iiqe: 29
+ra type: 1
+o365: 2
+no: 40
+mac os: 3
+ease: 2
+hardware: 2
+facilities management: 2
+mobile device: 2
+scheme: 18
+accounting softwares: 4
+lcc: 3
+myob: 3
+loan products: 8
+sfc license: 16
+sfo: 27
+code: 22
+dcass: 5
+joy: 9
+fun: 11
+go: 19
+mad: 10
+hkma regulatory reporting: 5
+blockchain: 11
+java: 9
+c++: 6
+python: 34
+acumen: 30
+customer due diligence: 6
+cdd: 16
+microsoft office: 37
+microsoft powerpoint: 11
+word processing: 5
+power point: 10
+writing skills: 28
+pc literate: 4
+credit analytical skills: 2
+autocad: 1
+pivot table: 3
+web: 10
+ms sql: 3
+deployment: 2
+databases: 9
+web services: 1
+oracle: 7
+small: 6
+safe: 3
+anti-bribery: 1
+presentation skill: 6
+spreadsheet: 3
+financial analytical skills: 2
+sfc rules: 4
+ccass: 15
+analytics tools: 1
+inform: 9
+words: 3
+goal: 5
+vc: 6
+hkicpa: 25
+six sigma: 5
+data analytics: 13
+data warehouse: 2
+sbl: 1
+linux: 6
+nice: 3
+mathematics: 4
+unix shell: 1
+problem solving capabilities: 2
+whatsapp: 7
+informix: 1
+jenkins: 1
+hibernate: 1
+aws: 2
+c: 33
+spring: 2
+perl: 1
+cft: 9
+clean: 1
+office software: 2
+iiqe paper: 11
+r: 11
+c#: 6
+ap: 3
+e-commerce: 7
+airlines: 6
+statistical analysis: 2
+marketing skills: 7
+visual basic: 2
+logical skills: 1
+internal control: 11
+planner: 3
+data management: 10
+server: 1
+data manipulation: 1
+acrobat: 1
+hksi paper: 10
+quickbooks: 2
+venture capital: 4
+private equity: 25
+frr: 7
+harbour: 3
+workshops: 3
+sap: 5
+vendor: 5
+lua: 1
+wechat: 5
+php: 2
+id: 3
+anti-money laundering: 11
+pl: 2
+numerical skills: 3
+ada: 1
+order processing: 1
+ai: 4
+aml screening: 3
+hy: 2
+tableau: 5
+rpa: 2
+data visualization: 5
+sehk: 4
+pearl: 1
+erp systems: 4
+flash: 1
+import and export: 2
+banking laws: 2
+facebook: 3
+hksfc: 3
+sla: 1
+crypto: 7
+crypto currency: 5
+simple: 3
+r&d: 2
+typewriting: 3
+incoming and outgoing swift payments: 1
+companies ordinance: 1
+lean: 1
+voice of the customer: 1
+max: 1
+aamlp: 6
+marco: 2
+ml: 3
+microsoft applications: 5
+dc: 1
+pipelines: 1
+sr: 1
+react: 1
+hope: 1
+charity: 1
+batch: 1
+itil: 1
+sdlc: 2
+html: 4
+adobe photoshop: 1
+illustrator: 2
+premiere pro: 2
+web technologies: 1
+gm: 1
+factor: 1
+ch: 3
+translation: 3
+focal: 1
+cl: 1
+ifrs: 3
+business intelligence: 3
+chartered financial analyst: 1
+gap: 1
+pmp: 1
+setup system: 1
+scratch: 1
+banking practice: 2
+know your customer: 2
+flex accounting: 1
+sizable companies: 1
+cics: 1
+jcl: 1
+cobol: 1
+data mining: 4
+ar: 2
+adobe xd: 1
+in-design: 1
+after effects: 1
+multimedia: 1
+adobe creative suite: 1
+photoshop: 1
+xero: 1
+billing system: 1
+matlab: 1
+typescript: 1
+react native: 1
+javascript: 3
+kotlin: 1
+integration: 2
+salesforce: 1
+apex: 1
+association of chartered certified accountants: 1
+operation support: 1
+financial risk manager: 2
+erp: 1
+pc operations: 1
+devops: 1
+switch: 1

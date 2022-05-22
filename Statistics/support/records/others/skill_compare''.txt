@@ -1,0 +1,40 @@
+pc: 200.00%
+cctv: 150.00%
+words: 100.00%
+e-commerce: 100.00%
+acumen: 100.00%
+salesforce: 100.00%
+airlines: 100.00%
+marketing skills: 100.00%
+erp systems: 66.67%
+project management: 54.55%
+writing skills: 50.00%
+import and export: 50.00%
+scheme: 50.00%
+professional qualifications: 50.00%
+exchange: 50.00%
+sap: 40.00%
+powerpoint: 37.50%
+analysis: 33.33%
+pc knowledge: 33.33%
+mobile: 33.33%
+bi: 33.33%
+outlook: 30.77%
+security personnel permit: 30.00%
+basic: 25.00%
+microsoft office suite: 25.00%
+microsoft excel: 20.00%
+focus: 20.00%
+microsoft word: 17.39%
+dynamic: 16.67%
+typing: 16.67%
+plus: 15.00%
+problem solving skills: 14.29%
+chinese word processing: 14.29%
+word: 11.11%
+computer skills: 10.53%
+analytical skills: 10.00%
+maintenance: 7.14%
+microsoft office: 7.14%
+c: 5.00%
+no: 4.76%

@@ -1,0 +1,68 @@
+ms windows: 100.00%
+swift: 100.00%
+data management: 100.00%
+microsoft applications: 100.00%
+ap: 100.00%
+data visualization: 50.00%
+alteryx: 50.00%
+pc literate: 50.00%
+microsoft powerpoint: 50.00%
+go: 40.00%
+vba: 33.33%
+code: 33.33%
+mobile: 33.33%
+lean: 33.33%
+databases: 33.33%
+inform: 33.33%
+pl: 25.00%
+chinese input: 25.00%
+workshops: 25.00%
+supply planning: 25.00%
+inbound and outbound logistics: 25.00%
+project management: 22.73%
+processing: 21.74%
+words: 20.00%
+airlines: 17.14%
+plus: 16.67%
+pc operations: 16.67%
+erp systems: 16.67%
+analysis: 16.22%
+typing: 15.38%
+make: 14.81%
+analytical skills: 14.71%
+chinese word processing: 14.63%
+writing skills: 14.29%
+presentations: 14.29%
+planner: 14.29%
+wechat: 14.29%
+e-commerce: 14.29%
+safe: 14.29%
+order processing: 14.29%
+business management: 14.29%
+microsoft word: 13.46%
+vendor: 13.33%
+microsoft excel: 13.16%
+powerpoint: 13.11%
+bi: 12.50%
+whatsapp: 12.12%
+aircraft: 12.00%
+microsoft office: 11.76%
+word: 11.76%
+no: 10.81%
+sap: 10.42%
+problem solving skills: 10.39%
+microsoft office suite: 10.14%
+pivot table: 10.00%
+power point: 10.00%
+fun: 9.09%
+basic: 7.69%
+pc: 7.14%
+c: 6.67%
+wan: 6.25%
+scheme: 5.56%
+computer skills: 5.17%
+dynamic: 4.76%
+documentation: 4.76%
+maintenance: 4.55%
+pc knowledge: 3.70%
+outlook: 2.70%

@@ -1,0 +1,28 @@
+adobe: 200.00%
+e-commerce: 100.00%
+basic: 80.00%
+photoshop: 75.00%
+maintenance: 66.67%
+business management: 50.00%
+workshops: 50.00%
+typing: 50.00%
+ai: 50.00%
+simple: 50.00%
+project management: 42.86%
+pc knowledge: 33.33%
+plus: 25.00%
+scheme: 25.00%
+computer skills: 20.00%
+small: 20.00%
+processing: 20.00%
+microsoft office suite: 14.29%
+whatsapp: 12.50%
+no: 12.50%
+word: 12.50%
+microsoft office: 12.50%
+microsoft excel: 11.11%
+analysis: 11.11%
+chinese word processing: 8.70%
+powerpoint: 6.25%
+problem solving skills: 5.88%
+microsoft word: 5.88%

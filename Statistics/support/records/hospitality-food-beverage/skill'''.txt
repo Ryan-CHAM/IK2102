@@ -1,0 +1,85 @@
+whatsapp: 16
+microsoft excel: 22
+word: 8
+powerpoint: 9
+problem solving skills: 10
+microsoft office suite: 19
+server: 5
+dynamic: 8
+first aid certificate: 3
+chinese word processing: 11
+word processing: 3
+wan: 11
+go: 2
+sizable companies: 1
+outlook: 2
+chinese & english typing: 2
+plus: 15
+scheme: 5
+fun: 11
+wechat: 1
+make: 9
+pc: 1
+facebook: 2
+analytical skills: 3
+acumen: 3
+blockchain: 1
+no: 13
+crypto: 2
+web application development: 1
+react: 1
+analysis: 2
+aws: 1
+focus: 3
+microsoft office: 6
+fortress: 2
+microsoft word: 7
+maintenance: 7
+bookings: 2
+reason: 1
+project management: 3
+presentation skill: 1
+processing: 6
+microsoft powerpoint: 2
+computer skills: 6
+airlines: 4
+basic: 6
+clean: 5
+illustrator: 2
+workshops: 1
+red: 1
+photoshop: 1
+security personnel permit: 1
+security management: 1
+presentations: 1
+java: 1
+seo: 1
+web: 1
+adobe photoshop: 1
+mobile: 1
+wordpress: 1
+flash: 1
+dreamweaver: 1
+css: 1
+id: 2
+deployment: 2
+vocational certificate: 3
+compass: 1
+facilities management: 3
+pos: 1
+safe: 2
+kee: 1
+pc literate: 1
+goal: 1
+pc operations: 1
+accounting softwares: 1
+quickbooks: 1
+xero: 1
+e-commerce: 1
+first aid: 1
+vendor: 1
+linux: 1
+pizza: 1
+power point: 1
+documentation: 1
+web technologies: 1

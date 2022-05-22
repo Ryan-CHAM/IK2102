@@ -1,0 +1,121 @@
+ra type: 200.00%
+banking practice: 150.00%
+acrobat: 100.00%
+pl: 100.00%
+incoming and outgoing swift payments: 100.00%
+sr: 100.00%
+pmp: 100.00%
+xero: 100.00%
+integration: 100.00%
+pc operations: 100.00%
+devops: 100.00%
+typewriting: 66.67%
+ifrs: 66.67%
+javascript: 66.67%
+pc applications: 50.00%
+acams: 50.00%
+accounting softwares: 50.00%
+financial analytical skills: 50.00%
+mathematics: 50.00%
+data mining: 50.00%
+sas: 45.45%
+hkma regulatory reporting: 40.00%
+goal: 40.00%
+vendor: 40.00%
+sql: 34.38%
+investment products: 33.33%
+information system: 33.33%
+system implementation: 33.33%
+mac os: 33.33%
+c++: 33.33%
+pivot table: 33.33%
+nice: 33.33%
+cft: 33.33%
+id: 33.33%
+aml screening: 33.33%
+cdd: 31.25%
+accounting systems: 30.00%
+scheme: 27.78%
+acumen: 26.67%
+ccass: 26.67%
+hksi: 26.00%
+processing: 25.64%
+frm: 25.00%
+sales support: 25.00%
+sfc rules: 25.00%
+erp systems: 25.00%
+html: 25.00%
+project management: 24.66%
+aml: 24.00%
+acca: 23.81%
+kyc: 23.68%
+vba: 23.64%
+programming: 22.22%
+java: 22.22%
+cpa: 21.43%
+reason: 21.15%
+iiqe: 20.69%
+python: 20.59%
+power point: 20.00%
+web: 20.00%
+wechat: 20.00%
+problem solving skills: 19.71%
+documentation: 19.30%
+basic: 19.05%
+plus: 19.01%
+sfc license: 18.75%
+cfa: 18.52%
+rapid: 18.18%
+internal control: 18.18%
+management reports: 16.67%
+maintenance: 16.67%
+vlookup: 16.67%
+linux: 16.67%
+professional qualifications: 16.22%
+dynamic: 16.00%
+hkicpa: 16.00%
+microsoft word: 15.87%
+account opening: 15.79%
+analytical skills: 15.00%
+bi: 14.29%
+typing: 14.29%
+writing skills: 14.29%
+oracle: 14.29%
+e-commerce: 14.29%
+crypto: 14.29%
+microsoft excel: 14.24%
+focus: 13.79%
+word: 13.56%
+analysis: 12.90%
+microsoft office suite: 12.87%
+exchange: 12.50%
+agile: 12.50%
+make: 12.20%
+private equity: 12.00%
+macro: 11.76%
+business management: 11.76%
+swift: 11.54%
+hkma: 11.43%
+powerpoint: 11.38%
+sfo: 11.11%
+joy: 11.11%
+inform: 11.11%
+chinese word processing: 10.99%
+computer skills: 10.39%
+data management: 10.00%
+code: 9.09%
+microsoft powerpoint: 9.09%
+c: 9.09%
+iiqe paper: 9.09%
+r: 9.09%
+anti-money laundering: 9.09%
+credit analysis: 8.89%
+bloomberg: 8.47%
+microsoft office: 8.11%
+data analytics: 7.69%
+no: 7.50%
+pc knowledge: 5.26%
+financial analysis: 5.00%
+pc: 4.76%
+pe: 4.76%
+securities and futures ordinance: 4.55%

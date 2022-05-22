@@ -1,0 +1,212 @@
+video editing: 42
+no: 27
+photoshop: 352
+adobe illustrator: 55
+plus: 87
+autocad: 129
+3ds max: 21
+r&d: 5
+3d software: 21
+basic: 34
+ai: 41
+mac environment: 10
+visual merchandising: 24
+multimedia: 94
+animation and video editing: 5
+illustration: 24
+project management: 33
+management reports: 1
+goal: 3
+facilities management: 1
+deployment: 2
+microsoft office suite: 38
+graphics: 53
+illustrator: 247
+premiere: 38
+after effects: 81
+visual design: 19
+rhino: 11
+final cut pro: 11
+html: 45
+adobe premiere pro: 2
+javascript: 20
+programming: 9
+max: 30
+adobe creative suite: 58
+web design: 36
+mobile: 39
+facebook: 26
+problem solving skills: 36
+flash: 16
+dreamweaver: 25
+css: 49
+presentations: 22
+adobe: 46
+whatsapp: 6
+in-design: 110
+premiere pro: 17
+adobe photoshop: 47
+typing: 2
+pc: 21
+presentation skill: 13
+c4d: 2
+adobe cs: 5
+web: 61
+analysis: 18
+dynamic: 20
+dog: 1
+exchange: 2
+red: 4
+wordpress: 11
+go: 4
+sketchup: 40
+analytical skills: 7
+microsoft excel: 48
+word processing: 2
+powerpoint: 42
+word: 30
+agile: 11
+rapid: 9
+workshops: 3
+focus: 7
+microsoft office: 21
+fun: 10
+small: 13
+seo: 14
+3d modelling: 5
+bim: 6
+revit: 9
+cad: 16
+computer skills: 7
+adobe software: 8
+sketch up: 15
+visual identity: 1
+nice: 7
+unity: 6
+adobe xd: 10
+wan: 1
+acc: 2
+apex: 2
+e-commerce: 20
+web graphics: 3
+google analytics: 6
+sem: 2
+cool: 3
+adobe indesign: 3
+blockchain: 4
+maintenance: 12
+web pages: 3
+factor: 3
+chinese and english word processing: 1
+visual communication: 16
+make: 20
+wechat: 12
+java: 9
+react: 3
+safe: 6
+maya: 12
+3dmax: 8
+scratch: 2
+microsoft project: 4
+solidworks: 12
+design softwares: 4
+logo: 6
+web applications: 3
+shopify: 4
+pc platform: 1
+etabs: 1
+sap2000: 1
+processing: 5
+luxury industry: 1
+reason: 2
+briefings: 1
+php: 5
+typescript: 1
+python: 3
+animate: 2
+c++: 1
+matlab: 1
+documentation: 16
+acumen: 7
+chinese word processing: 10
+microsoft word: 15
+acrobat: 6
+pc applications: 2
+id: 1
+clips: 2
+creative design: 14
+web development: 5
+power point: 4
+translation: 3
+chinese input: 2
+mac os: 3
+office software: 2
+system design: 1
+azure: 2
+react native: 1
+integration: 2
+kotlin: 2
+devops: 1
+objective-c: 1
+aws: 1
+container: 1
+swift: 2
+code: 3
+android: 3
+adobe premiere: 7
+joy: 1
+mad: 2
+jquery: 3
+pc operations: 1
+outlook: 2
+c: 5
+web products: 1
+squarespace: 1
+office 365: 1
+scheme: 6
+pos: 4
+creative suite: 1
+r: 2
+ar: 3
+adwords: 1
+marco: 1
+bi: 1
+rpa: 1
+web services: 1
+crypto currency: 1
+microsoft powerpoint: 1
+adobe acrobat: 5
+ip: 3
+batch: 1
+pilot: 1
+writing skills: 7
+information system: 1
+cg: 3
+statistical analysis: 1
+technical analysis: 1
+six sigma: 1
+hardware: 1
+visual effects: 1
+amazon: 1
+dc: 2
+simple: 1
+inform: 1
+data mining: 1
+adobe cc: 1
+animation software: 1
+venture capital: 1
+crypto: 1
+io: 2
+chill: 1
+words: 3
+visual editing: 1
+harbour: 1
+dynamo: 1
+sfo: 2
+microsoft applications: 1
+hop: 1
+linux: 1
+educational projects: 1
+pc knowledge: 1
+fmcg industry: 1
+lean: 1

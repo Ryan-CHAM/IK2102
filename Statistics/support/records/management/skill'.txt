@@ -1,0 +1,97 @@
+r&d: 2
+microsoft excel: 24
+lean: 1
+plus: 16
+basic: 13
+analysis: 15
+word: 15
+writing skills: 1
+powerpoint: 13
+problem solving skills: 23
+six sigma: 1
+documentation: 3
+microsoft office suite: 16
+goal: 5
+acumen: 8
+project management: 17
+marco: 1
+dynamic: 12
+bi: 1
+microsoft office: 16
+vendor: 4
+tableau: 1
+c: 3
+outlook: 3
+microsoft word: 4
+facebook: 2
+processing: 1
+loan products: 2
+cpa: 4
+whatsapp: 3
+make: 6
+agile: 4
+fun: 2
+e-commerce: 3
+go: 4
+business management: 8
+focus: 5
+maintenance: 8
+hvac: 3
+bms: 2
+code: 4
+no: 15
+macro: 1
+chinese word processing: 5
+computer skills: 4
+microsoft powerpoint: 1
+planner: 2
+project management professional: 1
+rapid: 3
+pmp: 3
+presentation skill: 3
+acca: 4
+hkicpa: 5
+hy: 1
+power point: 3
+video editing: 1
+clips: 1
+photoshop: 3
+presentations: 4
+kyc: 1
+ai: 2
+safe: 2
+facilities management: 3
+analytical skills: 11
+marketing skills: 2
+help desk support: 1
+ms windows: 1
+hardware: 1
+accounting systems: 1
+dc: 1
+pc: 3
+adobe acrobat: 1
+pc operations: 2
+small: 1
+id: 2
+import and export: 1
+animal welfare: 1
+microsoft project: 1
+airlines: 1
+scheme: 5
+cfa: 8
+professional qualifications: 4
+hksi: 1
+inform: 1
+mobile: 3
+word processing: 1
+demand planning: 1
+in-design: 1
+illustrator: 2
+autocad: 2
+sketchup: 1
+green card: 1
+pearl: 1
+adobe photoshop: 1
+harbour: 1
+wan: 1
+iiqe: 1

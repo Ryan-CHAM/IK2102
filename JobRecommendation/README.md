@@ -1,5 +1,11 @@
 # Job Recommendation
 
+#### Workflow:
+1. *support/LanguageInfoGenerator.py* -> *support/language_info.json*
+2. *support/LocationInfoGenerator.py* -> *support/location_info.json*
+3. *support/result*, *support/same_hard_group.json*, *support/same_soft_group.json*, *support/language_info.json*, *support/location_info.json* -> *support/PreprocessingForJobRecomm.py* -> *support/data.json*
+4. *support/data.json* -> *JobRecommendation.py* -> *demo_results.xlsx*
+
 ## *demo_results.xlsx*
 ### This excel file is the output of the **Job Recommendation** demostration.
 

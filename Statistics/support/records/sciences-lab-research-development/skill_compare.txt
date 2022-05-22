@@ -1,0 +1,55 @@
+perl: 100.00%
+php: 100.00%
+solidworks: 100.00%
+fmcg industry: 100.00%
+presentation skill: 100.00%
+vba: 100.00%
+goal: 100.00%
+adobe illustrator: 100.00%
+mobile: 50.00%
+sap: 50.00%
+dynamic: 42.86%
+mouse: 40.00%
+workshops: 33.33%
+beta: 33.33%
+sql: 33.33%
+small: 33.33%
+linux: 28.57%
+code: 25.00%
+statistical analysis: 25.00%
+microsoft office: 25.00%
+agile: 25.00%
+typing: 20.00%
+pc knowledge: 20.00%
+animal handling: 20.00%
+pc: 20.00%
+safe: 16.67%
+plus: 15.09%
+r&d: 14.81%
+analysis: 14.29%
+pc applications: 14.29%
+whatsapp: 14.29%
+analytical skills: 12.50%
+animal work: 12.50%
+rapid: 12.50%
+chinese word processing: 12.12%
+microsoft word: 11.43%
+microsoft office suite: 11.29%
+python: 10.53%
+basic: 10.00%
+project management: 10.00%
+web: 10.00%
+c++: 10.00%
+problem solving skills: 9.59%
+programming: 9.52%
+scheme: 9.52%
+microsoft excel: 8.05%
+processing: 8.00%
+documentation: 8.00%
+r: 7.69%
+powerpoint: 6.12%
+no: 5.26%
+maintenance: 4.44%
+focus: 4.00%
+word: 4.00%
+c: 3.12%

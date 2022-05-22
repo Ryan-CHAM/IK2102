@@ -1,10 +1,10 @@
 '''
-This script generates **type_update.txt** and **type_compare.txt**.
+This script generates *type.txt* and *type_compare.txt* in *support/records*.
 Input:
     1. New database of jobs
-    2. *type.txt*
+    2. *type'.txt*
 Output:
-    1. *type_update.txt*
+    1. *type.txt*
     2. *type_compare.txt*
 '''
 
@@ -20,17 +20,17 @@ for i in range(len(jobs)):
 
 count = {}
 for i in range(len(data)):
-    for t in data[i]:
-        count[t] = count.get(t, 0) + 1
+    t = data[i]
+    count[t] = count.get(t, 0) + 1
 
-file = open("support/type_update.txt", 'w') 
+file = open("support/records/type.txt", 'w') 
 for k, v in count.items():
     file.write(str(k) + ': ' + str(v) + '\n')
 file.close()
 
 # load old record
 old_count = {}
-file = open("support/type.txt", 'r')
+file = open("support/records/type'.txt", 'r')
 for l in file.readlines():
     l = l.strip()
     k = l.split(': ')[0]
@@ -45,7 +45,7 @@ for k, v in count.items():
         compare_dict[k] = (count[k] - old_count[k]) / old_count[k]
 compare_list = sorted(compare_dict.items(), key=lambda x: x[1], reverse=True)
 
-file = open("support/type_compare.txt", 'w')
+file = open("support/records/type_compare.txt", 'w')
 for r in compare_list:
     file.write(r[0] + ': ' + ("%.2f" % (r[1] * 100)) + '%' + '\n')
 file.close()

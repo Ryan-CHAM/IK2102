@@ -1,0 +1,383 @@
+sales support: 6
+dns: 20
+tcp: 40
+switch: 21
+ccnp: 45
+ccna: 55
+router: 20
+ip: 51
+vpn: 25
+firewall: 57
+wan: 39
+infrastructure support: 11
+basic: 73
+maintenance: 112
+server administration: 13
+vendor: 69
+word: 54
+problem solving skills: 282
+hardware: 51
+os: 26
+dynamic: 54
+server: 162
+focus: 38
+windows server: 36
+microsoft excel: 87
+plus: 259
+bi: 55
+ai: 26
+sql: 190
+python: 134
+r: 17
+analysis: 170
+data management: 27
+linux: 123
+java: 180
+jenkins: 21
+web: 153
+php: 64
+mobile: 179
+javascript: 128
+react native: 25
+typescript: 18
+spring: 52
+angular: 37
+deployment: 48
+android: 49
+oracle: 89
+chinese word processing: 8
+microsoft office suite: 36
+react: 67
+devops: 51
+go: 17
+office 365: 13
+microsoft office: 24
+computer systems: 5
+information system: 47
+exchange: 26
+ar: 1
+e-commerce: 35
+unity: 4
+c#: 67
+swift: 23
+html: 76
+objective-c: 13
+programming: 170
+css: 75
+azure: 82
+active directory: 38
+hyper-v: 16
+vmware: 79
+sccm: 7
+aws: 107
+citrix: 9
+lync: 2
+mcse: 45
+lans: 1
+blockchain: 14
+crypto: 3
+c++: 33
+ajax: 18
+ms sql: 55
+vba: 16
+sas: 9
+data visualization: 30
+data warehouse: 21
+make: 37
+project management: 156
+databases: 43
+wordpress: 17
+ap: 7
+git: 46
+agile: 97
+aircraft systems: 1
+no: 43
+aircraft: 11
+presentations: 11
+documentation: 101
+seo: 22
+fun: 23
+web presence: 1
+microsoft word: 17
+network management: 10
+facebook: 8
+wi-fi: 9
+google analytics: 20
+data analytics: 48
+integration: 71
+android sdk: 5
+web application firewall: 2
+jcl: 3
+clist: 2
+mcsa: 8
+scheme: 29
+c: 39
+web api: 3
+analytical skills: 79
+web development: 44
+access points: 2
+cloud environment: 6
+microservices: 15
+business intelligence: 26
+ml: 4
+spark: 11
+system design: 32
+sla: 11
+powerpoint: 42
+presentation skill: 12
+powershell: 9
+kotlin: 33
+clean: 7
+ease: 2
+t-sql: 7
+code: 48
+ansible: 9
+hibernate: 15
+struts: 4
+jsf: 3
+verilog: 4
+vhdl: 3
+r&d: 5
+rpa: 10
+words: 1
+securities and futures ordinance: 1
+companies ordinance: 1
+translation: 2
+acumen: 18
+sdlc: 34
+vc: 4
+pc: 37
+euc: 3
+outlook: 10
+salesforce: 10
+nice: 13
+web apps: 4
+ms windows: 8
+professional qualifications: 13
+system upgrades: 2
+workshops: 18
+jquery: 35
+restful api: 23
+apache: 16
+unix shell: 4
+pl: 17
+sap: 28
+erp: 31
+cpa: 12
+o365: 28
+web applications: 15
+ms sql server: 13
+goal: 6
+pmp: 34
+visual basic: 7
+illustrator: 13
+photoshop: 14
+cyber security: 36
+anti-phishing: 1
+android development: 3
+id: 4
+network administration: 12
+tableau: 34
+database programming: 4
+itil: 52
+red hat: 7
+airports: 1
+perl: 10
+airlines: 16
+amazon web services: 2
+web application development: 20
+project management professional: 6
+wechat: 2
+hkicpa: 2
+system implementation: 16
+dc: 2
+server maintenance: 1
+writing skills: 18
+order processing: 3
+pos: 10
+microsoft applications: 3
+web solutions: 1
+visual design: 8
+rapid: 13
+web services: 9
+tea: 3
+red: 3
+computer skills: 23
+data mining: 11
+processing: 25
+web projects: 3
+web technologies: 7
+small: 15
+web & mobile: 5
+mobile device: 1
+web-based applications: 4
+foxpro: 2
+ifrs: 1
+analytics tools: 4
+sd-wan: 6
+hope: 6
+whatsapp: 7
+qlikview: 13
+mathematics: 4
+crypto currency: 3
+it technologies: 2
+erp systems: 12
+hkma: 8
+web application security: 3
+web project management: 1
+simple: 5
+data storage: 2
+management reports: 3
+chinese input: 2
+adobe xd: 10
+multimedia: 19
+power point: 2
+data network: 1
+iis: 4
+internal control: 6
+bash: 5
+csh: 1
+awk: 1
+gap: 4
+alteryx: 3
+web analytics: 2
+csp: 2
+financial analysis: 2
+publisher: 1
+virtualization technology: 6
+linux platforms: 3
+operation support: 5
+pipelines: 6
+scala: 8
+apex: 3
+ruby: 2
+ecc: 1
+batch: 5
+microsoft sql server: 5
+adobe: 13
+application server: 3
+dart: 1
+safe: 12
+migration strategies: 1
+cisco certified network associate: 3
+adobe illustrator: 4
+chinese wp: 1
+business management: 8
+web-based software development: 1
+shopify: 7
+android studio: 1
+reason: 3
+nas: 4
+it knowledge: 6
+web framework: 2
+macro: 4
+application system: 11
+technical analysis: 5
+service level agreement: 1
+s3: 5
+3d modelling: 1
+web design: 15
+web pages: 3
+factor: 1
+cics: 4
+cobol: 3
+security management: 10
+accounting systems: 1
+ruby on rails: 1
+container: 8
+cuda: 2
+lcc: 10
+adwords: 3
+typing: 1
+cctv: 1
+green card: 4
+autocad: 5
+web server: 5
+adobe indesign: 2
+harbour: 1
+premiere: 1
+after effects: 3
+hksi: 2
+exec: 1
+amazon web services (aws): 1
+security personnel permit: 1
+statistical analysis: 1
+adobe creative suite: 5
+microsoft exchange: 4
+sac: 1
+abap: 5
+pcf: 1
+io: 2
+delphi: 2
+microsoft powerpoint: 1
+hong kong employment ordinance: 1
+public cloud platforms: 4
+animate: 1
+problem solving capabilities: 1
+labview: 1
+signal: 4
+adobe photoshop: 6
+video editing: 2
+cad: 3
+web hosting: 1
+pivot table: 2
+vlookup: 2
+remote support: 1
+windows 10: 3
+lean: 4
+six sigma: 3
+mac os: 1
+3d software: 1
+dynamo: 1
+focal: 6
+system scripting: 1
+cisco switch: 1
+fms: 1
+windows 7: 3
+sem: 4
+adobe cs: 1
+graphics: 3
+inform: 3
+computing platforms: 3
+airworthiness: 1
+aircraft maintenance: 1
+airframe: 1
+in-design: 1
+pos system: 2
+tcl: 2
+matlab: 2
+oracle erp: 1
+reporting systems: 1
+customer journeys: 1
+tmg: 1
+dreamweaver: 2
+dbms: 2
+unified communication: 1
+amazon: 3
+scratch: 2
+basic it knowledge: 1
+flash: 2
+scrum framework: 1
+gpo: 1
+airflow: 2
+antivirus: 2
+odbc: 1
+vs: 1
+kyc: 1
+hkis: 1
+assembly language: 1
+solidity: 2
+wireless protocols: 2
+database monitoring: 1
+web standards: 1
+printers: 1
+rust: 1
+groovy: 1
+apt: 1
+huawei cloud: 1
+xl: 1
+web-based systems: 1
+vmare: 1
+powerbuilder: 1
+creative design: 1
+account opening: 1

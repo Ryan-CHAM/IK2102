@@ -1,0 +1,84 @@
+inform: 100.00%
+red: 100.00%
+management reports: 100.00%
+tcp: 100.00%
+deployment: 100.00%
+azure: 100.00%
+acca: 100.00%
+chill: 100.00%
+whatsapp: 100.00%
+firewall: 100.00%
+exchange: 80.00%
+r&d: 75.00%
+gap: 66.67%
+ip: 66.67%
+autocad: 66.67%
+service level agreement: 50.00%
+chinese wp: 50.00%
+acc: 50.00%
+hardware: 50.00%
+logo: 50.00%
+garment industry: 50.00%
+wan: 50.00%
+bi: 50.00%
+cpa: 50.00%
+x10: 50.00%
+no: 50.00%
+fmcg industry: 50.00%
+words: 50.00%
+vmware: 50.00%
+acumen: 44.44%
+sap: 43.75%
+photoshop: 38.46%
+erp systems: 36.36%
+bloomberg: 33.33%
+office software: 33.33%
+adobe illustrator: 33.33%
+planner: 33.33%
+sr: 33.33%
+professional qualifications: 33.33%
+small: 30.77%
+word: 30.00%
+pc knowledge: 28.57%
+pc applications: 25.00%
+react: 25.00%
+order processing: 25.00%
+fun: 25.00%
+visual merchandising: 25.00%
+mobile: 25.00%
+vs: 25.00%
+pc operations: 25.00%
+web: 25.00%
+project management: 23.33%
+chinese word processing: 22.45%
+outlook: 21.62%
+computer skills: 20.45%
+goal: 20.00%
+presentation skill: 20.00%
+erp: 20.00%
+typing: 20.00%
+microsoft excel: 19.72%
+problem solving skills: 18.99%
+scheme: 18.75%
+vendor: 18.42%
+analysis: 18.00%
+plus: 17.86%
+microsoft office: 17.24%
+maintenance: 16.67%
+pivot table: 16.67%
+facebook: 16.67%
+analytical skills: 16.33%
+microsoft office suite: 15.97%
+powerpoint: 15.79%
+microsoft word: 15.38%
+focus: 15.38%
+make: 14.29%
+processing: 14.29%
+pc: 13.33%
+presentations: 12.50%
+basic: 10.00%
+documentation: 9.09%
+business management: 7.14%
+power point: 7.14%
+vlookup: 5.56%
+dynamic: 5.00%

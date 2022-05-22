@@ -1,0 +1,61 @@
+id: 100.00%
+autocad: 100.00%
+nice: 100.00%
+react: 100.00%
+salesforce: 100.00%
+system implementation: 100.00%
+acca: 100.00%
+hkicpa: 100.00%
+illustration: 100.00%
+business software: 100.00%
+words: 83.33%
+vendor: 66.67%
+word processing: 57.14%
+translation: 50.00%
+presentations: 50.00%
+presentation skill: 50.00%
+databases: 50.00%
+charity: 33.33%
+pc: 33.33%
+sap: 33.33%
+pc applications: 33.33%
+ai: 33.33%
+lean: 33.33%
+pc knowledge: 32.00%
+documentation: 30.00%
+ipl: 25.00%
+acumen: 25.00%
+outlook: 24.24%
+hong kong employment ordinance: 21.43%
+sizable companies: 20.00%
+microsoft applications: 20.00%
+fun: 20.00%
+writing skills: 16.67%
+scheme: 16.67%
+microsoft excel: 16.61%
+problem solving skills: 16.07%
+powerpoint: 15.54%
+microsoft office suite: 15.50%
+make: 15.00%
+processing: 15.00%
+word: 14.96%
+photoshop: 14.29%
+microsoft word: 14.14%
+chinese word processing: 14.12%
+basic: 13.33%
+mpf regulations: 12.50%
+vlookup: 12.50%
+dynamic: 12.20%
+project management: 12.12%
+plus: 11.54%
+computer skills: 11.43%
+maintenance: 10.53%
+pivot table: 10.00%
+c: 9.09%
+analytical skills: 9.09%
+information system: 9.09%
+microsoft office: 8.47%
+business management: 7.69%
+typing: 7.14%
+small: 6.67%
+analysis: 6.45%

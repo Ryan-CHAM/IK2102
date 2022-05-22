@@ -1,0 +1,38 @@
+accounting systems: 100.00%
+planner: 100.00%
+financial analysis: 100.00%
+presentations: 100.00%
+pmp: 100.00%
+microsoft office: 66.67%
+scheme: 66.67%
+iiqe: 55.56%
+nice: 50.00%
+whatsapp: 50.00%
+basic: 50.00%
+numerical skills: 50.00%
+aml: 50.00%
+project management: 42.86%
+typing: 40.00%
+data analytics: 33.33%
+data management: 33.33%
+plc: 33.33%
+make: 29.41%
+microsoft office suite: 29.27%
+microsoft word: 29.17%
+no: 25.00%
+outlook: 25.00%
+pc literate: 25.00%
+iiqe paper: 23.08%
+chinese word processing: 22.22%
+professional qualifications: 22.22%
+microsoft excel: 21.33%
+pc: 20.00%
+pc applications: 20.00%
+powerpoint: 19.05%
+analysis: 16.67%
+problem solving skills: 15.62%
+computer skills: 13.89%
+processing: 13.33%
+analytical skills: 12.50%
+dynamic: 12.50%
+word: 9.09%

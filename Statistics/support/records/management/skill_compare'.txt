@@ -1,0 +1,38 @@
+e-commerce: 200.00%
+presentation skill: 200.00%
+mobile: 200.00%
+scheme: 150.00%
+cpa: 100.00%
+acca: 100.00%
+presentations: 100.00%
+marketing skills: 100.00%
+pc operations: 100.00%
+id: 100.00%
+cfa: 100.00%
+professional qualifications: 100.00%
+illustrator: 100.00%
+basic: 85.71%
+goal: 66.67%
+no: 66.67%
+hkicpa: 66.67%
+acumen: 60.00%
+microsoft office: 60.00%
+microsoft excel: 50.00%
+hvac: 50.00%
+power point: 50.00%
+word: 36.36%
+dynamic: 33.33%
+microsoft word: 33.33%
+agile: 33.33%
+code: 33.33%
+focus: 25.00%
+chinese word processing: 25.00%
+plus: 23.08%
+problem solving skills: 21.05%
+make: 20.00%
+powerpoint: 18.18%
+business management: 14.29%
+analytical skills: 10.00%
+analysis: 7.14%
+microsoft office suite: 6.67%
+project management: 6.25%
