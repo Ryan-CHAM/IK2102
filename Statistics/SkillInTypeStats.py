@@ -20,7 +20,7 @@ jobs = pd.read_json("support/data.json")
 # record new data
 data = []
 for i in range(len(jobs)):
-    if selected_type == 'all' or jobs['tier-1_type'][i] == selected_type:  # also works for tier-2 types
+    if selected_type == 'all' or jobs['tier-1_type'][i] == selected_type:
         data.append(jobs['requirements'][i]['hard_skills'])
 
 count = {}
@@ -28,7 +28,7 @@ for i in range(len(data)):
     for s in data[i]:
         count[s] = count.get(s, 0) + 1
 
-file = open("support/records/" + selected_type + "/skill.txt", 'w') 
+file = open("support/records/" + selected_type + "/skill.txt", 'w')
 for k, v in count.items():
     file.write(str(k) + ': ' + str(v) + '\n')
 file.close()
@@ -48,9 +48,9 @@ compare_dict = {}
 for k, v in count.items():
     if k in old_count and count[k] != old_count[k]:
         compare_dict[k] = (count[k] - old_count[k]) / old_count[k]
-compare_list = sorted(compare_dict.items(), key=lambda x: x[1], reverse=True)
+compare_rank = sorted(compare_dict.items(), key=lambda x: x[1], reverse=True)
 
 file = open("support/records/" + selected_type + "/skill_compare.txt", 'w')
-for r in compare_list:
+for r in compare_rank:
     file.write(r[0] + ': ' + ("%.2f" % (r[1] * 100)) + '%' + '\n')
 file.close()

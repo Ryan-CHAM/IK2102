@@ -5,7 +5,7 @@
 #### Functions:
 1. Skill Recommendation
 2. Occupation Transition
-3. Salary Estimation
+3. Salary Estimation (Not finished)
 
 ## *JobRecommendation*
 ### This directory includes our primary function, i.e., job recommendation, as well as preprocessing of raw data.

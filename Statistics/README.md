@@ -54,9 +54,6 @@
 ## *support*
 ### This directory includes the input and output of the scripts.
 
-## *TimeStampUpdate.py*
-### This script changes the time stamps of output files before tracking.
-
 ## *TypeStats.py*
 ### This script generates *type.txt* and *type_compare.txt* in *support/records*.
 #### Input:

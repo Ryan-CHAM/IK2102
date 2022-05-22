@@ -23,7 +23,7 @@ for i in range(len(data)):
     t = data[i]
     count[t] = count.get(t, 0) + 1
 
-file = open("support/records/type.txt", 'w') 
+file = open("support/records/type.txt", 'w')
 for k, v in count.items():
     file.write(str(k) + ': ' + str(v) + '\n')
 file.close()
@@ -43,9 +43,9 @@ compare_dict = {}
 for k, v in count.items():
     if k in old_count and count[k] != old_count[k]:
         compare_dict[k] = (count[k] - old_count[k]) / old_count[k]
-compare_list = sorted(compare_dict.items(), key=lambda x: x[1], reverse=True)
+compare_rank = sorted(compare_dict.items(), key=lambda x: x[1], reverse=True)
 
 file = open("support/records/type_compare.txt", 'w')
-for r in compare_list:
+for r in compare_rank:
     file.write(r[0] + ': ' + ("%.2f" % (r[1] * 100)) + '%' + '\n')
 file.close()

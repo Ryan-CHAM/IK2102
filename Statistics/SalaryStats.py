@@ -15,13 +15,11 @@ selected_type = input("Please enter the type: ")
 
 # TODO: insert real data instead of demo data below
 jobs = pd.read_json("support/data.json")
-if selected_type != 'all':
-    jobs = jobs.groupby('tier-1_type').get_group(selected_type)  # also works for tier-2 types
 
 # read data
 data = []
 for i in range(len(jobs)):
-    if jobs['salary_visible'][i]:
+    if jobs['salary_visible'][i] and (selected_type == 'all' or jobs['tier-1_type'][i] == selected_type):
         data.append((jobs['salary'][i]['max'], jobs['salary'][i]['min']))
 
 # process data
